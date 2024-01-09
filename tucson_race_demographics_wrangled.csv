@@ -1,0 +1,6202 @@
+neighborhood,rec_id,year,population
+A Mountain,WHITE,2019,1443
+A Mountain,BLACK,2019,316
+A Mountain,AMERIND,2019,227
+A Mountain,ASIAN,2019,68
+A Mountain,PACIFIC,2019,3
+A Mountain,OTHRACE,2019,1236
+A Mountain,RACE2UP,2019,155
+A Mountain,HISPPOP,2019,2638
+A Mountain,MINORITY,2019,3164
+A Mountain,WHITE,2010,1451
+A Mountain,BLACK,2010,318
+A Mountain,AMERIND,2010,223
+A Mountain,ASIAN,2010,62
+A Mountain,PACIFIC,2010,3
+A Mountain,OTHRACE,2010,1137
+A Mountain,RACE2UP,2010,148
+A Mountain,HISPPOP,2010,2465
+A Mountain,MINORITY,2010,2990
+A Mountain,DIVINDX,2010,87.6
+A Mountain,HISPWHT,2019,1159
+A Mountain,HISPBLK,2019,17
+A Mountain,HISPAI,2019,114
+A Mountain,HISPASN,2019,8
+A Mountain,HISPPI,2019,0
+A Mountain,HISPOTH,2019,1226
+A Mountain,HISPMLT,2019,114
+A Mountain,HWHITE,2010,1099
+A Mountain,HBLACK,2010,16
+A Mountain,HAMERIND,2010,108
+A Mountain,HASIAN,2010,8
+A Mountain,HPACIFIC,2010,0
+A Mountain,HOTHRACE,2010,1125
+A Mountain,HRACE2UP,2010,109
+A Mountain,HRACEBAS,2010,2465
+A Mountain,H1RACE,2010,2356
+A Mountain,HADRBASE,2010,1546
+A Mountain,HAD1RACE,2010,1486
+A Mountain,U18RBASE,2010,1095
+A Mountain,NONHISP,2019,810
+Adelanto,WHITE,2019,123
+Adelanto,BLACK,2019,43
+Adelanto,AMERIND,2019,106
+Adelanto,ASIAN,2019,5
+Adelanto,PACIFIC,2019,0
+Adelanto,OTHRACE,2019,92
+Adelanto,RACE2UP,2019,20
+Adelanto,HISPPOP,2019,218
+Adelanto,MINORITY,2019,348
+Adelanto,WHITE,2010,124
+Adelanto,BLACK,2010,42
+Adelanto,AMERIND,2010,103
+Adelanto,ASIAN,2010,4
+Adelanto,PACIFIC,2010,0
+Adelanto,OTHRACE,2010,81
+Adelanto,RACE2UP,2010,18
+Adelanto,HISPPOP,2010,197
+Adelanto,MINORITY,2010,324
+Adelanto,DIVINDX,2010,90
+Adelanto,HISPWHT,2019,82
+Adelanto,HISPBLK,2019,3
+Adelanto,HISPAI,2019,30
+Adelanto,HISPASN,2019,0
+Adelanto,HISPPI,2019,0
+Adelanto,HISPOTH,2019,91
+Adelanto,HISPMLT,2019,12
+Adelanto,HWHITE,2010,75
+Adelanto,HBLACK,2010,3
+Adelanto,HAMERIND,2010,27
+Adelanto,HASIAN,2010,0
+Adelanto,HPACIFIC,2010,0
+Adelanto,HOTHRACE,2010,81
+Adelanto,HRACE2UP,2010,11
+Adelanto,HRACEBAS,2010,197
+Adelanto,H1RACE,2010,186
+Adelanto,HADRBASE,2010,128
+Adelanto,HAD1RACE,2010,123
+Adelanto,U18RBASE,2010,137
+Adelanto,NONHISP,2019,171
+Alvernon Heights,WHITE,2019,186
+Alvernon Heights,BLACK,2019,31
+Alvernon Heights,AMERIND,2019,7
+Alvernon Heights,ASIAN,2019,7
+Alvernon Heights,PACIFIC,2019,1
+Alvernon Heights,OTHRACE,2019,67
+Alvernon Heights,RACE2UP,2019,21
+Alvernon Heights,HISPPOP,2019,201
+Alvernon Heights,MINORITY,2019,246
+Alvernon Heights,WHITE,2010,185
+Alvernon Heights,BLACK,2010,29
+Alvernon Heights,AMERIND,2010,7
+Alvernon Heights,ASIAN,2010,6
+Alvernon Heights,PACIFIC,2010,1
+Alvernon Heights,OTHRACE,2010,57
+Alvernon Heights,RACE2UP,2010,19
+Alvernon Heights,HISPPOP,2010,177
+Alvernon Heights,MINORITY,2010,219
+Alvernon Heights,DIVINDX,2010,80.5
+Alvernon Heights,HISPWHT,2019,113
+Alvernon Heights,HISPBLK,2019,4
+Alvernon Heights,HISPAI,2019,2
+Alvernon Heights,HISPASN,2019,2
+Alvernon Heights,HISPPI,2019,0
+Alvernon Heights,HISPOTH,2019,67
+Alvernon Heights,HISPMLT,2019,13
+Alvernon Heights,HWHITE,2010,100
+Alvernon Heights,HBLACK,2010,4
+Alvernon Heights,HAMERIND,2010,2
+Alvernon Heights,HASIAN,2010,2
+Alvernon Heights,HPACIFIC,2010,0
+Alvernon Heights,HOTHRACE,2010,57
+Alvernon Heights,HRACE2UP,2010,12
+Alvernon Heights,HRACEBAS,2010,177
+Alvernon Heights,H1RACE,2010,164
+Alvernon Heights,HADRBASE,2010,109
+Alvernon Heights,HAD1RACE,2010,103
+Alvernon Heights,U18RBASE,2010,97
+Alvernon Heights,NONHISP,2019,119
+Amphi,WHITE,2019,3967
+Amphi,BLACK,2019,612
+Amphi,AMERIND,2019,314
+Amphi,ASIAN,2019,469
+Amphi,PACIFIC,2019,26
+Amphi,OTHRACE,2019,1579
+Amphi,RACE2UP,2019,495
+Amphi,HISPPOP,2019,3898
+Amphi,MINORITY,2019,5380
+Amphi,WHITE,2010,4229
+Amphi,BLACK,2010,602
+Amphi,AMERIND,2010,307
+Amphi,ASIAN,2010,425
+Amphi,PACIFIC,2010,24
+Amphi,OTHRACE,2010,1408
+Amphi,RACE2UP,2010,467
+Amphi,HISPPOP,2010,3539
+Amphi,MINORITY,2010,4959
+Amphi,DIVINDX,2010,83.3
+Amphi,HISPWHT,2019,1883
+Amphi,HISPBLK,2019,79
+Amphi,HISPAI,2019,121
+Amphi,HISPASN,2019,5
+Amphi,HISPPI,2019,6
+Amphi,HISPOTH,2019,1571
+Amphi,HISPMLT,2019,233
+Amphi,HWHITE,2010,1727
+Amphi,HBLACK,2010,71
+Amphi,HAMERIND,2010,114
+Amphi,HASIAN,2010,5
+Amphi,HPACIFIC,2010,6
+Amphi,HOTHRACE,2010,1399
+Amphi,HRACE2UP,2010,217
+Amphi,HRACEBAS,2010,3539
+Amphi,H1RACE,2010,3322
+Amphi,HADRBASE,2010,2284
+Amphi,HAD1RACE,2010,2181
+Amphi,U18RBASE,2010,2030
+Amphi,NONHISP,2019,3566
+Armory Park,WHITE,2019,1411
+Armory Park,BLACK,2019,66
+Armory Park,AMERIND,2019,61
+Armory Park,ASIAN,2019,41
+Armory Park,PACIFIC,2019,3
+Armory Park,OTHRACE,2019,229
+Armory Park,RACE2UP,2019,113
+Armory Park,HISPPOP,2019,776
+Armory Park,MINORITY,2019,958
+Armory Park,WHITE,2010,1394
+Armory Park,BLACK,2010,56
+Armory Park,AMERIND,2010,52
+Armory Park,ASIAN,2010,32
+Armory Park,PACIFIC,2010,2
+Armory Park,OTHRACE,2010,185
+Armory Park,RACE2UP,2010,92
+Armory Park,HISPPOP,2010,637
+Armory Park,MINORITY,2010,788
+Armory Park,DIVINDX,2010,67.7
+Armory Park,HISPWHT,2019,445
+Armory Park,HISPBLK,2019,8
+Armory Park,HISPAI,2019,32
+Armory Park,HISPASN,2019,2
+Armory Park,HISPPI,2019,3
+Armory Park,HISPOTH,2019,225
+Armory Park,HISPMLT,2019,61
+Armory Park,HWHITE,2010,369
+Armory Park,HBLACK,2010,7
+Armory Park,HAMERIND,2010,26
+Armory Park,HASIAN,2010,2
+Armory Park,HPACIFIC,2010,2
+Armory Park,HOTHRACE,2010,181
+Armory Park,HRACE2UP,2010,49
+Armory Park,HRACEBAS,2010,636
+Armory Park,H1RACE,2010,588
+Armory Park,HADRBASE,2010,521
+Armory Park,HAD1RACE,2010,490
+Armory Park,U18RBASE,2010,198
+Armory Park,NONHISP,2019,1148
+Arroyo Chico,WHITE,2019,2060
+Arroyo Chico,BLACK,2019,107
+Arroyo Chico,AMERIND,2019,78
+Arroyo Chico,ASIAN,2019,66
+Arroyo Chico,PACIFIC,2019,7
+Arroyo Chico,OTHRACE,2019,511
+Arroyo Chico,RACE2UP,2019,180
+Arroyo Chico,HISPPOP,2019,1614
+Arroyo Chico,MINORITY,2019,1900
+Arroyo Chico,WHITE,2010,2081
+Arroyo Chico,BLACK,2010,97
+Arroyo Chico,AMERIND,2010,70
+Arroyo Chico,ASIAN,2010,55
+Arroyo Chico,PACIFIC,2010,7
+Arroyo Chico,OTHRACE,2010,443
+Arroyo Chico,RACE2UP,2010,163
+Arroyo Chico,HISPPOP,2010,1420
+Arroyo Chico,MINORITY,2010,1676
+Arroyo Chico,DIVINDX,2010,74.4
+Arroyo Chico,HISPWHT,2019,952
+Arroyo Chico,HISPBLK,2019,6
+Arroyo Chico,HISPAI,2019,32
+Arroyo Chico,HISPASN,2019,4
+Arroyo Chico,HISPPI,2019,2
+Arroyo Chico,HISPOTH,2019,504
+Arroyo Chico,HISPMLT,2019,115
+Arroyo Chico,HWHITE,2010,841
+Arroyo Chico,HBLACK,2010,5
+Arroyo Chico,HAMERIND,2010,28
+Arroyo Chico,HASIAN,2010,3
+Arroyo Chico,HPACIFIC,2010,2
+Arroyo Chico,HOTHRACE,2010,434
+Arroyo Chico,HRACE2UP,2010,105
+Arroyo Chico,HRACEBAS,2010,1418
+Arroyo Chico,H1RACE,2010,1315
+Arroyo Chico,HADRBASE,2010,1048
+Arroyo Chico,HAD1RACE,2010,986
+Arroyo Chico,U18RBASE,2010,572
+Arroyo Chico,NONHISP,2019,1395
+Avondale,WHITE,2019,1141
+Avondale,BLACK,2019,122
+Avondale,AMERIND,2019,51
+Avondale,ASIAN,2019,39
+Avondale,PACIFIC,2019,2
+Avondale,OTHRACE,2019,162
+Avondale,RACE2UP,2019,119
+Avondale,HISPPOP,2019,516
+Avondale,MINORITY,2019,762
+Avondale,WHITE,2010,1121
+Avondale,BLACK,2010,105
+Avondale,AMERIND,2010,41
+Avondale,ASIAN,2010,31
+Avondale,PACIFIC,2010,2
+Avondale,OTHRACE,2010,126
+Avondale,RACE2UP,2010,96
+Avondale,HISPPOP,2010,407
+Avondale,MINORITY,2010,613
+Avondale,DIVINDX,2010,66.6
+Avondale,HISPWHT,2019,266
+Avondale,HISPBLK,2019,9
+Avondale,HISPAI,2019,32
+Avondale,HISPASN,2019,4
+Avondale,HISPPI,2019,0
+Avondale,HISPOTH,2019,158
+Avondale,HISPMLT,2019,46
+Avondale,HWHITE,2010,212
+Avondale,HBLACK,2010,7
+Avondale,HAMERIND,2010,25
+Avondale,HASIAN,2010,4
+Avondale,HPACIFIC,2010,0
+Avondale,HOTHRACE,2010,121
+Avondale,HRACE2UP,2010,37
+Avondale,HRACEBAS,2010,406
+Avondale,H1RACE,2010,370
+Avondale,HADRBASE,2010,276
+Avondale,HAD1RACE,2010,261
+Avondale,U18RBASE,2010,299
+Avondale,NONHISP,2019,1121
+Balboa Heights,WHITE,2019,787
+Balboa Heights,BLACK,2019,88
+Balboa Heights,AMERIND,2019,92
+Balboa Heights,ASIAN,2019,84
+Balboa Heights,PACIFIC,2019,2
+Balboa Heights,OTHRACE,2019,394
+Balboa Heights,RACE2UP,2019,99
+Balboa Heights,HISPPOP,2019,869
+Balboa Heights,MINORITY,2019,1147
+Balboa Heights,WHITE,2010,747
+Balboa Heights,BLACK,2010,78
+Balboa Heights,AMERIND,2010,78
+Balboa Heights,ASIAN,2010,63
+Balboa Heights,PACIFIC,2010,2
+Balboa Heights,OTHRACE,2010,313
+Balboa Heights,RACE2UP,2010,81
+Balboa Heights,HISPPOP,2010,699
+Balboa Heights,MINORITY,2010,933
+Balboa Heights,DIVINDX,2010,84.5
+Balboa Heights,HISPWHT,2019,388
+Balboa Heights,HISPBLK,2019,9
+Balboa Heights,HISPAI,2019,30
+Balboa Heights,HISPASN,2019,0
+Balboa Heights,HISPPI,2019,1
+Balboa Heights,HISPOTH,2019,393
+Balboa Heights,HISPMLT,2019,47
+Balboa Heights,HWHITE,2010,317
+Balboa Heights,HBLACK,2010,7
+Balboa Heights,HAMERIND,2010,24
+Balboa Heights,HASIAN,2010,0
+Balboa Heights,HPACIFIC,2010,1
+Balboa Heights,HOTHRACE,2010,311
+Balboa Heights,HRACE2UP,2010,38
+Balboa Heights,HRACEBAS,2010,698
+Balboa Heights,H1RACE,2010,661
+Balboa Heights,HADRBASE,2010,457
+Balboa Heights,HAD1RACE,2010,437
+Balboa Heights,U18RBASE,2010,349
+Balboa Heights,NONHISP,2019,677
+Barrio Anita,WHITE,2019,207
+Barrio Anita,BLACK,2019,10
+Barrio Anita,AMERIND,2019,29
+Barrio Anita,ASIAN,2019,6
+Barrio Anita,PACIFIC,2019,0
+Barrio Anita,OTHRACE,2019,98
+Barrio Anita,RACE2UP,2019,21
+Barrio Anita,HISPPOP,2019,231
+Barrio Anita,MINORITY,2019,267
+Barrio Anita,WHITE,2010,231
+Barrio Anita,BLACK,2010,10
+Barrio Anita,AMERIND,2010,29
+Barrio Anita,ASIAN,2010,5
+Barrio Anita,PACIFIC,2010,0
+Barrio Anita,OTHRACE,2010,92
+Barrio Anita,RACE2UP,2010,21
+Barrio Anita,HISPPOP,2010,221
+Barrio Anita,MINORITY,2010,256
+Barrio Anita,DIVINDX,2010,81.7
+Barrio Anita,HISPWHT,2019,102
+Barrio Anita,HISPBLK,2019,3
+Barrio Anita,HISPAI,2019,12
+Barrio Anita,HISPASN,2019,0
+Barrio Anita,HISPPI,2019,0
+Barrio Anita,HISPOTH,2019,97
+Barrio Anita,HISPMLT,2019,17
+Barrio Anita,HWHITE,2010,99
+Barrio Anita,HBLACK,2010,3
+Barrio Anita,HAMERIND,2010,12
+Barrio Anita,HASIAN,2010,0
+Barrio Anita,HPACIFIC,2010,0
+Barrio Anita,HOTHRACE,2010,91
+Barrio Anita,HRACE2UP,2010,16
+Barrio Anita,HRACEBAS,2010,221
+Barrio Anita,H1RACE,2010,205
+Barrio Anita,HADRBASE,2010,150
+Barrio Anita,HAD1RACE,2010,144
+Barrio Anita,U18RBASE,2010,95
+Barrio Anita,NONHISP,2019,140
+Barrio Blue Moon,WHITE,2019,510
+Barrio Blue Moon,BLACK,2019,72
+Barrio Blue Moon,AMERIND,2019,69
+Barrio Blue Moon,ASIAN,2019,20
+Barrio Blue Moon,PACIFIC,2019,3
+Barrio Blue Moon,OTHRACE,2019,229
+Barrio Blue Moon,RACE2UP,2019,53
+Barrio Blue Moon,HISPPOP,2019,524
+Barrio Blue Moon,MINORITY,2019,672
+Barrio Blue Moon,WHITE,2010,574
+Barrio Blue Moon,BLACK,2010,72
+Barrio Blue Moon,AMERIND,2010,69
+Barrio Blue Moon,ASIAN,2010,19
+Barrio Blue Moon,PACIFIC,2010,3
+Barrio Blue Moon,OTHRACE,2010,214
+Barrio Blue Moon,RACE2UP,2010,52
+Barrio Blue Moon,HISPPOP,2010,498
+Barrio Blue Moon,MINORITY,2010,648
+Barrio Blue Moon,DIVINDX,2010,83.1
+Barrio Blue Moon,HISPWHT,2019,227
+Barrio Blue Moon,HISPBLK,2019,13
+Barrio Blue Moon,HISPAI,2019,30
+Barrio Blue Moon,HISPASN,2019,2
+Barrio Blue Moon,HISPPI,2019,1
+Barrio Blue Moon,HISPOTH,2019,226
+Barrio Blue Moon,HISPMLT,2019,26
+Barrio Blue Moon,HWHITE,2010,219
+Barrio Blue Moon,HBLACK,2010,12
+Barrio Blue Moon,HAMERIND,2010,29
+Barrio Blue Moon,HASIAN,2010,2
+Barrio Blue Moon,HPACIFIC,2010,1
+Barrio Blue Moon,HOTHRACE,2010,210
+Barrio Blue Moon,HRACE2UP,2010,26
+Barrio Blue Moon,HRACEBAS,2010,499
+Barrio Blue Moon,H1RACE,2010,473
+Barrio Blue Moon,HADRBASE,2010,358
+Barrio Blue Moon,HAD1RACE,2010,343
+Barrio Blue Moon,U18RBASE,2010,172
+Barrio Blue Moon,NONHISP,2019,432
+Barrio Centro,WHITE,2019,677
+Barrio Centro,BLACK,2019,51
+Barrio Centro,AMERIND,2019,40
+Barrio Centro,ASIAN,2019,20
+Barrio Centro,PACIFIC,2019,7
+Barrio Centro,OTHRACE,2019,248
+Barrio Centro,RACE2UP,2019,73
+Barrio Centro,HISPPOP,2019,776
+Barrio Centro,MINORITY,2019,899
+Barrio Centro,WHITE,2010,679
+Barrio Centro,BLACK,2010,50
+Barrio Centro,AMERIND,2010,38
+Barrio Centro,ASIAN,2010,18
+Barrio Centro,PACIFIC,2010,7
+Barrio Centro,OTHRACE,2010,220
+Barrio Centro,RACE2UP,2010,68
+Barrio Centro,HISPPOP,2010,704
+Barrio Centro,MINORITY,2010,822
+Barrio Centro,DIVINDX,2010,78.3
+Barrio Centro,HISPWHT,2019,460
+Barrio Centro,HISPBLK,2019,5
+Barrio Centro,HISPAI,2019,16
+Barrio Centro,HISPASN,2019,3
+Barrio Centro,HISPPI,2019,0
+Barrio Centro,HISPOTH,2019,245
+Barrio Centro,HISPMLT,2019,47
+Barrio Centro,HWHITE,2010,421
+Barrio Centro,HBLACK,2010,4
+Barrio Centro,HAMERIND,2010,15
+Barrio Centro,HASIAN,2010,3
+Barrio Centro,HPACIFIC,2010,0
+Barrio Centro,HOTHRACE,2010,218
+Barrio Centro,HRACE2UP,2010,44
+Barrio Centro,HRACEBAS,2010,705
+Barrio Centro,H1RACE,2010,660
+Barrio Centro,HADRBASE,2010,517
+Barrio Centro,HAD1RACE,2010,488
+Barrio Centro,U18RBASE,2010,255
+Barrio Centro,NONHISP,2019,340
+Barrio Hollywood,WHITE,2019,1373
+Barrio Hollywood,BLACK,2019,35
+Barrio Hollywood,AMERIND,2019,154
+Barrio Hollywood,ASIAN,2019,18
+Barrio Hollywood,PACIFIC,2019,3
+Barrio Hollywood,OTHRACE,2019,910
+Barrio Hollywood,RACE2UP,2019,118
+Barrio Hollywood,HISPPOP,2019,2317
+Barrio Hollywood,MINORITY,2019,2447
+Barrio Hollywood,WHITE,2010,1566
+Barrio Hollywood,BLACK,2010,39
+Barrio Hollywood,AMERIND,2010,175
+Barrio Hollywood,ASIAN,2010,18
+Barrio Hollywood,PACIFIC,2010,3
+Barrio Hollywood,OTHRACE,2010,967
+Barrio Hollywood,RACE2UP,2010,132
+Barrio Hollywood,HISPPOP,2010,2516
+Barrio Hollywood,MINORITY,2010,2664
+Barrio Hollywood,DIVINDX,2010,77.2
+Barrio Hollywood,HISPWHT,2019,1209
+Barrio Hollywood,HISPBLK,2019,19
+Barrio Hollywood,HISPAI,2019,81
+Barrio Hollywood,HISPASN,2019,1
+Barrio Hollywood,HISPPI,2019,1
+Barrio Hollywood,HISPOTH,2019,909
+Barrio Hollywood,HISPMLT,2019,97
+Barrio Hollywood,HWHITE,2010,1330
+Barrio Hollywood,HBLACK,2010,20
+Barrio Hollywood,HAMERIND,2010,89
+Barrio Hollywood,HASIAN,2010,1
+Barrio Hollywood,HPACIFIC,2010,1
+Barrio Hollywood,HOTHRACE,2010,966
+Barrio Hollywood,HRACE2UP,2010,109
+Barrio Hollywood,HRACEBAS,2010,2516
+Barrio Hollywood,H1RACE,2010,2407
+Barrio Hollywood,HADRBASE,2010,1821
+Barrio Hollywood,HAD1RACE,2010,1752
+Barrio Hollywood,U18RBASE,2010,777
+Barrio Hollywood,NONHISP,2019,294
+Barrio San Antonio,WHITE,2019,252
+Barrio San Antonio,BLACK,2019,12
+Barrio San Antonio,AMERIND,2019,10
+Barrio San Antonio,ASIAN,2019,12
+Barrio San Antonio,PACIFIC,2019,0
+Barrio San Antonio,OTHRACE,2019,39
+Barrio San Antonio,RACE2UP,2019,19
+Barrio San Antonio,HISPPOP,2019,134
+Barrio San Antonio,MINORITY,2019,175
+Barrio San Antonio,WHITE,2010,254
+Barrio San Antonio,BLACK,2010,12
+Barrio San Antonio,AMERIND,2010,9
+Barrio San Antonio,ASIAN,2010,10
+Barrio San Antonio,PACIFIC,2010,0
+Barrio San Antonio,OTHRACE,2010,32
+Barrio San Antonio,RACE2UP,2010,16
+Barrio San Antonio,HISPPOP,2010,114
+Barrio San Antonio,MINORITY,2010,149
+Barrio San Antonio,DIVINDX,2010,67.9
+Barrio San Antonio,HISPWHT,2019,82
+Barrio San Antonio,HISPBLK,2019,1
+Barrio San Antonio,HISPAI,2019,4
+Barrio San Antonio,HISPASN,2019,1
+Barrio San Antonio,HISPPI,2019,0
+Barrio San Antonio,HISPOTH,2019,38
+Barrio San Antonio,HISPMLT,2019,9
+Barrio San Antonio,HWHITE,2010,70
+Barrio San Antonio,HBLACK,2010,1
+Barrio San Antonio,HAMERIND,2010,3
+Barrio San Antonio,HASIAN,2010,1
+Barrio San Antonio,HPACIFIC,2010,0
+Barrio San Antonio,HOTHRACE,2010,31
+Barrio San Antonio,HRACE2UP,2010,8
+Barrio San Antonio,HRACEBAS,2010,114
+Barrio San Antonio,H1RACE,2010,106
+Barrio San Antonio,HADRBASE,2010,92
+Barrio San Antonio,HAD1RACE,2010,88
+Barrio San Antonio,U18RBASE,2010,41
+Barrio San Antonio,NONHISP,2019,210
+Barrio Santa Rosa,WHITE,2019,495
+Barrio Santa Rosa,BLACK,2019,158
+Barrio Santa Rosa,AMERIND,2019,71
+Barrio Santa Rosa,ASIAN,2019,11
+Barrio Santa Rosa,PACIFIC,2019,0
+Barrio Santa Rosa,OTHRACE,2019,357
+Barrio Santa Rosa,RACE2UP,2019,63
+Barrio Santa Rosa,HISPPOP,2019,736
+Barrio Santa Rosa,MINORITY,2019,964
+Barrio Santa Rosa,WHITE,2010,478
+Barrio Santa Rosa,BLACK,2010,142
+Barrio Santa Rosa,AMERIND,2010,63
+Barrio Santa Rosa,ASIAN,2010,9
+Barrio Santa Rosa,PACIFIC,2010,0
+Barrio Santa Rosa,OTHRACE,2010,297
+Barrio Santa Rosa,RACE2UP,2010,54
+Barrio Santa Rosa,HISPPOP,2010,622
+Barrio Santa Rosa,MINORITY,2010,827
+Barrio Santa Rosa,DIVINDX,2010,88
+Barrio Santa Rosa,HISPWHT,2019,303
+Barrio Santa Rosa,HISPBLK,2019,14
+Barrio Santa Rosa,HISPAI,2019,31
+Barrio Santa Rosa,HISPASN,2019,5
+Barrio Santa Rosa,HISPPI,2019,0
+Barrio Santa Rosa,HISPOTH,2019,351
+Barrio Santa Rosa,HISPMLT,2019,32
+Barrio Santa Rosa,HWHITE,2010,262
+Barrio Santa Rosa,HBLACK,2010,12
+Barrio Santa Rosa,HAMERIND,2010,26
+Barrio Santa Rosa,HASIAN,2010,4
+Barrio Santa Rosa,HPACIFIC,2010,0
+Barrio Santa Rosa,HOTHRACE,2010,291
+Barrio Santa Rosa,HRACE2UP,2010,28
+Barrio Santa Rosa,HRACEBAS,2010,623
+Barrio Santa Rosa,H1RACE,2010,594
+Barrio Santa Rosa,HADRBASE,2010,410
+Barrio Santa Rosa,HAD1RACE,2010,391
+Barrio Santa Rosa,U18RBASE,2010,344
+Barrio Santa Rosa,NONHISP,2019,420
+Barrio Viejo,WHITE,2019,585
+Barrio Viejo,BLACK,2019,19
+Barrio Viejo,AMERIND,2019,25
+Barrio Viejo,ASIAN,2019,9
+Barrio Viejo,PACIFIC,2019,0
+Barrio Viejo,OTHRACE,2019,131
+Barrio Viejo,RACE2UP,2019,52
+Barrio Viejo,HISPPOP,2019,408
+Barrio Viejo,MINORITY,2019,461
+Barrio Viejo,WHITE,2010,580
+Barrio Viejo,BLACK,2010,17
+Barrio Viejo,AMERIND,2010,21
+Barrio Viejo,ASIAN,2010,7
+Barrio Viejo,PACIFIC,2010,0
+Barrio Viejo,OTHRACE,2010,105
+Barrio Viejo,RACE2UP,2010,43
+Barrio Viejo,HISPPOP,2010,334
+Barrio Viejo,MINORITY,2010,379
+Barrio Viejo,DIVINDX,2010,71.3
+Barrio Viejo,HISPWHT,2019,224
+Barrio Viejo,HISPBLK,2019,2
+Barrio Viejo,HISPAI,2019,19
+Barrio Viejo,HISPASN,2019,0
+Barrio Viejo,HISPPI,2019,0
+Barrio Viejo,HISPOTH,2019,131
+Barrio Viejo,HISPMLT,2019,31
+Barrio Viejo,HWHITE,2010,186
+Barrio Viejo,HBLACK,2010,2
+Barrio Viejo,HAMERIND,2010,16
+Barrio Viejo,HASIAN,2010,0
+Barrio Viejo,HPACIFIC,2010,0
+Barrio Viejo,HOTHRACE,2010,104
+Barrio Viejo,HRACE2UP,2010,27
+Barrio Viejo,HRACEBAS,2010,335
+Barrio Viejo,H1RACE,2010,307
+Barrio Viejo,HADRBASE,2010,260
+Barrio Viejo,HAD1RACE,2010,243
+Barrio Viejo,U18RBASE,2010,112
+Barrio Viejo,NONHISP,2019,414
+Bear Canyon,WHITE,2019,2141
+Bear Canyon,BLACK,2019,97
+Bear Canyon,AMERIND,2019,20
+Bear Canyon,ASIAN,2019,104
+Bear Canyon,PACIFIC,2019,2
+Bear Canyon,OTHRACE,2019,83
+Bear Canyon,RACE2UP,2019,104
+Bear Canyon,HISPPOP,2019,400
+Bear Canyon,MINORITY,2019,698
+Bear Canyon,WHITE,2010,2215
+Bear Canyon,BLACK,2010,83
+Bear Canyon,AMERIND,2010,17
+Bear Canyon,ASIAN,2010,81
+Bear Canyon,PACIFIC,2010,2
+Bear Canyon,OTHRACE,2010,67
+Bear Canyon,RACE2UP,2010,86
+Bear Canyon,HISPPOP,2010,325
+Bear Canyon,MINORITY,2010,572
+Bear Canyon,DIVINDX,2010,41.2
+Bear Canyon,HISPWHT,2019,288
+Bear Canyon,HISPBLK,2019,6
+Bear Canyon,HISPAI,2019,4
+Bear Canyon,HISPASN,2019,2
+Bear Canyon,HISPPI,2019,0
+Bear Canyon,HISPOTH,2019,78
+Bear Canyon,HISPMLT,2019,22
+Bear Canyon,HWHITE,2010,235
+Bear Canyon,HBLACK,2010,5
+Bear Canyon,HAMERIND,2010,4
+Bear Canyon,HASIAN,2010,2
+Bear Canyon,HPACIFIC,2010,0
+Bear Canyon,HOTHRACE,2010,61
+Bear Canyon,HRACE2UP,2010,18
+Bear Canyon,HRACEBAS,2010,325
+Bear Canyon,H1RACE,2010,307
+Bear Canyon,HADRBASE,2010,211
+Bear Canyon,HAD1RACE,2010,203
+Bear Canyon,U18RBASE,2010,563
+Bear Canyon,NONHISP,2019,2151
+Blenman-Elm,WHITE,2019,2521
+Blenman-Elm,BLACK,2019,83
+Blenman-Elm,AMERIND,2019,61
+Blenman-Elm,ASIAN,2019,217
+Blenman-Elm,PACIFIC,2019,8
+Blenman-Elm,OTHRACE,2019,197
+Blenman-Elm,RACE2UP,2019,146
+Blenman-Elm,HISPPOP,2019,647
+Blenman-Elm,MINORITY,2019,1072
+Blenman-Elm,WHITE,2010,2551
+Blenman-Elm,BLACK,2010,71
+Blenman-Elm,AMERIND,2010,50
+Blenman-Elm,ASIAN,2010,172
+Blenman-Elm,PACIFIC,2010,7
+Blenman-Elm,OTHRACE,2010,156
+Blenman-Elm,RACE2UP,2010,118
+Blenman-Elm,HISPPOP,2010,516
+Blenman-Elm,MINORITY,2010,864
+Blenman-Elm,DIVINDX,2010,51.5
+Blenman-Elm,HISPWHT,2019,360
+Blenman-Elm,HISPBLK,2019,13
+Blenman-Elm,HISPAI,2019,31
+Blenman-Elm,HISPASN,2019,4
+Blenman-Elm,HISPPI,2019,0
+Blenman-Elm,HISPOTH,2019,189
+Blenman-Elm,HISPMLT,2019,50
+Blenman-Elm,HWHITE,2010,290
+Blenman-Elm,HBLACK,2010,11
+Blenman-Elm,HAMERIND,2010,24
+Blenman-Elm,HASIAN,2010,4
+Blenman-Elm,HPACIFIC,2010,0
+Blenman-Elm,HOTHRACE,2010,148
+Blenman-Elm,HRACE2UP,2010,40
+Blenman-Elm,HRACEBAS,2010,517
+Blenman-Elm,H1RACE,2010,476
+Blenman-Elm,HADRBASE,2010,377
+Blenman-Elm,HAD1RACE,2010,349
+Blenman-Elm,U18RBASE,2010,459
+Blenman-Elm,NONHISP,2019,2586
+Broadmoor-Broadway,WHITE,2019,685
+Broadmoor-Broadway,BLACK,2019,18
+Broadmoor-Broadway,AMERIND,2019,21
+Broadmoor-Broadway,ASIAN,2019,26
+Broadmoor-Broadway,PACIFIC,2019,0
+Broadmoor-Broadway,OTHRACE,2019,93
+Broadmoor-Broadway,RACE2UP,2019,32
+Broadmoor-Broadway,HISPPOP,2019,324
+Broadmoor-Broadway,MINORITY,2019,388
+Broadmoor-Broadway,WHITE,2010,691
+Broadmoor-Broadway,BLACK,2010,16
+Broadmoor-Broadway,AMERIND,2010,18
+Broadmoor-Broadway,ASIAN,2010,21
+Broadmoor-Broadway,PACIFIC,2010,0
+Broadmoor-Broadway,OTHRACE,2010,74
+Broadmoor-Broadway,RACE2UP,2010,27
+Broadmoor-Broadway,HISPPOP,2010,266
+Broadmoor-Broadway,MINORITY,2010,319
+Broadmoor-Broadway,DIVINDX,2010,62
+Broadmoor-Broadway,HISPWHT,2019,199
+Broadmoor-Broadway,HISPBLK,2019,1
+Broadmoor-Broadway,HISPAI,2019,11
+Broadmoor-Broadway,HISPASN,2019,2
+Broadmoor-Broadway,HISPPI,2019,0
+Broadmoor-Broadway,HISPOTH,2019,93
+Broadmoor-Broadway,HISPMLT,2019,19
+Broadmoor-Broadway,HWHITE,2010,164
+Broadmoor-Broadway,HBLACK,2010,1
+Broadmoor-Broadway,HAMERIND,2010,9
+Broadmoor-Broadway,HASIAN,2010,2
+Broadmoor-Broadway,HPACIFIC,2010,0
+Broadmoor-Broadway,HOTHRACE,2010,74
+Broadmoor-Broadway,HRACE2UP,2010,16
+Broadmoor-Broadway,HRACEBAS,2010,266
+Broadmoor-Broadway,H1RACE,2010,250
+Broadmoor-Broadway,HADRBASE,2010,203
+Broadmoor-Broadway,HAD1RACE,2010,194
+Broadmoor-Broadway,U18RBASE,2010,139
+Broadmoor-Broadway,NONHISP,2019,551
+Broadway/Northeast,WHITE,2019,561
+Broadway/Northeast,BLACK,2019,26
+Broadway/Northeast,AMERIND,2019,9
+Broadway/Northeast,ASIAN,2019,16
+Broadway/Northeast,PACIFIC,2019,1
+Broadway/Northeast,OTHRACE,2019,41
+Broadway/Northeast,RACE2UP,2019,37
+Broadway/Northeast,HISPPOP,2019,166
+Broadway/Northeast,MINORITY,2019,236
+Broadway/Northeast,WHITE,2010,569
+Broadway/Northeast,BLACK,2010,22
+Broadway/Northeast,AMERIND,2010,8
+Broadway/Northeast,ASIAN,2010,13
+Broadway/Northeast,PACIFIC,2010,1
+Broadway/Northeast,OTHRACE,2010,33
+Broadway/Northeast,RACE2UP,2010,31
+Broadway/Northeast,HISPPOP,2010,134
+Broadway/Northeast,MINORITY,2010,193
+Broadway/Northeast,DIVINDX,2010,51.7
+Broadway/Northeast,HISPWHT,2019,105
+Broadway/Northeast,HISPBLK,2019,2
+Broadway/Northeast,HISPAI,2019,1
+Broadway/Northeast,HISPASN,2019,1
+Broadway/Northeast,HISPPI,2019,0
+Broadway/Northeast,HISPOTH,2019,39
+Broadway/Northeast,HISPMLT,2019,18
+Broadway/Northeast,HWHITE,2010,85
+Broadway/Northeast,HBLACK,2010,2
+Broadway/Northeast,HAMERIND,2010,1
+Broadway/Northeast,HASIAN,2010,1
+Broadway/Northeast,HPACIFIC,2010,0
+Broadway/Northeast,HOTHRACE,2010,30
+Broadway/Northeast,HRACE2UP,2010,15
+Broadway/Northeast,HRACEBAS,2010,134
+Broadway/Northeast,H1RACE,2010,119
+Broadway/Northeast,HADRBASE,2010,86
+Broadway/Northeast,HAD1RACE,2010,82
+Broadway/Northeast,U18RBASE,2010,131
+Broadway/Northeast,NONHISP,2019,526
+Campbell-Grant,WHITE,2019,1077
+Campbell-Grant,BLACK,2019,35
+Campbell-Grant,AMERIND,2019,22
+Campbell-Grant,ASIAN,2019,39
+Campbell-Grant,PACIFIC,2019,1
+Campbell-Grant,OTHRACE,2019,69
+Campbell-Grant,RACE2UP,2019,49
+Campbell-Grant,HISPPOP,2019,294
+Campbell-Grant,MINORITY,2019,411
+Campbell-Grant,WHITE,2010,1075
+Campbell-Grant,BLACK,2010,29
+Campbell-Grant,AMERIND,2010,19
+Campbell-Grant,ASIAN,2010,30
+Campbell-Grant,PACIFIC,2010,1
+Campbell-Grant,OTHRACE,2010,54
+Campbell-Grant,RACE2UP,2010,40
+Campbell-Grant,HISPPOP,2010,234
+Campbell-Grant,MINORITY,2010,330
+Campbell-Grant,DIVINDX,2010,48.4
+Campbell-Grant,HISPWHT,2019,195
+Campbell-Grant,HISPBLK,2019,3
+Campbell-Grant,HISPAI,2019,9
+Campbell-Grant,HISPASN,2019,1
+Campbell-Grant,HISPPI,2019,0
+Campbell-Grant,HISPOTH,2019,69
+Campbell-Grant,HISPMLT,2019,17
+Campbell-Grant,HWHITE,2010,156
+Campbell-Grant,HBLACK,2010,3
+Campbell-Grant,HAMERIND,2010,7
+Campbell-Grant,HASIAN,2010,1
+Campbell-Grant,HPACIFIC,2010,0
+Campbell-Grant,HOTHRACE,2010,53
+Campbell-Grant,HRACE2UP,2010,14
+Campbell-Grant,HRACEBAS,2010,234
+Campbell-Grant,H1RACE,2010,220
+Campbell-Grant,HADRBASE,2010,172
+Campbell-Grant,HAD1RACE,2010,166
+Campbell-Grant,U18RBASE,2010,196
+Campbell-Grant,NONHISP,2019,1000
+Campus Farm,WHITE,2019,5079
+Campus Farm,BLACK,2019,389
+Campus Farm,AMERIND,2019,171
+Campus Farm,ASIAN,2019,289
+Campus Farm,PACIFIC,2019,19
+Campus Farm,OTHRACE,2019,1388
+Campus Farm,RACE2UP,2019,361
+Campus Farm,HISPPOP,2019,3086
+Campus Farm,MINORITY,2019,4076
+Campus Farm,WHITE,2010,4889
+Campus Farm,BLACK,2010,325
+Campus Farm,AMERIND,2010,144
+Campus Farm,ASIAN,2010,218
+Campus Farm,PACIFIC,2010,15
+Campus Farm,OTHRACE,2010,1061
+Campus Farm,RACE2UP,2010,291
+Campus Farm,HISPPOP,2010,2403
+Campus Farm,MINORITY,2010,3204
+Campus Farm,DIVINDX,2010,72.7
+Campus Farm,HISPWHT,2019,1459
+Campus Farm,HISPBLK,2019,44
+Campus Farm,HISPAI,2019,57
+Campus Farm,HISPASN,2019,8
+Campus Farm,HISPPI,2019,1
+Campus Farm,HISPOTH,2019,1373
+Campus Farm,HISPMLT,2019,145
+Campus Farm,HWHITE,2010,1150
+Campus Farm,HBLACK,2010,36
+Campus Farm,HAMERIND,2010,47
+Campus Farm,HASIAN,2010,7
+Campus Farm,HPACIFIC,2010,1
+Campus Farm,HOTHRACE,2010,1046
+Campus Farm,HRACE2UP,2010,117
+Campus Farm,HRACEBAS,2010,2404
+Campus Farm,H1RACE,2010,2287
+Campus Farm,HADRBASE,2010,1655
+Campus Farm,HAD1RACE,2010,1588
+Campus Farm,U18RBASE,2010,1238
+Campus Farm,NONHISP,2019,4610
+Catalina Vista,WHITE,2019,599
+Catalina Vista,BLACK,2019,13
+Catalina Vista,AMERIND,2019,7
+Catalina Vista,ASIAN,2019,23
+Catalina Vista,PACIFIC,2019,1
+Catalina Vista,OTHRACE,2019,28
+Catalina Vista,RACE2UP,2019,24
+Catalina Vista,HISPPOP,2019,118
+Catalina Vista,MINORITY,2019,171
+Catalina Vista,WHITE,2010,626
+Catalina Vista,BLACK,2010,11
+Catalina Vista,AMERIND,2010,6
+Catalina Vista,ASIAN,2010,18
+Catalina Vista,PACIFIC,2010,1
+Catalina Vista,OTHRACE,2010,22
+Catalina Vista,RACE2UP,2010,19
+Catalina Vista,HISPPOP,2010,95
+Catalina Vista,MINORITY,2010,139
+Catalina Vista,DIVINDX,2010,39.3
+Catalina Vista,HISPWHT,2019,75
+Catalina Vista,HISPBLK,2019,2
+Catalina Vista,HISPAI,2019,3
+Catalina Vista,HISPASN,2019,0
+Catalina Vista,HISPPI,2019,0
+Catalina Vista,HISPOTH,2019,27
+Catalina Vista,HISPMLT,2019,10
+Catalina Vista,HWHITE,2010,61
+Catalina Vista,HBLACK,2010,1
+Catalina Vista,HAMERIND,2010,2
+Catalina Vista,HASIAN,2010,0
+Catalina Vista,HPACIFIC,2010,0
+Catalina Vista,HOTHRACE,2010,21
+Catalina Vista,HRACE2UP,2010,8
+Catalina Vista,HRACEBAS,2010,93
+Catalina Vista,H1RACE,2010,87
+Catalina Vista,HADRBASE,2010,74
+Catalina Vista,HAD1RACE,2010,69
+Catalina Vista,U18RBASE,2010,84
+Catalina Vista,NONHISP,2019,578
+Catalina Vista/Blenman-Elm,WHITE,2019,74
+Catalina Vista/Blenman-Elm,BLACK,2019,3
+Catalina Vista/Blenman-Elm,AMERIND,2019,1
+Catalina Vista/Blenman-Elm,ASIAN,2019,5
+Catalina Vista/Blenman-Elm,PACIFIC,2019,0
+Catalina Vista/Blenman-Elm,OTHRACE,2019,3
+Catalina Vista/Blenman-Elm,RACE2UP,2019,3
+Catalina Vista/Blenman-Elm,HISPPOP,2019,16
+Catalina Vista/Blenman-Elm,MINORITY,2019,26
+Catalina Vista/Blenman-Elm,WHITE,2010,74
+Catalina Vista/Blenman-Elm,BLACK,2010,2
+Catalina Vista/Blenman-Elm,AMERIND,2010,1
+Catalina Vista/Blenman-Elm,ASIAN,2010,4
+Catalina Vista/Blenman-Elm,PACIFIC,2010,0
+Catalina Vista/Blenman-Elm,OTHRACE,2010,3
+Catalina Vista/Blenman-Elm,RACE2UP,2010,3
+Catalina Vista/Blenman-Elm,HISPPOP,2010,12
+Catalina Vista/Blenman-Elm,MINORITY,2010,20
+Catalina Vista/Blenman-Elm,DIVINDX,2010,44.6
+Catalina Vista/Blenman-Elm,HISPWHT,2019,10
+Catalina Vista/Blenman-Elm,HISPBLK,2019,1
+Catalina Vista/Blenman-Elm,HISPAI,2019,0
+Catalina Vista/Blenman-Elm,HISPASN,2019,0
+Catalina Vista/Blenman-Elm,HISPPI,2019,0
+Catalina Vista/Blenman-Elm,HISPOTH,2019,3
+Catalina Vista/Blenman-Elm,HISPMLT,2019,1
+Catalina Vista/Blenman-Elm,HWHITE,2010,8
+Catalina Vista/Blenman-Elm,HBLACK,2010,0
+Catalina Vista/Blenman-Elm,HAMERIND,2010,0
+Catalina Vista/Blenman-Elm,HASIAN,2010,0
+Catalina Vista/Blenman-Elm,HPACIFIC,2010,0
+Catalina Vista/Blenman-Elm,HOTHRACE,2010,3
+Catalina Vista/Blenman-Elm,HRACE2UP,2010,1
+Catalina Vista/Blenman-Elm,HRACEBAS,2010,12
+Catalina Vista/Blenman-Elm,H1RACE,2010,11
+Catalina Vista/Blenman-Elm,HADRBASE,2010,9
+Catalina Vista/Blenman-Elm,HAD1RACE,2010,8
+Catalina Vista/Blenman-Elm,U18RBASE,2010,10
+Catalina Vista/Blenman-Elm,NONHISP,2019,75
+Houghton South,WHITE,2019,3869
+Houghton South,BLACK,2019,257
+Houghton South,AMERIND,2019,33
+Houghton South,ASIAN,2019,226
+Houghton South,PACIFIC,2019,20
+Houghton South,OTHRACE,2019,182
+Houghton South,RACE2UP,2019,217
+Houghton South,HISPPOP,2019,993
+Houghton South,MINORITY,2019,1615
+Houghton South,WHITE,2010,2361
+Houghton South,BLACK,2010,132
+Houghton South,AMERIND,2010,17
+Houghton South,ASIAN,2010,105
+Houghton South,PACIFIC,2010,9
+Houghton South,OTHRACE,2010,87
+Houghton South,RACE2UP,2010,107
+Houghton South,HISPPOP,2010,480
+Houghton South,MINORITY,2010,788
+Houghton South,DIVINDX,2010,49.4
+Houghton South,HISPWHT,2019,680
+Houghton South,HISPBLK,2019,36
+Houghton South,HISPAI,2019,10
+Houghton South,HISPASN,2019,13
+Houghton South,HISPPI,2019,9
+Houghton South,HISPOTH,2019,175
+Houghton South,HISPMLT,2019,69
+Houghton South,HWHITE,2010,331
+Houghton South,HBLACK,2010,17
+Houghton South,HAMERIND,2010,5
+Houghton South,HASIAN,2010,6
+Houghton South,HPACIFIC,2010,4
+Houghton South,HOTHRACE,2010,83
+Houghton South,HRACE2UP,2010,34
+Houghton South,HRACEBAS,2010,480
+Houghton South,H1RACE,2010,445
+Houghton South,HADRBASE,2010,277
+Houghton South,HAD1RACE,2010,266
+Houghton South,U18RBASE,2010,887
+Houghton South,NONHISP,2019,3811
+Colonia Del Valle,WHITE,2019,1927
+Colonia Del Valle,BLACK,2019,78
+Colonia Del Valle,AMERIND,2019,29
+Colonia Del Valle,ASIAN,2019,79
+Colonia Del Valle,PACIFIC,2019,11
+Colonia Del Valle,OTHRACE,2019,242
+Colonia Del Valle,RACE2UP,2019,94
+Colonia Del Valle,HISPPOP,2019,752
+Colonia Del Valle,MINORITY,2019,962
+Colonia Del Valle,WHITE,2010,1799
+Colonia Del Valle,BLACK,2010,64
+Colonia Del Valle,AMERIND,2010,25
+Colonia Del Valle,ASIAN,2010,58
+Colonia Del Valle,PACIFIC,2010,9
+Colonia Del Valle,OTHRACE,2010,179
+Colonia Del Valle,RACE2UP,2010,71
+Colonia Del Valle,HISPPOP,2010,566
+Colonia Del Valle,MINORITY,2010,732
+Colonia Del Valle,DIVINDX,2010,58.7
+Colonia Del Valle,HISPWHT,2019,430
+Colonia Del Valle,HISPBLK,2019,7
+Colonia Del Valle,HISPAI,2019,11
+Colonia Del Valle,HISPASN,2019,2
+Colonia Del Valle,HISPPI,2019,4
+Colonia Del Valle,HISPOTH,2019,242
+Colonia Del Valle,HISPMLT,2019,56
+Colonia Del Valle,HWHITE,2010,326
+Colonia Del Valle,HBLACK,2010,5
+Colonia Del Valle,HAMERIND,2010,9
+Colonia Del Valle,HASIAN,2010,2
+Colonia Del Valle,HPACIFIC,2010,3
+Colonia Del Valle,HOTHRACE,2010,179
+Colonia Del Valle,HRACE2UP,2010,42
+Colonia Del Valle,HRACEBAS,2010,566
+Colonia Del Valle,H1RACE,2010,524
+Colonia Del Valle,HADRBASE,2010,389
+Colonia Del Valle,HAD1RACE,2010,367
+Colonia Del Valle,U18RBASE,2010,433
+Colonia Del Valle,NONHISP,2019,1707
+Corbett,WHITE,2019,4103
+Corbett,BLACK,2019,451
+Corbett,AMERIND,2019,158
+Corbett,ASIAN,2019,231
+Corbett,PACIFIC,2019,9
+Corbett,OTHRACE,2019,1233
+Corbett,RACE2UP,2019,379
+Corbett,HISPPOP,2019,3097
+Corbett,MINORITY,2019,4017
+Corbett,WHITE,2010,4092
+Corbett,BLACK,2010,403
+Corbett,AMERIND,2010,142
+Corbett,ASIAN,2010,181
+Corbett,PACIFIC,2010,8
+Corbett,OTHRACE,2010,1018
+Corbett,RACE2UP,2010,325
+Corbett,HISPPOP,2010,2614
+Corbett,MINORITY,2010,3402
+Corbett,DIVINDX,2010,77.2
+Corbett,HISPWHT,2019,1556
+Corbett,HISPBLK,2019,39
+Corbett,HISPAI,2019,67
+Corbett,HISPASN,2019,13
+Corbett,HISPPI,2019,5
+Corbett,HISPOTH,2019,1231
+Corbett,HISPMLT,2019,186
+Corbett,HWHITE,2010,1325
+Corbett,HBLACK,2010,33
+Corbett,HAMERIND,2010,60
+Corbett,HASIAN,2010,13
+Corbett,HPACIFIC,2010,4
+Corbett,HOTHRACE,2010,1016
+Corbett,HRACE2UP,2010,163
+Corbett,HRACEBAS,2010,2614
+Corbett,H1RACE,2010,2451
+Corbett,HADRBASE,2010,1608
+Corbett,HAD1RACE,2010,1538
+Corbett,U18RBASE,2010,1733
+Corbett,NONHISP,2019,3467
+Cottonwood Manor,WHITE,2019,238
+Cottonwood Manor,BLACK,2019,3
+Cottonwood Manor,AMERIND,2019,6
+Cottonwood Manor,ASIAN,2019,5
+Cottonwood Manor,PACIFIC,2019,2
+Cottonwood Manor,OTHRACE,2019,42
+Cottonwood Manor,RACE2UP,2019,13
+Cottonwood Manor,HISPPOP,2019,117
+Cottonwood Manor,MINORITY,2019,134
+Cottonwood Manor,WHITE,2010,252
+Cottonwood Manor,BLACK,2010,3
+Cottonwood Manor,AMERIND,2010,5
+Cottonwood Manor,ASIAN,2010,4
+Cottonwood Manor,PACIFIC,2010,2
+Cottonwood Manor,OTHRACE,2010,35
+Cottonwood Manor,RACE2UP,2010,12
+Cottonwood Manor,HISPPOP,2010,100
+Cottonwood Manor,MINORITY,2010,114
+Cottonwood Manor,DIVINDX,2010,63.1
+Cottonwood Manor,HISPWHT,2019,63
+Cottonwood Manor,HISPBLK,2019,0
+Cottonwood Manor,HISPAI,2019,3
+Cottonwood Manor,HISPASN,2019,1
+Cottonwood Manor,HISPPI,2019,1
+Cottonwood Manor,HISPOTH,2019,42
+Cottonwood Manor,HISPMLT,2019,7
+Cottonwood Manor,HWHITE,2010,54
+Cottonwood Manor,HBLACK,2010,0
+Cottonwood Manor,HAMERIND,2010,3
+Cottonwood Manor,HASIAN,2010,1
+Cottonwood Manor,HPACIFIC,2010,1
+Cottonwood Manor,HOTHRACE,2010,35
+Cottonwood Manor,HRACE2UP,2010,6
+Cottonwood Manor,HRACEBAS,2010,100
+Cottonwood Manor,H1RACE,2010,93
+Cottonwood Manor,HADRBASE,2010,65
+Cottonwood Manor,HAD1RACE,2010,62
+Cottonwood Manor,U18RBASE,2010,61
+Cottonwood Manor,NONHISP,2019,193
+Desert Palms Park,WHITE,2019,305
+Desert Palms Park,BLACK,2019,6
+Desert Palms Park,AMERIND,2019,2
+Desert Palms Park,ASIAN,2019,9
+Desert Palms Park,PACIFIC,2019,1
+Desert Palms Park,OTHRACE,2019,17
+Desert Palms Park,RACE2UP,2019,11
+Desert Palms Park,HISPPOP,2019,55
+Desert Palms Park,MINORITY,2019,82
+Desert Palms Park,WHITE,2010,281
+Desert Palms Park,BLACK,2010,5
+Desert Palms Park,AMERIND,2010,1
+Desert Palms Park,ASIAN,2010,6
+Desert Palms Park,PACIFIC,2010,1
+Desert Palms Park,OTHRACE,2010,12
+Desert Palms Park,RACE2UP,2010,8
+Desert Palms Park,HISPPOP,2010,39
+Desert Palms Park,MINORITY,2010,59
+Desert Palms Park,DIVINDX,2010,37.3
+Desert Palms Park,HISPWHT,2019,36
+Desert Palms Park,HISPBLK,2019,0
+Desert Palms Park,HISPAI,2019,0
+Desert Palms Park,HISPASN,2019,0
+Desert Palms Park,HISPPI,2019,0
+Desert Palms Park,HISPOTH,2019,17
+Desert Palms Park,HISPMLT,2019,2
+Desert Palms Park,HWHITE,2010,26
+Desert Palms Park,HBLACK,2010,0
+Desert Palms Park,HAMERIND,2010,0
+Desert Palms Park,HASIAN,2010,0
+Desert Palms Park,HPACIFIC,2010,0
+Desert Palms Park,HOTHRACE,2010,12
+Desert Palms Park,HRACE2UP,2010,1
+Desert Palms Park,HRACEBAS,2010,39
+Desert Palms Park,H1RACE,2010,38
+Desert Palms Park,HADRBASE,2010,27
+Desert Palms Park,HAD1RACE,2010,26
+Desert Palms Park,U18RBASE,2010,56
+Desert Palms Park,NONHISP,2019,297
+Dietz,WHITE,2019,5568
+Dietz,BLACK,2019,658
+Dietz,AMERIND,2019,133
+Dietz,ASIAN,2019,290
+Dietz,PACIFIC,2019,39
+Dietz,OTHRACE,2019,771
+Dietz,RACE2UP,2019,428
+Dietz,HISPPOP,2019,2357
+Dietz,MINORITY,2019,3639
+Dietz,WHITE,2010,5495
+Dietz,BLACK,2010,559
+Dietz,AMERIND,2010,111
+Dietz,ASIAN,2010,223
+Dietz,PACIFIC,2010,34
+Dietz,OTHRACE,2010,605
+Dietz,RACE2UP,2010,348
+Dietz,HISPPOP,2010,1875
+Dietz,MINORITY,2010,2937
+Dietz,DIVINDX,2010,65.1
+Dietz,HISPWHT,2019,1318
+Dietz,HISPBLK,2019,52
+Dietz,HISPAI,2019,38
+Dietz,HISPASN,2019,14
+Dietz,HISPPI,2019,10
+Dietz,HISPOTH,2019,752
+Dietz,HISPMLT,2019,173
+Dietz,HWHITE,2010,1057
+Dietz,HBLACK,2010,41
+Dietz,HAMERIND,2010,30
+Dietz,HASIAN,2010,12
+Dietz,HPACIFIC,2010,8
+Dietz,HOTHRACE,2010,586
+Dietz,HRACE2UP,2010,141
+Dietz,HRACEBAS,2010,1875
+Dietz,H1RACE,2010,1733
+Dietz,HADRBASE,2010,1182
+Dietz,HAD1RACE,2010,1127
+Dietz,U18RBASE,2010,1770
+Dietz,NONHISP,2019,5531
+Dodge Flower,WHITE,2019,1787
+Dodge Flower,BLACK,2019,365
+Dodge Flower,AMERIND,2019,99
+Dodge Flower,ASIAN,2019,184
+Dodge Flower,PACIFIC,2019,45
+Dodge Flower,OTHRACE,2019,385
+Dodge Flower,RACE2UP,2019,231
+Dodge Flower,HISPPOP,2019,1028
+Dodge Flower,MINORITY,2019,1785
+Dodge Flower,WHITE,2010,1772
+Dodge Flower,BLACK,2010,311
+Dodge Flower,AMERIND,2010,83
+Dodge Flower,ASIAN,2010,140
+Dodge Flower,PACIFIC,2010,37
+Dodge Flower,OTHRACE,2010,301
+Dodge Flower,RACE2UP,2010,189
+Dodge Flower,HISPPOP,2010,821
+Dodge Flower,MINORITY,2010,1446
+Dodge Flower,DIVINDX,2010,76.1
+Dodge Flower,HISPWHT,2019,476
+Dodge Flower,HISPBLK,2019,22
+Dodge Flower,HISPAI,2019,31
+Dodge Flower,HISPASN,2019,5
+Dodge Flower,HISPPI,2019,0
+Dodge Flower,HISPOTH,2019,380
+Dodge Flower,HISPMLT,2019,115
+Dodge Flower,HWHITE,2010,385
+Dodge Flower,HBLACK,2010,18
+Dodge Flower,HAMERIND,2010,25
+Dodge Flower,HASIAN,2010,4
+Dodge Flower,HPACIFIC,2010,0
+Dodge Flower,HOTHRACE,2010,297
+Dodge Flower,HRACE2UP,2010,93
+Dodge Flower,HRACEBAS,2010,822
+Dodge Flower,H1RACE,2010,728
+Dodge Flower,HADRBASE,2010,548
+Dodge Flower,HAD1RACE,2010,498
+Dodge Flower,U18RBASE,2010,712
+Dodge Flower,NONHISP,2019,2068
+Doolen-Fruitvale,WHITE,2019,1171
+Doolen-Fruitvale,BLACK,2019,128
+Doolen-Fruitvale,AMERIND,2019,56
+Doolen-Fruitvale,ASIAN,2019,39
+Doolen-Fruitvale,PACIFIC,2019,0
+Doolen-Fruitvale,OTHRACE,2019,336
+Doolen-Fruitvale,RACE2UP,2019,130
+Doolen-Fruitvale,HISPPOP,2019,740
+Doolen-Fruitvale,MINORITY,2019,987
+Doolen-Fruitvale,WHITE,2010,1247
+Doolen-Fruitvale,BLACK,2010,119
+Doolen-Fruitvale,AMERIND,2010,54
+Doolen-Fruitvale,ASIAN,2010,34
+Doolen-Fruitvale,PACIFIC,2010,0
+Doolen-Fruitvale,OTHRACE,2010,299
+Doolen-Fruitvale,RACE2UP,2010,114
+Doolen-Fruitvale,HISPPOP,2010,657
+Doolen-Fruitvale,MINORITY,2010,882
+Doolen-Fruitvale,DIVINDX,2010,75.4
+Doolen-Fruitvale,HISPWHT,2019,297
+Doolen-Fruitvale,HISPBLK,2019,19
+Doolen-Fruitvale,HISPAI,2019,22
+Doolen-Fruitvale,HISPASN,2019,2
+Doolen-Fruitvale,HISPPI,2019,0
+Doolen-Fruitvale,HISPOTH,2019,332
+Doolen-Fruitvale,HISPMLT,2019,67
+Doolen-Fruitvale,HWHITE,2010,263
+Doolen-Fruitvale,HBLACK,2010,17
+Doolen-Fruitvale,HAMERIND,2010,20
+Doolen-Fruitvale,HASIAN,2010,2
+Doolen-Fruitvale,HPACIFIC,2010,0
+Doolen-Fruitvale,HOTHRACE,2010,295
+Doolen-Fruitvale,HRACE2UP,2010,59
+Doolen-Fruitvale,HRACEBAS,2010,656
+Doolen-Fruitvale,H1RACE,2010,598
+Doolen-Fruitvale,HADRBASE,2010,420
+Doolen-Fruitvale,HAD1RACE,2010,379
+Doolen-Fruitvale,U18RBASE,2010,448
+Doolen-Fruitvale,NONHISP,2019,1121
+Drexel Park,WHITE,2019,1142
+Drexel Park,BLACK,2019,56
+Drexel Park,AMERIND,2019,89
+Drexel Park,ASIAN,2019,7
+Drexel Park,PACIFIC,2019,1
+Drexel Park,OTHRACE,2019,1023
+Drexel Park,RACE2UP,2019,110
+Drexel Park,HISPPOP,2019,2214
+Drexel Park,MINORITY,2019,2310
+Drexel Park,WHITE,2010,1085
+Drexel Park,BLACK,2010,53
+Drexel Park,AMERIND,2010,87
+Drexel Park,ASIAN,2010,7
+Drexel Park,PACIFIC,2010,1
+Drexel Park,OTHRACE,2010,899
+Drexel Park,RACE2UP,2010,103
+Drexel Park,HISPPOP,2010,1999
+Drexel Park,MINORITY,2010,2093
+Drexel Park,DIVINDX,2010,80.7
+Drexel Park,HISPWHT,2019,1024
+Drexel Park,HISPBLK,2019,18
+Drexel Park,HISPAI,2019,50
+Drexel Park,HISPASN,2019,4
+Drexel Park,HISPPI,2019,1
+Drexel Park,HISPOTH,2019,1023
+Drexel Park,HISPMLT,2019,94
+Drexel Park,HWHITE,2010,943
+Drexel Park,HBLACK,2010,16
+Drexel Park,HAMERIND,2010,47
+Drexel Park,HASIAN,2010,4
+Drexel Park,HPACIFIC,2010,1
+Drexel Park,HOTHRACE,2010,899
+Drexel Park,HRACE2UP,2010,88
+Drexel Park,HRACEBAS,2010,1998
+Drexel Park,H1RACE,2010,1911
+Drexel Park,HADRBASE,2010,1231
+Drexel Park,HAD1RACE,2010,1174
+Drexel Park,U18RBASE,2010,810
+Drexel Park,NONHISP,2019,215
+Duffy,WHITE,2019,884
+Duffy,BLACK,2019,81
+Duffy,AMERIND,2019,13
+Duffy,ASIAN,2019,46
+Duffy,PACIFIC,2019,1
+Duffy,OTHRACE,2019,94
+Duffy,RACE2UP,2019,88
+Duffy,HISPPOP,2019,318
+Duffy,MINORITY,2019,505
+Duffy,WHITE,2010,859
+Duffy,BLACK,2010,70
+Duffy,AMERIND,2010,11
+Duffy,ASIAN,2010,34
+Duffy,PACIFIC,2010,1
+Duffy,OTHRACE,2010,73
+Duffy,RACE2UP,2010,70
+Duffy,HISPPOP,2010,249
+Duffy,MINORITY,2010,402
+Duffy,DIVINDX,2010,61.1
+Duffy,HISPWHT,2019,182
+Duffy,HISPBLK,2019,1
+Duffy,HISPAI,2019,0
+Duffy,HISPASN,2019,3
+Duffy,HISPPI,2019,0
+Duffy,HISPOTH,2019,94
+Duffy,HISPMLT,2019,37
+Duffy,HWHITE,2010,143
+Duffy,HBLACK,2010,1
+Duffy,HAMERIND,2010,0
+Duffy,HASIAN,2010,3
+Duffy,HPACIFIC,2010,0
+Duffy,HOTHRACE,2010,72
+Duffy,HRACE2UP,2010,30
+Duffy,HRACEBAS,2010,249
+Duffy,H1RACE,2010,219
+Duffy,HADRBASE,2010,173
+Duffy,HAD1RACE,2010,162
+Duffy,U18RBASE,2010,198
+Duffy,NONHISP,2019,889
+Dunbar Spring,WHITE,2019,683
+Dunbar Spring,BLACK,2019,70
+Dunbar Spring,AMERIND,2019,62
+Dunbar Spring,ASIAN,2019,80
+Dunbar Spring,PACIFIC,2019,1
+Dunbar Spring,OTHRACE,2019,151
+Dunbar Spring,RACE2UP,2019,50
+Dunbar Spring,HISPPOP,2019,343
+Dunbar Spring,MINORITY,2019,566
+Dunbar Spring,WHITE,2010,731
+Dunbar Spring,BLACK,2010,64
+Dunbar Spring,AMERIND,2010,56
+Dunbar Spring,ASIAN,2010,66
+Dunbar Spring,PACIFIC,2010,1
+Dunbar Spring,OTHRACE,2010,131
+Dunbar Spring,RACE2UP,2010,44
+Dunbar Spring,HISPPOP,2010,299
+Dunbar Spring,MINORITY,2010,497
+Dunbar Spring,DIVINDX,2010,72.5
+Dunbar Spring,HISPWHT,2019,153
+Dunbar Spring,HISPBLK,2019,3
+Dunbar Spring,HISPAI,2019,18
+Dunbar Spring,HISPASN,2019,1
+Dunbar Spring,HISPPI,2019,1
+Dunbar Spring,HISPOTH,2019,142
+Dunbar Spring,HISPMLT,2019,25
+Dunbar Spring,HWHITE,2010,135
+Dunbar Spring,HBLACK,2010,3
+Dunbar Spring,HAMERIND,2010,16
+Dunbar Spring,HASIAN,2010,1
+Dunbar Spring,HPACIFIC,2010,1
+Dunbar Spring,HOTHRACE,2010,121
+Dunbar Spring,HRACE2UP,2010,22
+Dunbar Spring,HRACEBAS,2010,299
+Dunbar Spring,H1RACE,2010,277
+Dunbar Spring,HADRBASE,2010,228
+Dunbar Spring,HAD1RACE,2010,213
+Dunbar Spring,U18RBASE,2010,125
+Dunbar Spring,NONHISP,2019,754
+Eastside,WHITE,2019,3325
+Eastside,BLACK,2019,143
+Eastside,AMERIND,2019,31
+Eastside,ASIAN,2019,307
+Eastside,PACIFIC,2019,1
+Eastside,OTHRACE,2019,174
+Eastside,RACE2UP,2019,129
+Eastside,HISPPOP,2019,840
+Eastside,MINORITY,2019,1379
+Eastside,WHITE,2010,3516
+Eastside,BLACK,2010,128
+Eastside,AMERIND,2010,27
+Eastside,ASIAN,2010,250
+Eastside,PACIFIC,2010,1
+Eastside,OTHRACE,2010,141
+Eastside,RACE2UP,2010,110
+Eastside,HISPPOP,2010,703
+Eastside,MINORITY,2010,1157
+Eastside,DIVINDX,2010,48.6
+Eastside,HISPWHT,2019,594
+Eastside,HISPBLK,2019,3
+Eastside,HISPAI,2019,21
+Eastside,HISPASN,2019,6
+Eastside,HISPPI,2019,0
+Eastside,HISPOTH,2019,173
+Eastside,HISPMLT,2019,43
+Eastside,HWHITE,2010,500
+Eastside,HBLACK,2010,3
+Eastside,HAMERIND,2010,18
+Eastside,HASIAN,2010,5
+Eastside,HPACIFIC,2010,0
+Eastside,HOTHRACE,2010,140
+Eastside,HRACE2UP,2010,37
+Eastside,HRACEBAS,2010,703
+Eastside,H1RACE,2010,666
+Eastside,HADRBASE,2010,460
+Eastside,HAD1RACE,2010,444
+Eastside,U18RBASE,2010,974
+Eastside,NONHISP,2019,3270
+El Gheko,WHITE,2019,1490
+El Gheko,BLACK,2019,69
+El Gheko,AMERIND,2019,24
+El Gheko,ASIAN,2019,33
+El Gheko,PACIFIC,2019,3
+El Gheko,OTHRACE,2019,109
+El Gheko,RACE2UP,2019,75
+El Gheko,HISPPOP,2019,428
+El Gheko,MINORITY,2019,587
+El Gheko,WHITE,2010,1539
+El Gheko,BLACK,2010,60
+El Gheko,AMERIND,2010,21
+El Gheko,ASIAN,2010,26
+El Gheko,PACIFIC,2010,3
+El Gheko,OTHRACE,2010,88
+El Gheko,RACE2UP,2010,63
+El Gheko,HISPPOP,2010,351
+El Gheko,MINORITY,2010,487
+El Gheko,DIVINDX,2010,49.7
+El Gheko,HISPWHT,2019,274
+El Gheko,HISPBLK,2019,9
+El Gheko,HISPAI,2019,6
+El Gheko,HISPASN,2019,1
+El Gheko,HISPPI,2019,0
+El Gheko,HISPOTH,2019,104
+El Gheko,HISPMLT,2019,33
+El Gheko,HWHITE,2010,226
+El Gheko,HBLACK,2010,8
+El Gheko,HAMERIND,2010,6
+El Gheko,HASIAN,2010,1
+El Gheko,HPACIFIC,2010,0
+El Gheko,HOTHRACE,2010,83
+El Gheko,HRACE2UP,2010,27
+El Gheko,HRACEBAS,2010,351
+El Gheko,H1RACE,2010,324
+El Gheko,HADRBASE,2010,231
+El Gheko,HAD1RACE,2010,222
+El Gheko,U18RBASE,2010,308
+El Gheko,NONHISP,2019,1376
+El Conquistador,WHITE,2019,139
+El Conquistador,BLACK,2019,2
+El Conquistador,AMERIND,2019,3
+El Conquistador,ASIAN,2019,8
+El Conquistador,PACIFIC,2019,0
+El Conquistador,OTHRACE,2019,12
+El Conquistador,RACE2UP,2019,6
+El Conquistador,HISPPOP,2019,42
+El Conquistador,MINORITY,2019,58
+El Conquistador,WHITE,2010,150
+El Conquistador,BLACK,2010,2
+El Conquistador,AMERIND,2010,3
+El Conquistador,ASIAN,2010,6
+El Conquistador,PACIFIC,2010,0
+El Conquistador,OTHRACE,2010,10
+El Conquistador,RACE2UP,2010,6
+El Conquistador,HISPPOP,2010,37
+El Conquistador,MINORITY,2010,50
+El Conquistador,DIVINDX,2010,51.8
+El Conquistador,HISPWHT,2019,27
+El Conquistador,HISPBLK,2019,0
+El Conquistador,HISPAI,2019,1
+El Conquistador,HISPASN,2019,0
+El Conquistador,HISPPI,2019,0
+El Conquistador,HISPOTH,2019,12
+El Conquistador,HISPMLT,2019,2
+El Conquistador,HWHITE,2010,23
+El Conquistador,HBLACK,2010,0
+El Conquistador,HAMERIND,2010,1
+El Conquistador,HASIAN,2010,0
+El Conquistador,HPACIFIC,2010,0
+El Conquistador,HOTHRACE,2010,10
+El Conquistador,HRACE2UP,2010,2
+El Conquistador,HRACEBAS,2010,36
+El Conquistador,H1RACE,2010,35
+El Conquistador,HADRBASE,2010,27
+El Conquistador,HAD1RACE,2010,26
+El Conquistador,U18RBASE,2010,30
+El Conquistador,NONHISP,2019,128
+El Cortez,WHITE,2019,220
+El Cortez,BLACK,2019,61
+El Cortez,AMERIND,2019,17
+El Cortez,ASIAN,2019,29
+El Cortez,PACIFIC,2019,0
+El Cortez,OTHRACE,2019,112
+El Cortez,RACE2UP,2019,23
+El Cortez,HISPPOP,2019,246
+El Cortez,MINORITY,2019,354
+El Cortez,WHITE,2010,248
+El Cortez,BLACK,2010,63
+El Cortez,AMERIND,2010,18
+El Cortez,ASIAN,2010,27
+El Cortez,PACIFIC,2010,0
+El Cortez,OTHRACE,2010,105
+El Cortez,RACE2UP,2010,23
+El Cortez,HISPPOP,2010,236
+El Cortez,MINORITY,2010,345
+El Cortez,DIVINDX,2010,85.8
+El Cortez,HISPWHT,2019,112
+El Cortez,HISPBLK,2019,5
+El Cortez,HISPAI,2019,9
+El Cortez,HISPASN,2019,1
+El Cortez,HISPPI,2019,0
+El Cortez,HISPOTH,2019,112
+El Cortez,HISPMLT,2019,7
+El Cortez,HWHITE,2010,109
+El Cortez,HBLACK,2010,5
+El Cortez,HAMERIND,2010,9
+El Cortez,HASIAN,2010,1
+El Cortez,HPACIFIC,2010,0
+El Cortez,HOTHRACE,2010,105
+El Cortez,HRACE2UP,2010,7
+El Cortez,HRACEBAS,2010,236
+El Cortez,H1RACE,2010,229
+El Cortez,HADRBASE,2010,155
+El Cortez,HAD1RACE,2010,151
+El Cortez,U18RBASE,2010,114
+El Cortez,NONHISP,2019,218
+El Montevideo,WHITE,2019,303
+El Montevideo,BLACK,2019,9
+El Montevideo,AMERIND,2019,1
+El Montevideo,ASIAN,2019,9
+El Montevideo,PACIFIC,2019,0
+El Montevideo,OTHRACE,2019,6
+El Montevideo,RACE2UP,2019,9
+El Montevideo,HISPPOP,2019,64
+El Montevideo,MINORITY,2019,87
+El Montevideo,WHITE,2010,298
+El Montevideo,BLACK,2010,8
+El Montevideo,AMERIND,2010,1
+El Montevideo,ASIAN,2010,7
+El Montevideo,PACIFIC,2010,0
+El Montevideo,OTHRACE,2010,4
+El Montevideo,RACE2UP,2010,8
+El Montevideo,HISPPOP,2010,50
+El Montevideo,MINORITY,2010,68
+El Montevideo,DIVINDX,2010,37.7
+El Montevideo,HISPWHT,2019,53
+El Montevideo,HISPBLK,2019,2
+El Montevideo,HISPAI,2019,0
+El Montevideo,HISPASN,2019,0
+El Montevideo,HISPPI,2019,0
+El Montevideo,HISPOTH,2019,6
+El Montevideo,HISPMLT,2019,3
+El Montevideo,HWHITE,2010,41
+El Montevideo,HBLACK,2010,2
+El Montevideo,HAMERIND,2010,0
+El Montevideo,HASIAN,2010,0
+El Montevideo,HPACIFIC,2010,0
+El Montevideo,HOTHRACE,2010,4
+El Montevideo,HRACE2UP,2010,3
+El Montevideo,HRACEBAS,2010,50
+El Montevideo,H1RACE,2010,47
+El Montevideo,HADRBASE,2010,42
+El Montevideo,HAD1RACE,2010,40
+El Montevideo,U18RBASE,2010,37
+El Montevideo,NONHISP,2019,273
+El Presidio,WHITE,2019,403
+El Presidio,BLACK,2019,29
+El Presidio,AMERIND,2019,39
+El Presidio,ASIAN,2019,24
+El Presidio,PACIFIC,2019,1
+El Presidio,OTHRACE,2019,168
+El Presidio,RACE2UP,2019,27
+El Presidio,HISPPOP,2019,445
+El Presidio,MINORITY,2019,526
+El Presidio,WHITE,2010,402
+El Presidio,BLACK,2010,27
+El Presidio,AMERIND,2010,36
+El Presidio,ASIAN,2010,20
+El Presidio,PACIFIC,2010,1
+El Presidio,OTHRACE,2010,144
+El Presidio,RACE2UP,2010,24
+El Presidio,HISPPOP,2010,388
+El Presidio,MINORITY,2010,462
+El Presidio,DIVINDX,2010,80.2
+El Presidio,HISPWHT,2019,238
+El Presidio,HISPBLK,2019,8
+El Presidio,HISPAI,2019,14
+El Presidio,HISPASN,2019,1
+El Presidio,HISPPI,2019,0
+El Presidio,HISPOTH,2019,168
+El Presidio,HISPMLT,2019,17
+El Presidio,HWHITE,2010,209
+El Presidio,HBLACK,2010,7
+El Presidio,HAMERIND,2010,12
+El Presidio,HASIAN,2010,1
+El Presidio,HPACIFIC,2010,0
+El Presidio,HOTHRACE,2010,144
+El Presidio,HRACE2UP,2010,15
+El Presidio,HRACEBAS,2010,388
+El Presidio,H1RACE,2010,373
+El Presidio,HADRBASE,2010,287
+El Presidio,HAD1RACE,2010,278
+El Presidio,U18RBASE,2010,121
+El Presidio,NONHISP,2019,246
+El Rio Acres,WHITE,2019,762
+El Rio Acres,BLACK,2019,164
+El Rio Acres,AMERIND,2019,310
+El Rio Acres,ASIAN,2019,19
+El Rio Acres,PACIFIC,2019,0
+El Rio Acres,OTHRACE,2019,639
+El Rio Acres,RACE2UP,2019,91
+El Rio Acres,HISPPOP,2019,1383
+El Rio Acres,MINORITY,2019,1794
+El Rio Acres,WHITE,2010,791
+El Rio Acres,BLACK,2010,164
+El Rio Acres,AMERIND,2010,303
+El Rio Acres,ASIAN,2010,17
+El Rio Acres,PACIFIC,2010,0
+El Rio Acres,OTHRACE,2010,599
+El Rio Acres,RACE2UP,2010,88
+El Rio Acres,HISPPOP,2010,1316
+El Rio Acres,MINORITY,2010,1723
+El Rio Acres,DIVINDX,2010,89.2
+El Rio Acres,HISPWHT,2019,570
+El Rio Acres,HISPBLK,2019,17
+El Rio Acres,HISPAI,2019,95
+El Rio Acres,HISPASN,2019,1
+El Rio Acres,HISPPI,2019,0
+El Rio Acres,HISPOTH,2019,634
+El Rio Acres,HISPMLT,2019,66
+El Rio Acres,HWHITE,2010,552
+El Rio Acres,HBLACK,2010,16
+El Rio Acres,HAMERIND,2010,89
+El Rio Acres,HASIAN,2010,1
+El Rio Acres,HPACIFIC,2010,0
+El Rio Acres,HOTHRACE,2010,593
+El Rio Acres,HRACE2UP,2010,64
+El Rio Acres,HRACEBAS,2010,1315
+El Rio Acres,H1RACE,2010,1252
+El Rio Acres,HADRBASE,2010,872
+El Rio Acres,HAD1RACE,2010,841
+El Rio Acres,U18RBASE,2010,656
+El Rio Acres,NONHISP,2019,603
+Elvira,WHITE,2019,1837
+Elvira,BLACK,2019,39
+Elvira,AMERIND,2019,115
+Elvira,ASIAN,2019,12
+Elvira,PACIFIC,2019,6
+Elvira,OTHRACE,2019,1151
+Elvira,RACE2UP,2019,124
+Elvira,HISPPOP,2019,2964
+Elvira,MINORITY,2019,3080
+Elvira,WHITE,2010,1847
+Elvira,BLACK,2010,40
+Elvira,AMERIND,2010,117
+Elvira,ASIAN,2010,12
+Elvira,PACIFIC,2010,6
+Elvira,OTHRACE,2010,1087
+Elvira,RACE2UP,2010,123
+Elvira,HISPPOP,2010,2849
+Elvira,MINORITY,2010,2972
+Elvira,DIVINDX,2010,74
+Elvira,HISPWHT,2019,1633
+Elvira,HISPBLK,2019,12
+Elvira,HISPAI,2019,59
+Elvira,HISPASN,2019,5
+Elvira,HISPPI,2019,4
+Elvira,HISPOTH,2019,1141
+Elvira,HISPMLT,2019,110
+Elvira,HWHITE,2010,1587
+Elvira,HBLACK,2010,12
+Elvira,HAMERIND,2010,58
+Elvira,HASIAN,2010,5
+Elvira,HPACIFIC,2010,4
+Elvira,HOTHRACE,2010,1074
+Elvira,HRACE2UP,2010,109
+Elvira,HRACEBAS,2010,2849
+Elvira,H1RACE,2010,2740
+Elvira,HADRBASE,2010,1907
+Elvira,HAD1RACE,2010,1846
+Elvira,U18RBASE,2010,1009
+Elvira,NONHISP,2019,320
+Enchanted Hills,WHITE,2019,742
+Enchanted Hills,BLACK,2019,66
+Enchanted Hills,AMERIND,2019,113
+Enchanted Hills,ASIAN,2019,11
+Enchanted Hills,PACIFIC,2019,0
+Enchanted Hills,OTHRACE,2019,537
+Enchanted Hills,RACE2UP,2019,79
+Enchanted Hills,HISPPOP,2019,1200
+Enchanted Hills,MINORITY,2019,1352
+Enchanted Hills,WHITE,2010,762
+Enchanted Hills,BLACK,2010,66
+Enchanted Hills,AMERIND,2010,112
+Enchanted Hills,ASIAN,2010,10
+Enchanted Hills,PACIFIC,2010,0
+Enchanted Hills,OTHRACE,2010,495
+Enchanted Hills,RACE2UP,2010,76
+Enchanted Hills,HISPPOP,2010,1123
+Enchanted Hills,MINORITY,2010,1278
+Enchanted Hills,DIVINDX,2010,84.1
+Enchanted Hills,HISPWHT,2019,547
+Enchanted Hills,HISPBLK,2019,12
+Enchanted Hills,HISPAI,2019,44
+Enchanted Hills,HISPASN,2019,4
+Enchanted Hills,HISPPI,2019,0
+Enchanted Hills,HISPOTH,2019,531
+Enchanted Hills,HISPMLT,2019,62
+Enchanted Hills,HWHITE,2010,519
+Enchanted Hills,HBLACK,2010,11
+Enchanted Hills,HAMERIND,2010,42
+Enchanted Hills,HASIAN,2010,4
+Enchanted Hills,HPACIFIC,2010,0
+Enchanted Hills,HOTHRACE,2010,487
+Enchanted Hills,HRACE2UP,2010,60
+Enchanted Hills,HRACEBAS,2010,1123
+Enchanted Hills,H1RACE,2010,1064
+Enchanted Hills,HADRBASE,2010,714
+Enchanted Hills,HAD1RACE,2010,683
+Enchanted Hills,U18RBASE,2010,500
+Enchanted Hills,NONHISP,2019,348
+Flowing Wells,WHITE,2019,6523
+Flowing Wells,BLACK,2019,199
+Flowing Wells,AMERIND,2019,184
+Flowing Wells,ASIAN,2019,209
+Flowing Wells,PACIFIC,2019,10
+Flowing Wells,OTHRACE,2019,1803
+Flowing Wells,RACE2UP,2019,310
+Flowing Wells,HISPPOP,2019,4852
+Flowing Wells,MINORITY,2019,5454
+Flowing Wells,WHITE,2010,6567
+Flowing Wells,BLACK,2010,179
+Flowing Wells,AMERIND,2010,166
+Flowing Wells,ASIAN,2010,170
+Flowing Wells,PACIFIC,2010,10
+Flowing Wells,OTHRACE,2010,1496
+Flowing Wells,RACE2UP,2010,269
+Flowing Wells,HISPPOP,2010,4112
+Flowing Wells,MINORITY,2010,4638
+Flowing Wells,DIVINDX,2010,72.3
+Flowing Wells,HISPWHT,2019,2740
+Flowing Wells,HISPBLK,2019,38
+Flowing Wells,HISPAI,2019,85
+Flowing Wells,HISPASN,2019,4
+Flowing Wells,HISPPI,2019,1
+Flowing Wells,HISPOTH,2019,1796
+Flowing Wells,HISPMLT,2019,188
+Flowing Wells,HWHITE,2010,2349
+Flowing Wells,HBLACK,2010,32
+Flowing Wells,HAMERIND,2010,74
+Flowing Wells,HASIAN,2010,4
+Flowing Wells,HPACIFIC,2010,1
+Flowing Wells,HOTHRACE,2010,1489
+Flowing Wells,HRACE2UP,2010,162
+Flowing Wells,HRACEBAS,2010,4111
+Flowing Wells,H1RACE,2010,3949
+Flowing Wells,HADRBASE,2010,2680
+Flowing Wells,HAD1RACE,2010,2588
+Flowing Wells,U18RBASE,2010,2154
+Flowing Wells,NONHISP,2019,4386
+Glenn Heights,WHITE,2019,536
+Glenn Heights,BLACK,2019,9
+Glenn Heights,AMERIND,2019,4
+Glenn Heights,ASIAN,2019,20
+Glenn Heights,PACIFIC,2019,0
+Glenn Heights,OTHRACE,2019,17
+Glenn Heights,RACE2UP,2019,14
+Glenn Heights,HISPPOP,2019,85
+Glenn Heights,MINORITY,2019,126
+Glenn Heights,WHITE,2010,529
+Glenn Heights,BLACK,2010,8
+Glenn Heights,AMERIND,2010,3
+Glenn Heights,ASIAN,2010,15
+Glenn Heights,PACIFIC,2010,0
+Glenn Heights,OTHRACE,2010,13
+Glenn Heights,RACE2UP,2010,11
+Glenn Heights,HISPPOP,2010,66
+Glenn Heights,MINORITY,2010,98
+Glenn Heights,DIVINDX,2010,33.3
+Glenn Heights,HISPWHT,2019,61
+Glenn Heights,HISPBLK,2019,0
+Glenn Heights,HISPAI,2019,2
+Glenn Heights,HISPASN,2019,0
+Glenn Heights,HISPPI,2019,0
+Glenn Heights,HISPOTH,2019,16
+Glenn Heights,HISPMLT,2019,6
+Glenn Heights,HWHITE,2010,48
+Glenn Heights,HBLACK,2010,0
+Glenn Heights,HAMERIND,2010,1
+Glenn Heights,HASIAN,2010,0
+Glenn Heights,HPACIFIC,2010,0
+Glenn Heights,HOTHRACE,2010,12
+Glenn Heights,HRACE2UP,2010,5
+Glenn Heights,HRACEBAS,2010,66
+Glenn Heights,H1RACE,2010,61
+Glenn Heights,HADRBASE,2010,53
+Glenn Heights,HAD1RACE,2010,49
+Glenn Heights,U18RBASE,2010,59
+Glenn Heights,NONHISP,2019,515
+Country Glenn,WHITE,2019,1042
+Country Glenn,BLACK,2019,113
+Country Glenn,AMERIND,2019,36
+Country Glenn,ASIAN,2019,39
+Country Glenn,PACIFIC,2019,5
+Country Glenn,OTHRACE,2019,142
+Country Glenn,RACE2UP,2019,70
+Country Glenn,HISPPOP,2019,420
+Country Glenn,MINORITY,2019,629
+Country Glenn,WHITE,2010,1075
+Country Glenn,BLACK,2010,102
+Country Glenn,AMERIND,2010,33
+Country Glenn,ASIAN,2010,32
+Country Glenn,PACIFIC,2010,5
+Country Glenn,OTHRACE,2010,117
+Country Glenn,RACE2UP,2010,57
+Country Glenn,HISPPOP,2010,351
+Country Glenn,MINORITY,2010,533
+Country Glenn,DIVINDX,2010,63.6
+Country Glenn,HISPWHT,2019,224
+Country Glenn,HISPBLK,2019,13
+Country Glenn,HISPAI,2019,15
+Country Glenn,HISPASN,2019,4
+Country Glenn,HISPPI,2019,0
+Country Glenn,HISPOTH,2019,138
+Country Glenn,HISPMLT,2019,26
+Country Glenn,HWHITE,2010,188
+Country Glenn,HBLACK,2010,11
+Country Glenn,HAMERIND,2010,14
+Country Glenn,HASIAN,2010,4
+Country Glenn,HPACIFIC,2010,0
+Country Glenn,HOTHRACE,2010,113
+Country Glenn,HRACE2UP,2010,21
+Country Glenn,HRACEBAS,2010,351
+Country Glenn,H1RACE,2010,330
+Country Glenn,HADRBASE,2010,233
+Country Glenn,HAD1RACE,2010,221
+Country Glenn,U18RBASE,2010,282
+Country Glenn,NONHISP,2019,1027
+Groves Lincoln Park,WHITE,2019,3680
+Groves Lincoln Park,BLACK,2019,390
+Groves Lincoln Park,AMERIND,2019,60
+Groves Lincoln Park,ASIAN,2019,242
+Groves Lincoln Park,PACIFIC,2019,9
+Groves Lincoln Park,OTHRACE,2019,611
+Groves Lincoln Park,RACE2UP,2019,302
+Groves Lincoln Park,HISPPOP,2019,1770
+Groves Lincoln Park,MINORITY,2019,2566
+Groves Lincoln Park,WHITE,2010,3909
+Groves Lincoln Park,BLACK,2010,357
+Groves Lincoln Park,AMERIND,2010,53
+Groves Lincoln Park,ASIAN,2010,203
+Groves Lincoln Park,PACIFIC,2010,9
+Groves Lincoln Park,OTHRACE,2010,513
+Groves Lincoln Park,RACE2UP,2010,264
+Groves Lincoln Park,HISPPOP,2010,1517
+Groves Lincoln Park,MINORITY,2010,2223
+Groves Lincoln Park,DIVINDX,2010,67.5
+Groves Lincoln Park,HISPWHT,2019,952
+Groves Lincoln Park,HISPBLK,2019,39
+Groves Lincoln Park,HISPAI,2019,38
+Groves Lincoln Park,HISPASN,2019,22
+Groves Lincoln Park,HISPPI,2019,1
+Groves Lincoln Park,HISPOTH,2019,605
+Groves Lincoln Park,HISPMLT,2019,113
+Groves Lincoln Park,HWHITE,2010,824
+Groves Lincoln Park,HBLACK,2010,33
+Groves Lincoln Park,HAMERIND,2010,33
+Groves Lincoln Park,HASIAN,2010,20
+Groves Lincoln Park,HPACIFIC,2010,1
+Groves Lincoln Park,HOTHRACE,2010,507
+Groves Lincoln Park,HRACE2UP,2010,99
+Groves Lincoln Park,HRACEBAS,2010,1517
+Groves Lincoln Park,H1RACE,2010,1418
+Groves Lincoln Park,HADRBASE,2010,981
+Groves Lincoln Park,HAD1RACE,2010,931
+Groves Lincoln Park,U18RBASE,2010,1407
+Groves Lincoln Park,NONHISP,2019,3524
+Harlan Heights,WHITE,2019,1209
+Harlan Heights,BLACK,2019,74
+Harlan Heights,AMERIND,2019,22
+Harlan Heights,ASIAN,2019,38
+Harlan Heights,PACIFIC,2019,4
+Harlan Heights,OTHRACE,2019,117
+Harlan Heights,RACE2UP,2019,40
+Harlan Heights,HISPPOP,2019,401
+Harlan Heights,MINORITY,2019,556
+Harlan Heights,WHITE,2010,1267
+Harlan Heights,BLACK,2010,68
+Harlan Heights,AMERIND,2010,20
+Harlan Heights,ASIAN,2010,30
+Harlan Heights,PACIFIC,2010,4
+Harlan Heights,OTHRACE,2010,96
+Harlan Heights,RACE2UP,2010,34
+Harlan Heights,HISPPOP,2010,338
+Harlan Heights,MINORITY,2010,472
+Harlan Heights,DIVINDX,2010,54.3
+Harlan Heights,HISPWHT,2019,259
+Harlan Heights,HISPBLK,2019,4
+Harlan Heights,HISPAI,2019,7
+Harlan Heights,HISPASN,2019,0
+Harlan Heights,HISPPI,2019,0
+Harlan Heights,HISPOTH,2019,114
+Harlan Heights,HISPMLT,2019,16
+Harlan Heights,HWHITE,2010,220
+Harlan Heights,HBLACK,2010,4
+Harlan Heights,HAMERIND,2010,7
+Harlan Heights,HASIAN,2010,0
+Harlan Heights,HPACIFIC,2010,0
+Harlan Heights,HOTHRACE,2010,94
+Harlan Heights,HRACE2UP,2010,14
+Harlan Heights,HRACEBAS,2010,339
+Harlan Heights,H1RACE,2010,324
+Harlan Heights,HADRBASE,2010,235
+Harlan Heights,HAD1RACE,2010,229
+Harlan Heights,U18RBASE,2010,238
+Harlan Heights,NONHISP,2019,1104
+Old Spanish Trail,WHITE,2019,2773
+Old Spanish Trail,BLACK,2019,158
+Old Spanish Trail,AMERIND,2019,40
+Old Spanish Trail,ASIAN,2019,240
+Old Spanish Trail,PACIFIC,2019,1
+Old Spanish Trail,OTHRACE,2019,182
+Old Spanish Trail,RACE2UP,2019,134
+Old Spanish Trail,HISPPOP,2019,777
+Old Spanish Trail,MINORITY,2019,1277
+Old Spanish Trail,WHITE,2010,2900
+Old Spanish Trail,BLACK,2010,140
+Old Spanish Trail,AMERIND,2010,36
+Old Spanish Trail,ASIAN,2010,194
+Old Spanish Trail,PACIFIC,2010,1
+Old Spanish Trail,OTHRACE,2010,150
+Old Spanish Trail,RACE2UP,2010,114
+Old Spanish Trail,HISPPOP,2010,651
+Old Spanish Trail,MINORITY,2010,1074
+Old Spanish Trail,DIVINDX,2010,52.6
+Old Spanish Trail,HISPWHT,2019,522
+Old Spanish Trail,HISPBLK,2019,17
+Old Spanish Trail,HISPAI,2019,9
+Old Spanish Trail,HISPASN,2019,4
+Old Spanish Trail,HISPPI,2019,0
+Old Spanish Trail,HISPOTH,2019,175
+Old Spanish Trail,HISPMLT,2019,50
+Old Spanish Trail,HWHITE,2010,439
+Old Spanish Trail,HBLACK,2010,14
+Old Spanish Trail,HAMERIND,2010,8
+Old Spanish Trail,HASIAN,2010,4
+Old Spanish Trail,HPACIFIC,2010,0
+Old Spanish Trail,HOTHRACE,2010,143
+Old Spanish Trail,HRACE2UP,2010,43
+Old Spanish Trail,HRACEBAS,2010,651
+Old Spanish Trail,H1RACE,2010,608
+Old Spanish Trail,HADRBASE,2010,395
+Old Spanish Trail,HAD1RACE,2010,376
+Old Spanish Trail,U18RBASE,2010,859
+Old Spanish Trail,NONHISP,2019,2751
+Hedrick Acres,WHITE,2019,2714
+Hedrick Acres,BLACK,2019,218
+Hedrick Acres,AMERIND,2019,144
+Hedrick Acres,ASIAN,2019,183
+Hedrick Acres,PACIFIC,2019,18
+Hedrick Acres,OTHRACE,2019,387
+Hedrick Acres,RACE2UP,2019,211
+Hedrick Acres,HISPPOP,2019,1140
+Hedrick Acres,MINORITY,2019,1761
+Hedrick Acres,WHITE,2010,2563
+Hedrick Acres,BLACK,2010,187
+Hedrick Acres,AMERIND,2010,124
+Hedrick Acres,ASIAN,2010,151
+Hedrick Acres,PACIFIC,2010,16
+Hedrick Acres,OTHRACE,2010,310
+Hedrick Acres,RACE2UP,2010,177
+Hedrick Acres,HISPPOP,2010,924
+Hedrick Acres,MINORITY,2010,1453
+Hedrick Acres,DIVINDX,2010,67.3
+Hedrick Acres,HISPWHT,2019,600
+Hedrick Acres,HISPBLK,2019,32
+Hedrick Acres,HISPAI,2019,35
+Hedrick Acres,HISPASN,2019,1
+Hedrick Acres,HISPPI,2019,0
+Hedrick Acres,HISPOTH,2019,378
+Hedrick Acres,HISPMLT,2019,94
+Hedrick Acres,HWHITE,2010,489
+Hedrick Acres,HBLACK,2010,26
+Hedrick Acres,HAMERIND,2010,28
+Hedrick Acres,HASIAN,2010,1
+Hedrick Acres,HPACIFIC,2010,0
+Hedrick Acres,HOTHRACE,2010,301
+Hedrick Acres,HRACE2UP,2010,79
+Hedrick Acres,HRACEBAS,2010,924
+Hedrick Acres,H1RACE,2010,845
+Hedrick Acres,HADRBASE,2010,648
+Hedrick Acres,HAD1RACE,2010,601
+Hedrick Acres,U18RBASE,2010,569
+Hedrick Acres,NONHISP,2019,2734
+Highland Vista Cinco Via,WHITE,2019,700
+Highland Vista Cinco Via,BLACK,2019,24
+Highland Vista Cinco Via,AMERIND,2019,9
+Highland Vista Cinco Via,ASIAN,2019,38
+Highland Vista Cinco Via,PACIFIC,2019,0
+Highland Vista Cinco Via,OTHRACE,2019,45
+Highland Vista Cinco Via,RACE2UP,2019,27
+Highland Vista Cinco Via,HISPPOP,2019,179
+Highland Vista Cinco Via,MINORITY,2019,270
+Highland Vista Cinco Via,WHITE,2010,716
+Highland Vista Cinco Via,BLACK,2010,21
+Highland Vista Cinco Via,AMERIND,2010,8
+Highland Vista Cinco Via,ASIAN,2010,30
+Highland Vista Cinco Via,PACIFIC,2010,0
+Highland Vista Cinco Via,OTHRACE,2010,36
+Highland Vista Cinco Via,RACE2UP,2010,23
+Highland Vista Cinco Via,HISPPOP,2010,145
+Highland Vista Cinco Via,MINORITY,2010,221
+Highland Vista Cinco Via,DIVINDX,2010,47.2
+Highland Vista Cinco Via,HISPWHT,2019,127
+Highland Vista Cinco Via,HISPBLK,2019,1
+Highland Vista Cinco Via,HISPAI,2019,0
+Highland Vista Cinco Via,HISPASN,2019,0
+Highland Vista Cinco Via,HISPPI,2019,0
+Highland Vista Cinco Via,HISPOTH,2019,42
+Highland Vista Cinco Via,HISPMLT,2019,9
+Highland Vista Cinco Via,HWHITE,2010,103
+Highland Vista Cinco Via,HBLACK,2010,1
+Highland Vista Cinco Via,HAMERIND,2010,0
+Highland Vista Cinco Via,HASIAN,2010,0
+Highland Vista Cinco Via,HPACIFIC,2010,0
+Highland Vista Cinco Via,HOTHRACE,2010,33
+Highland Vista Cinco Via,HRACE2UP,2010,7
+Highland Vista Cinco Via,HRACEBAS,2010,144
+Highland Vista Cinco Via,H1RACE,2010,138
+Highland Vista Cinco Via,HADRBASE,2010,103
+Highland Vista Cinco Via,HAD1RACE,2010,97
+Highland Vista Cinco Via,U18RBASE,2010,174
+Highland Vista Cinco Via,NONHISP,2019,664
+Houghton East,WHITE,2019,3792
+Houghton East,BLACK,2019,88
+Houghton East,AMERIND,2019,21
+Houghton East,ASIAN,2019,152
+Houghton East,PACIFIC,2019,8
+Houghton East,OTHRACE,2019,146
+Houghton East,RACE2UP,2019,140
+Houghton East,HISPPOP,2019,621
+Houghton East,MINORITY,2019,990
+Houghton East,WHITE,2010,3810
+Houghton East,BLACK,2010,74
+Houghton East,AMERIND,2010,18
+Houghton East,ASIAN,2010,115
+Houghton East,PACIFIC,2010,6
+Houghton East,OTHRACE,2010,114
+Houghton East,RACE2UP,2010,113
+Houghton East,HISPPOP,2010,486
+Houghton East,MINORITY,2010,782
+Houghton East,DIVINDX,2010,35.8
+Houghton East,HISPWHT,2019,434
+Houghton East,HISPBLK,2019,2
+Houghton East,HISPAI,2019,9
+Houghton East,HISPASN,2019,6
+Houghton East,HISPPI,2019,0
+Houghton East,HISPOTH,2019,137
+Houghton East,HISPMLT,2019,32
+Houghton East,HWHITE,2010,342
+Houghton East,HBLACK,2010,1
+Houghton East,HAMERIND,2010,7
+Houghton East,HASIAN,2010,5
+Houghton East,HPACIFIC,2010,0
+Houghton East,HOTHRACE,2010,105
+Houghton East,HRACE2UP,2010,26
+Houghton East,HRACEBAS,2010,486
+Houghton East,H1RACE,2010,461
+Houghton East,HADRBASE,2010,330
+Houghton East,HAD1RACE,2010,320
+Houghton East,U18RBASE,2010,805
+Houghton East,NONHISP,2019,3727
+Iron Horse,WHITE,2019,446
+Iron Horse,BLACK,2019,16
+Iron Horse,AMERIND,2019,18
+Iron Horse,ASIAN,2019,35
+Iron Horse,PACIFIC,2019,0
+Iron Horse,OTHRACE,2019,50
+Iron Horse,RACE2UP,2019,28
+Iron Horse,HISPPOP,2019,130
+Iron Horse,MINORITY,2019,213
+Iron Horse,WHITE,2010,466
+Iron Horse,BLACK,2010,14
+Iron Horse,AMERIND,2010,15
+Iron Horse,ASIAN,2010,28
+Iron Horse,PACIFIC,2010,0
+Iron Horse,OTHRACE,2010,40
+Iron Horse,RACE2UP,2010,24
+Iron Horse,HISPPOP,2010,107
+Iron Horse,MINORITY,2010,176
+Iron Horse,DIVINDX,2010,55.6
+Iron Horse,HISPWHT,2019,65
+Iron Horse,HISPBLK,2019,1
+Iron Horse,HISPAI,2019,5
+Iron Horse,HISPASN,2019,0
+Iron Horse,HISPPI,2019,0
+Iron Horse,HISPOTH,2019,47
+Iron Horse,HISPMLT,2019,12
+Iron Horse,HWHITE,2010,54
+Iron Horse,HBLACK,2010,1
+Iron Horse,HAMERIND,2010,4
+Iron Horse,HASIAN,2010,0
+Iron Horse,HPACIFIC,2010,0
+Iron Horse,HOTHRACE,2010,38
+Iron Horse,HRACE2UP,2010,10
+Iron Horse,HRACEBAS,2010,107
+Iron Horse,H1RACE,2010,97
+Iron Horse,HADRBASE,2010,94
+Iron Horse,HAD1RACE,2010,87
+Iron Horse,U18RBASE,2010,36
+Iron Horse,NONHISP,2019,463
+Ironwood Ridge,WHITE,2019,95
+Ironwood Ridge,BLACK,2019,7
+Ironwood Ridge,AMERIND,2019,8
+Ironwood Ridge,ASIAN,2019,9
+Ironwood Ridge,PACIFIC,2019,0
+Ironwood Ridge,OTHRACE,2019,34
+Ironwood Ridge,RACE2UP,2019,8
+Ironwood Ridge,HISPPOP,2019,97
+Ironwood Ridge,MINORITY,2019,119
+Ironwood Ridge,WHITE,2010,96
+Ironwood Ridge,BLACK,2010,6
+Ironwood Ridge,AMERIND,2010,7
+Ironwood Ridge,ASIAN,2010,8
+Ironwood Ridge,PACIFIC,2010,0
+Ironwood Ridge,OTHRACE,2010,29
+Ironwood Ridge,RACE2UP,2010,8
+Ironwood Ridge,HISPPOP,2010,84
+Ironwood Ridge,MINORITY,2010,105
+Ironwood Ridge,DIVINDX,2010,79.8
+Ironwood Ridge,HISPWHT,2019,53
+Ironwood Ridge,HISPBLK,2019,1
+Ironwood Ridge,HISPAI,2019,3
+Ironwood Ridge,HISPASN,2019,0
+Ironwood Ridge,HISPPI,2019,0
+Ironwood Ridge,HISPOTH,2019,33
+Ironwood Ridge,HISPMLT,2019,5
+Ironwood Ridge,HWHITE,2010,47
+Ironwood Ridge,HBLACK,2010,1
+Ironwood Ridge,HAMERIND,2010,3
+Ironwood Ridge,HASIAN,2010,0
+Ironwood Ridge,HPACIFIC,2010,0
+Ironwood Ridge,HOTHRACE,2010,29
+Ironwood Ridge,HRACE2UP,2010,5
+Ironwood Ridge,HRACEBAS,2010,85
+Ironwood Ridge,H1RACE,2010,80
+Ironwood Ridge,HADRBASE,2010,58
+Ironwood Ridge,HAD1RACE,2010,55
+Ironwood Ridge,U18RBASE,2010,36
+Ironwood Ridge,NONHISP,2019,64
+Jefferson Park,WHITE,2019,1681
+Jefferson Park,BLACK,2019,65
+Jefferson Park,AMERIND,2019,42
+Jefferson Park,ASIAN,2019,217
+Jefferson Park,PACIFIC,2019,2
+Jefferson Park,OTHRACE,2019,169
+Jefferson Park,RACE2UP,2019,87
+Jefferson Park,HISPPOP,2019,499
+Jefferson Park,MINORITY,2019,871
+Jefferson Park,WHITE,2010,1785
+Jefferson Park,BLACK,2010,58
+Jefferson Park,AMERIND,2010,38
+Jefferson Park,ASIAN,2010,176
+Jefferson Park,PACIFIC,2010,2
+Jefferson Park,OTHRACE,2010,140
+Jefferson Park,RACE2UP,2010,74
+Jefferson Park,HISPPOP,2010,419
+Jefferson Park,MINORITY,2010,732
+Jefferson Park,DIVINDX,2010,56.4
+Jefferson Park,HISPWHT,2019,289
+Jefferson Park,HISPBLK,2019,5
+Jefferson Park,HISPAI,2019,12
+Jefferson Park,HISPASN,2019,3
+Jefferson Park,HISPPI,2019,0
+Jefferson Park,HISPOTH,2019,163
+Jefferson Park,HISPMLT,2019,29
+Jefferson Park,HWHITE,2010,244
+Jefferson Park,HBLACK,2010,4
+Jefferson Park,HAMERIND,2010,10
+Jefferson Park,HASIAN,2010,3
+Jefferson Park,HPACIFIC,2010,0
+Jefferson Park,HOTHRACE,2010,133
+Jefferson Park,HRACE2UP,2010,25
+Jefferson Park,HRACEBAS,2010,419
+Jefferson Park,H1RACE,2010,394
+Jefferson Park,HADRBASE,2010,343
+Jefferson Park,HAD1RACE,2010,320
+Jefferson Park,U18RBASE,2010,189
+Jefferson Park,NONHISP,2019,1763
+Julia Keen,WHITE,2019,3447
+Julia Keen,BLACK,2019,204
+Julia Keen,AMERIND,2019,161
+Julia Keen,ASIAN,2019,92
+Julia Keen,PACIFIC,2019,2
+Julia Keen,OTHRACE,2019,1319
+Julia Keen,RACE2UP,2019,206
+Julia Keen,HISPPOP,2019,3763
+Julia Keen,MINORITY,2019,4141
+Julia Keen,WHITE,2010,3495
+Julia Keen,BLACK,2010,196
+Julia Keen,AMERIND,2010,151
+Julia Keen,ASIAN,2010,80
+Julia Keen,PACIFIC,2010,2
+Julia Keen,OTHRACE,2010,1169
+Julia Keen,RACE2UP,2010,188
+Julia Keen,HISPPOP,2010,3404
+Julia Keen,MINORITY,2010,3758
+Julia Keen,DIVINDX,2010,76.2
+Julia Keen,HISPWHT,2019,2158
+Julia Keen,HISPBLK,2019,43
+Julia Keen,HISPAI,2019,98
+Julia Keen,HISPASN,2019,11
+Julia Keen,HISPPI,2019,1
+Julia Keen,HISPOTH,2019,1317
+Julia Keen,HISPMLT,2019,135
+Julia Keen,HWHITE,2010,1971
+Julia Keen,HBLACK,2010,40
+Julia Keen,HAMERIND,2010,90
+Julia Keen,HASIAN,2010,10
+Julia Keen,HPACIFIC,2010,1
+Julia Keen,HOTHRACE,2010,1168
+Julia Keen,HRACE2UP,2010,124
+Julia Keen,HRACEBAS,2010,3404
+Julia Keen,H1RACE,2010,3280
+Julia Keen,HADRBASE,2010,2372
+Julia Keen,HAD1RACE,2010,2299
+Julia Keen,U18RBASE,2010,1313
+Julia Keen,NONHISP,2019,1666
+Keeling,WHITE,2019,2646
+Keeling,BLACK,2019,320
+Keeling,AMERIND,2019,245
+Keeling,ASIAN,2019,185
+Keeling,PACIFIC,2019,6
+Keeling,OTHRACE,2019,1133
+Keeling,RACE2UP,2019,228
+Keeling,HISPPOP,2019,2780
+Keeling,MINORITY,2019,3497
+Keeling,WHITE,2010,2777
+Keeling,BLACK,2010,312
+Keeling,AMERIND,2010,234
+Keeling,ASIAN,2010,163
+Keeling,PACIFIC,2010,6
+Keeling,OTHRACE,2010,1005
+Keeling,RACE2UP,2010,212
+Keeling,HISPPOP,2010,2515
+Keeling,MINORITY,2010,3195
+Keeling,DIVINDX,2010,82.1
+Keeling,HISPWHT,2019,1380
+Keeling,HISPBLK,2019,37
+Keeling,HISPAI,2019,108
+Keeling,HISPASN,2019,6
+Keeling,HISPPI,2019,0
+Keeling,HISPOTH,2019,1127
+Keeling,HISPMLT,2019,122
+Keeling,HWHITE,2010,1264
+Keeling,HBLACK,2010,34
+Keeling,HAMERIND,2010,100
+Keeling,HASIAN,2010,6
+Keeling,HPACIFIC,2010,0
+Keeling,HOTHRACE,2010,999
+Keeling,HRACE2UP,2010,113
+Keeling,HRACEBAS,2010,2516
+Keeling,H1RACE,2010,2402
+Keeling,HADRBASE,2010,1629
+Keeling,HAD1RACE,2010,1563
+Keeling,U18RBASE,2010,1223
+Keeling,NONHISP,2019,1983
+La Madera,WHITE,2019,847
+La Madera,BLACK,2019,37
+La Madera,AMERIND,2019,17
+La Madera,ASIAN,2019,30
+La Madera,PACIFIC,2019,2
+La Madera,OTHRACE,2019,76
+La Madera,RACE2UP,2019,54
+La Madera,HISPPOP,2019,225
+La Madera,MINORITY,2019,341
+La Madera,WHITE,2010,878
+La Madera,BLACK,2010,32
+La Madera,AMERIND,2010,14
+La Madera,ASIAN,2010,24
+La Madera,PACIFIC,2010,2
+La Madera,OTHRACE,2010,62
+La Madera,RACE2UP,2010,45
+La Madera,HISPPOP,2010,182
+La Madera,MINORITY,2010,280
+La Madera,DIVINDX,2010,50.6
+La Madera,HISPWHT,2019,124
+La Madera,HISPBLK,2019,2
+La Madera,HISPAI,2019,7
+La Madera,HISPASN,2019,0
+La Madera,HISPPI,2019,0
+La Madera,HISPOTH,2019,69
+La Madera,HISPMLT,2019,23
+La Madera,HWHITE,2010,101
+La Madera,HBLACK,2010,1
+La Madera,HAMERIND,2010,5
+La Madera,HASIAN,2010,0
+La Madera,HPACIFIC,2010,0
+La Madera,HOTHRACE,2010,55
+La Madera,HRACE2UP,2010,19
+La Madera,HRACEBAS,2010,181
+La Madera,H1RACE,2010,163
+La Madera,HADRBASE,2010,127
+La Madera,HAD1RACE,2010,118
+La Madera,U18RBASE,2010,163
+La Madera,NONHISP,2019,840
+Lakeside Park,WHITE,2019,3969
+Lakeside Park,BLACK,2019,408
+Lakeside Park,AMERIND,2019,103
+Lakeside Park,ASIAN,2019,207
+Lakeside Park,PACIFIC,2019,4
+Lakeside Park,OTHRACE,2019,625
+Lakeside Park,RACE2UP,2019,331
+Lakeside Park,HISPPOP,2019,1976
+Lakeside Park,MINORITY,2019,2762
+Lakeside Park,WHITE,2010,3979
+Lakeside Park,BLACK,2010,360
+Lakeside Park,AMERIND,2010,88
+Lakeside Park,ASIAN,2010,164
+Lakeside Park,PACIFIC,2010,4
+Lakeside Park,OTHRACE,2010,502
+Lakeside Park,RACE2UP,2010,275
+Lakeside Park,HISPPOP,2010,1619
+Lakeside Park,MINORITY,2010,2292
+Lakeside Park,DIVINDX,2010,67.9
+Lakeside Park,HISPWHT,2019,1084
+Lakeside Park,HISPBLK,2019,56
+Lakeside Park,HISPAI,2019,61
+Lakeside Park,HISPASN,2019,6
+Lakeside Park,HISPPI,2019,0
+Lakeside Park,HISPOTH,2019,617
+Lakeside Park,HISPMLT,2019,152
+Lakeside Park,HWHITE,2010,899
+Lakeside Park,HBLACK,2010,44
+Lakeside Park,HAMERIND,2010,51
+Lakeside Park,HASIAN,2010,5
+Lakeside Park,HPACIFIC,2010,0
+Lakeside Park,HOTHRACE,2010,494
+Lakeside Park,HRACE2UP,2010,126
+Lakeside Park,HRACEBAS,2010,1619
+Lakeside Park,H1RACE,2010,1493
+Lakeside Park,HADRBASE,2010,986
+Lakeside Park,HAD1RACE,2010,945
+Lakeside Park,U18RBASE,2010,1414
+Lakeside Park,NONHISP,2019,3671
+Las Vistas,WHITE,2019,1600
+Las Vistas,BLACK,2019,250
+Las Vistas,AMERIND,2019,131
+Las Vistas,ASIAN,2019,43
+Las Vistas,PACIFIC,2019,1
+Las Vistas,OTHRACE,2019,1040
+Las Vistas,RACE2UP,2019,190
+Las Vistas,HISPPOP,2019,2647
+Las Vistas,MINORITY,2019,3020
+Las Vistas,WHITE,2010,1626
+Las Vistas,BLACK,2010,258
+Las Vistas,AMERIND,2010,130
+Las Vistas,ASIAN,2010,39
+Las Vistas,PACIFIC,2010,1
+Las Vistas,OTHRACE,2010,973
+Las Vistas,RACE2UP,2010,186
+Las Vistas,HISPPOP,2010,2538
+Las Vistas,MINORITY,2010,2915
+Las Vistas,DIVINDX,2010,82.3
+Las Vistas,HISPWHT,2019,1364
+Las Vistas,HISPBLK,2019,14
+Las Vistas,HISPAI,2019,70
+Las Vistas,HISPASN,2019,2
+Las Vistas,HISPPI,2019,0
+Las Vistas,HISPOTH,2019,1036
+Las Vistas,HISPMLT,2019,160
+Las Vistas,HWHITE,2010,1328
+Las Vistas,HBLACK,2010,14
+Las Vistas,HAMERIND,2010,67
+Las Vistas,HASIAN,2010,2
+Las Vistas,HPACIFIC,2010,0
+Las Vistas,HOTHRACE,2010,969
+Las Vistas,HRACE2UP,2010,158
+Las Vistas,HRACEBAS,2010,2538
+Las Vistas,H1RACE,2010,2380
+Las Vistas,HADRBASE,2010,1593
+Las Vistas,HAD1RACE,2010,1504
+Las Vistas,U18RBASE,2010,1134
+Las Vistas,NONHISP,2019,609
+Limberlost,WHITE,2019,2422
+Limberlost,BLACK,2019,187
+Limberlost,AMERIND,2019,150
+Limberlost,ASIAN,2019,208
+Limberlost,PACIFIC,2019,12
+Limberlost,OTHRACE,2019,621
+Limberlost,RACE2UP,2019,199
+Limberlost,HISPPOP,2019,1659
+Limberlost,MINORITY,2019,2190
+Limberlost,WHITE,2010,2399
+Limberlost,BLACK,2010,162
+Limberlost,AMERIND,2010,129
+Limberlost,ASIAN,2010,165
+Limberlost,PACIFIC,2010,10
+Limberlost,OTHRACE,2010,494
+Limberlost,RACE2UP,2010,164
+Limberlost,HISPPOP,2010,1344
+Limberlost,MINORITY,2010,1789
+Limberlost,DIVINDX,2010,75.2
+Limberlost,HISPWHT,2019,813
+Limberlost,HISPBLK,2019,33
+Limberlost,HISPAI,2019,51
+Limberlost,HISPASN,2019,11
+Limberlost,HISPPI,2019,4
+Limberlost,HISPOTH,2019,621
+Limberlost,HISPMLT,2019,126
+Limberlost,HWHITE,2010,665
+Limberlost,HBLACK,2010,27
+Limberlost,HAMERIND,2010,42
+Limberlost,HASIAN,2010,9
+Limberlost,HPACIFIC,2010,3
+Limberlost,HOTHRACE,2010,494
+Limberlost,HRACE2UP,2010,104
+Limberlost,HRACEBAS,2010,1344
+Limberlost,H1RACE,2010,1240
+Limberlost,HADRBASE,2010,881
+Limberlost,HAD1RACE,2010,828
+Limberlost,U18RBASE,2010,767
+Limberlost,NONHISP,2019,2140
+Garden District,WHITE,2019,4551
+Garden District,BLACK,2019,444
+Garden District,AMERIND,2019,192
+Garden District,ASIAN,2019,267
+Garden District,PACIFIC,2019,12
+Garden District,OTHRACE,2019,819
+Garden District,RACE2UP,2019,356
+Garden District,HISPPOP,2019,2247
+Garden District,MINORITY,2019,3213
+Garden District,WHITE,2010,4775
+Garden District,BLACK,2010,395
+Garden District,AMERIND,2010,167
+Garden District,ASIAN,2010,217
+Garden District,PACIFIC,2010,12
+Garden District,OTHRACE,2010,681
+Garden District,RACE2UP,2010,307
+Garden District,HISPPOP,2010,1905
+Garden District,MINORITY,2010,2743
+Garden District,DIVINDX,2010,68.5
+Garden District,HISPWHT,2019,1122
+Garden District,HISPBLK,2019,37
+Garden District,HISPAI,2019,91
+Garden District,HISPASN,2019,13
+Garden District,HISPPI,2019,0
+Garden District,HISPOTH,2019,812
+Garden District,HISPMLT,2019,171
+Garden District,HWHITE,2010,964
+Garden District,HBLACK,2010,30
+Garden District,HAMERIND,2010,77
+Garden District,HASIAN,2010,12
+Garden District,HPACIFIC,2010,0
+Garden District,HOTHRACE,2010,674
+Garden District,HRACE2UP,2010,148
+Garden District,HRACEBAS,2010,1905
+Garden District,H1RACE,2010,1757
+Garden District,HADRBASE,2010,1242
+Garden District,HAD1RACE,2010,1158
+Garden District,U18RBASE,2010,1466
+Garden District,NONHISP,2019,4394
+Midvale Park,WHITE,2019,7464
+Midvale Park,BLACK,2019,546
+Midvale Park,AMERIND,2019,702
+Midvale Park,ASIAN,2019,178
+Midvale Park,PACIFIC,2019,26
+Midvale Park,OTHRACE,2019,5036
+Midvale Park,RACE2UP,2019,614
+Midvale Park,HISPPOP,2019,11553
+Midvale Park,MINORITY,2019,12774
+Midvale Park,WHITE,2010,7268
+Midvale Park,BLACK,2010,518
+Midvale Park,AMERIND,2010,663
+Midvale Park,ASIAN,2010,155
+Midvale Park,PACIFIC,2010,25
+Midvale Park,OTHRACE,2010,4443
+Midvale Park,RACE2UP,2010,563
+Midvale Park,HISPPOP,2010,10369
+Midvale Park,MINORITY,2010,11523
+Midvale Park,DIVINDX,2010,81.7
+Midvale Park,HISPWHT,2019,5674
+Midvale Park,HISPBLK,2019,123
+Midvale Park,HISPAI,2019,246
+Midvale Park,HISPASN,2019,24
+Midvale Park,HISPPI,2019,8
+Midvale Park,HISPOTH,2019,5027
+Midvale Park,HISPMLT,2019,452
+Midvale Park,HWHITE,2010,5156
+Midvale Park,HBLACK,2010,110
+Midvale Park,HAMERIND,2010,224
+Midvale Park,HASIAN,2010,22
+Midvale Park,HPACIFIC,2010,7
+Midvale Park,HOTHRACE,2010,4433
+Midvale Park,HRACE2UP,2010,416
+Midvale Park,HRACEBAS,2010,10368
+Midvale Park,H1RACE,2010,9953
+Midvale Park,HADRBASE,2010,6493
+Midvale Park,HAD1RACE,2010,6271
+Midvale Park,U18RBASE,2010,4565
+Midvale Park,NONHISP,2019,3012
+Miracle Manor,WHITE,2019,2279
+Miracle Manor,BLACK,2019,129
+Miracle Manor,AMERIND,2019,180
+Miracle Manor,ASIAN,2019,110
+Miracle Manor,PACIFIC,2019,24
+Miracle Manor,OTHRACE,2019,649
+Miracle Manor,RACE2UP,2019,167
+Miracle Manor,HISPPOP,2019,2293
+Miracle Manor,MINORITY,2019,2678
+Miracle Manor,WHITE,2010,2106
+Miracle Manor,BLACK,2010,111
+Miracle Manor,AMERIND,2010,162
+Miracle Manor,ASIAN,2010,88
+Miracle Manor,PACIFIC,2010,19
+Miracle Manor,OTHRACE,2010,532
+Miracle Manor,RACE2UP,2010,139
+Miracle Manor,HISPPOP,2010,1901
+Miracle Manor,MINORITY,2010,2229
+Miracle Manor,DIVINDX,2010,76.6
+Miracle Manor,HISPWHT,2019,1419
+Miracle Manor,HISPBLK,2019,27
+Miracle Manor,HISPAI,2019,70
+Miracle Manor,HISPASN,2019,7
+Miracle Manor,HISPPI,2019,5
+Miracle Manor,HISPOTH,2019,647
+Miracle Manor,HISPMLT,2019,118
+Miracle Manor,HWHITE,2010,1178
+Miracle Manor,HBLACK,2010,22
+Miracle Manor,HAMERIND,2010,61
+Miracle Manor,HASIAN,2010,6
+Miracle Manor,HPACIFIC,2010,5
+Miracle Manor,HOTHRACE,2010,530
+Miracle Manor,HRACE2UP,2010,99
+Miracle Manor,HRACEBAS,2010,1901
+Miracle Manor,H1RACE,2010,1802
+Miracle Manor,HADRBASE,2010,1260
+Miracle Manor,HAD1RACE,2010,1198
+Miracle Manor,U18RBASE,2010,820
+Miracle Manor,NONHISP,2019,1245
+Miramonte,WHITE,2019,2454
+Miramonte,BLACK,2019,239
+Miramonte,AMERIND,2019,115
+Miramonte,ASIAN,2019,179
+Miramonte,PACIFIC,2019,10
+Miramonte,OTHRACE,2019,341
+Miramonte,RACE2UP,2019,230
+Miramonte,HISPPOP,2019,971
+Miramonte,MINORITY,2019,1594
+Miramonte,WHITE,2010,2565
+Miramonte,BLACK,2010,212
+Miramonte,AMERIND,2010,102
+Miramonte,ASIAN,2010,143
+Miramonte,PACIFIC,2010,9
+Miramonte,OTHRACE,2010,279
+Miramonte,RACE2UP,2010,195
+Miramonte,HISPPOP,2010,807
+Miramonte,MINORITY,2010,1344
+Miramonte,DIVINDX,2010,65
+Miramonte,HISPWHT,2019,480
+Miramonte,HISPBLK,2019,20
+Miramonte,HISPAI,2019,28
+Miramonte,HISPASN,2019,9
+Miramonte,HISPPI,2019,1
+Miramonte,HISPOTH,2019,332
+Miramonte,HISPMLT,2019,100
+Miramonte,HWHITE,2010,403
+Miramonte,HBLACK,2010,16
+Miramonte,HAMERIND,2010,24
+Miramonte,HASIAN,2010,8
+Miramonte,HPACIFIC,2010,1
+Miramonte,HOTHRACE,2010,269
+Miramonte,HRACE2UP,2010,86
+Miramonte,HRACEBAS,2010,807
+Miramonte,H1RACE,2010,721
+Miramonte,HADRBASE,2010,578
+Miramonte,HAD1RACE,2010,534
+Miramonte,U18RBASE,2010,536
+Miramonte,NONHISP,2019,2597
+Mitman,WHITE,2019,975
+Mitman,BLACK,2019,65
+Mitman,AMERIND,2019,23
+Mitman,ASIAN,2019,45
+Mitman,PACIFIC,2019,2
+Mitman,OTHRACE,2019,110
+Mitman,RACE2UP,2019,55
+Mitman,HISPPOP,2019,346
+Mitman,MINORITY,2019,496
+Mitman,WHITE,2010,961
+Mitman,BLACK,2010,56
+Mitman,AMERIND,2010,20
+Mitman,ASIAN,2010,33
+Mitman,PACIFIC,2010,1
+Mitman,OTHRACE,2010,86
+Mitman,RACE2UP,2010,44
+Mitman,HISPPOP,2010,275
+Mitman,MINORITY,2010,397
+Mitman,DIVINDX,2010,58.4
+Mitman,HISPWHT,2019,196
+Mitman,HISPBLK,2019,7
+Mitman,HISPAI,2019,11
+Mitman,HISPASN,2019,1
+Mitman,HISPPI,2019,0
+Mitman,HISPOTH,2019,109
+Mitman,HISPMLT,2019,23
+Mitman,HWHITE,2010,157
+Mitman,HBLACK,2010,6
+Mitman,HAMERIND,2010,9
+Mitman,HASIAN,2010,0
+Mitman,HPACIFIC,2010,0
+Mitman,HOTHRACE,2010,84
+Mitman,HRACE2UP,2010,18
+Mitman,HRACEBAS,2010,274
+Mitman,H1RACE,2010,256
+Mitman,HADRBASE,2010,196
+Mitman,HAD1RACE,2010,185
+Mitman,U18RBASE,2010,204
+Mitman,NONHISP,2019,928
+Mortimore,WHITE,2019,703
+Mortimore,BLACK,2019,117
+Mortimore,AMERIND,2019,41
+Mortimore,ASIAN,2019,39
+Mortimore,PACIFIC,2019,2
+Mortimore,OTHRACE,2019,302
+Mortimore,RACE2UP,2019,68
+Mortimore,HISPPOP,2019,879
+Mortimore,MINORITY,2019,1057
+Mortimore,WHITE,2010,705
+Mortimore,BLACK,2010,114
+Mortimore,AMERIND,2010,39
+Mortimore,ASIAN,2010,35
+Mortimore,PACIFIC,2010,2
+Mortimore,OTHRACE,2010,269
+Mortimore,RACE2UP,2010,63
+Mortimore,HISPPOP,2010,799
+Mortimore,MINORITY,2010,970
+Mortimore,DIVINDX,2010,81.5
+Mortimore,HISPWHT,2019,488
+Mortimore,HISPBLK,2019,11
+Mortimore,HISPAI,2019,28
+Mortimore,HISPASN,2019,0
+Mortimore,HISPPI,2019,0
+Mortimore,HISPOTH,2019,300
+Mortimore,HISPMLT,2019,51
+Mortimore,HWHITE,2010,447
+Mortimore,HBLACK,2010,10
+Mortimore,HAMERIND,2010,27
+Mortimore,HASIAN,2010,0
+Mortimore,HPACIFIC,2010,0
+Mortimore,HOTHRACE,2010,267
+Mortimore,HRACE2UP,2010,48
+Mortimore,HRACEBAS,2010,799
+Mortimore,H1RACE,2010,751
+Mortimore,HADRBASE,2010,486
+Mortimore,HAD1RACE,2010,465
+Mortimore,U18RBASE,2010,418
+Mortimore,NONHISP,2019,393
+Mountain First Avenue,WHITE,2019,1028
+Mountain First Avenue,BLACK,2019,46
+Mountain First Avenue,AMERIND,2019,45
+Mountain First Avenue,ASIAN,2019,87
+Mountain First Avenue,PACIFIC,2019,2
+Mountain First Avenue,OTHRACE,2019,111
+Mountain First Avenue,RACE2UP,2019,53
+Mountain First Avenue,HISPPOP,2019,380
+Mountain First Avenue,MINORITY,2019,570
+Mountain First Avenue,WHITE,2010,1077
+Mountain First Avenue,BLACK,2010,42
+Mountain First Avenue,AMERIND,2010,40
+Mountain First Avenue,ASIAN,2010,70
+Mountain First Avenue,PACIFIC,2010,2
+Mountain First Avenue,OTHRACE,2010,91
+Mountain First Avenue,RACE2UP,2010,45
+Mountain First Avenue,HISPPOP,2010,318
+Mountain First Avenue,MINORITY,2010,481
+Mountain First Avenue,DIVINDX,2010,59.8
+Mountain First Avenue,HISPWHT,2019,227
+Mountain First Avenue,HISPBLK,2019,4
+Mountain First Avenue,HISPAI,2019,18
+Mountain First Avenue,HISPASN,2019,2
+Mountain First Avenue,HISPPI,2019,0
+Mountain First Avenue,HISPOTH,2019,109
+Mountain First Avenue,HISPMLT,2019,20
+Mountain First Avenue,HWHITE,2010,191
+Mountain First Avenue,HBLACK,2010,3
+Mountain First Avenue,HAMERIND,2010,16
+Mountain First Avenue,HASIAN,2010,2
+Mountain First Avenue,HPACIFIC,2010,0
+Mountain First Avenue,HOTHRACE,2010,89
+Mountain First Avenue,HRACE2UP,2010,17
+Mountain First Avenue,HRACEBAS,2010,318
+Mountain First Avenue,H1RACE,2010,301
+Mountain First Avenue,HADRBASE,2010,257
+Mountain First Avenue,HAD1RACE,2010,245
+Mountain First Avenue,U18RBASE,2010,143
+Mountain First Avenue,NONHISP,2019,992
+Mountain View,WHITE,2019,965
+Mountain View,BLACK,2019,84
+Mountain View,AMERIND,2019,51
+Mountain View,ASIAN,2019,51
+Mountain View,PACIFIC,2019,3
+Mountain View,OTHRACE,2019,236
+Mountain View,RACE2UP,2019,82
+Mountain View,HISPPOP,2019,632
+Mountain View,MINORITY,2019,815
+Mountain View,WHITE,2010,938
+Mountain View,BLACK,2010,71
+Mountain View,AMERIND,2010,42
+Mountain View,ASIAN,2010,39
+Mountain View,PACIFIC,2010,3
+Mountain View,OTHRACE,2010,183
+Mountain View,RACE2UP,2010,67
+Mountain View,HISPPOP,2010,501
+Mountain View,MINORITY,2010,653
+Mountain View,DIVINDX,2010,73.8
+Mountain View,HISPWHT,2019,308
+Mountain View,HISPBLK,2019,15
+Mountain View,HISPAI,2019,28
+Mountain View,HISPASN,2019,1
+Mountain View,HISPPI,2019,1
+Mountain View,HISPOTH,2019,235
+Mountain View,HISPMLT,2019,44
+Mountain View,HWHITE,2010,247
+Mountain View,HBLACK,2010,12
+Mountain View,HAMERIND,2010,22
+Mountain View,HASIAN,2010,1
+Mountain View,HPACIFIC,2010,1
+Mountain View,HOTHRACE,2010,182
+Mountain View,HRACE2UP,2010,36
+Mountain View,HRACEBAS,2010,501
+Mountain View,H1RACE,2010,465
+Mountain View,HADRBASE,2010,324
+Mountain View,HAD1RACE,2010,307
+Mountain View,U18RBASE,2010,316
+Mountain View,NONHISP,2019,841
+Myers,WHITE,2019,2631
+Myers,BLACK,2019,551
+Myers,AMERIND,2019,140
+Myers,ASIAN,2019,174
+Myers,PACIFIC,2019,18
+Myers,OTHRACE,2019,1384
+Myers,RACE2UP,2019,349
+Myers,HISPPOP,2019,2852
+Myers,MINORITY,2019,3774
+Myers,WHITE,2010,2799
+Myers,BLACK,2010,544
+Myers,AMERIND,2010,134
+Myers,ASIAN,2010,149
+Myers,PACIFIC,2010,18
+Myers,OTHRACE,2010,1239
+Myers,RACE2UP,2010,321
+Myers,HISPPOP,2010,2586
+Myers,MINORITY,2010,3469
+Myers,DIVINDX,2010,84.9
+Myers,HISPWHT,2019,1157
+Myers,HISPBLK,2019,47
+Myers,HISPAI,2019,45
+Myers,HISPASN,2019,6
+Myers,HISPPI,2019,3
+Myers,HISPOTH,2019,1379
+Myers,HISPMLT,2019,213
+Myers,HWHITE,2010,1065
+Myers,HBLACK,2010,44
+Myers,HAMERIND,2010,40
+Myers,HASIAN,2010,5
+Myers,HPACIFIC,2010,3
+Myers,HOTHRACE,2010,1234
+Myers,HRACE2UP,2010,194
+Myers,HRACEBAS,2010,2585
+Myers,H1RACE,2010,2392
+Myers,HADRBASE,2010,1626
+Myers,HAD1RACE,2010,1530
+Myers,U18RBASE,2010,1561
+Myers,NONHISP,2019,2396
+Naylor,WHITE,2019,581
+Naylor,BLACK,2019,85
+Naylor,AMERIND,2019,47
+Naylor,ASIAN,2019,46
+Naylor,PACIFIC,2019,0
+Naylor,OTHRACE,2019,273
+Naylor,RACE2UP,2019,82
+Naylor,HISPPOP,2019,636
+Naylor,MINORITY,2019,811
+Naylor,WHITE,2010,604
+Naylor,BLACK,2010,81
+Naylor,AMERIND,2010,44
+Naylor,ASIAN,2010,39
+Naylor,PACIFIC,2010,0
+Naylor,OTHRACE,2010,237
+Naylor,RACE2UP,2010,74
+Naylor,HISPPOP,2010,563
+Naylor,MINORITY,2010,724
+Naylor,DIVINDX,2010,83.9
+Naylor,HISPWHT,2019,278
+Naylor,HISPBLK,2019,2
+Naylor,HISPAI,2019,20
+Naylor,HISPASN,2019,0
+Naylor,HISPPI,2019,0
+Naylor,HISPOTH,2019,273
+Naylor,HISPMLT,2019,63
+Naylor,HWHITE,2010,249
+Naylor,HBLACK,2010,2
+Naylor,HAMERIND,2010,18
+Naylor,HASIAN,2010,0
+Naylor,HPACIFIC,2010,0
+Naylor,HOTHRACE,2010,237
+Naylor,HRACE2UP,2010,57
+Naylor,HRACEBAS,2010,563
+Naylor,H1RACE,2010,506
+Naylor,HADRBASE,2010,364
+Naylor,HAD1RACE,2010,335
+Naylor,U18RBASE,2010,306
+Naylor,NONHISP,2019,478
+North Dodge,WHITE,2019,1358
+North Dodge,BLACK,2019,213
+North Dodge,AMERIND,2019,110
+North Dodge,ASIAN,2019,26
+North Dodge,PACIFIC,2019,13
+North Dodge,OTHRACE,2019,343
+North Dodge,RACE2UP,2019,172
+North Dodge,HISPPOP,2019,828
+North Dodge,MINORITY,2019,1234
+North Dodge,WHITE,2010,1384
+North Dodge,BLACK,2010,188
+North Dodge,AMERIND,2010,97
+North Dodge,ASIAN,2010,21
+North Dodge,PACIFIC,2010,12
+North Dodge,OTHRACE,2010,280
+North Dodge,RACE2UP,2010,146
+North Dodge,HISPPOP,2010,684
+North Dodge,MINORITY,2010,1039
+North Dodge,DIVINDX,2010,75.6
+North Dodge,HISPWHT,2019,357
+North Dodge,HISPBLK,2019,13
+North Dodge,HISPAI,2019,25
+North Dodge,HISPASN,2019,1
+North Dodge,HISPPI,2019,9
+North Dodge,HISPOTH,2019,341
+North Dodge,HISPMLT,2019,83
+North Dodge,HWHITE,2010,296
+North Dodge,HBLACK,2010,11
+North Dodge,HAMERIND,2010,21
+North Dodge,HASIAN,2010,1
+North Dodge,HPACIFIC,2010,8
+North Dodge,HOTHRACE,2010,277
+North Dodge,HRACE2UP,2010,71
+North Dodge,HRACEBAS,2010,685
+North Dodge,H1RACE,2010,613
+North Dodge,HADRBASE,2010,460
+North Dodge,HAD1RACE,2010,423
+North Dodge,U18RBASE,2010,444
+North Dodge,NONHISP,2019,1407
+North University,WHITE,2019,1443
+North University,BLACK,2019,32
+North University,AMERIND,2019,27
+North University,ASIAN,2019,347
+North University,PACIFIC,2019,0
+North University,OTHRACE,2019,112
+North University,RACE2UP,2019,71
+North University,HISPPOP,2019,322
+North University,MINORITY,2019,776
+North University,WHITE,2010,1573
+North University,BLACK,2010,29
+North University,AMERIND,2010,25
+North University,ASIAN,2010,286
+North University,PACIFIC,2010,0
+North University,OTHRACE,2010,94
+North University,RACE2UP,2010,62
+North University,HISPPOP,2010,273
+North University,MINORITY,2010,657
+North University,DIVINDX,2010,53.9
+North University,HISPWHT,2019,188
+North University,HISPBLK,2019,2
+North University,HISPAI,2019,7
+North University,HISPASN,2019,2
+North University,HISPPI,2019,0
+North University,HISPOTH,2019,105
+North University,HISPMLT,2019,18
+North University,HWHITE,2010,161
+North University,HBLACK,2010,2
+North University,HAMERIND,2010,6
+North University,HASIAN,2010,2
+North University,HPACIFIC,2010,0
+North University,HOTHRACE,2010,87
+North University,HRACE2UP,2010,15
+North University,HRACEBAS,2010,273
+North University,H1RACE,2010,258
+North University,HADRBASE,2010,245
+North University,HAD1RACE,2010,233
+North University,U18RBASE,2010,95
+North University,NONHISP,2019,1710
+Oak Flower,WHITE,2019,1677
+Oak Flower,BLACK,2019,206
+Oak Flower,AMERIND,2019,94
+Oak Flower,ASIAN,2019,98
+Oak Flower,PACIFIC,2019,13
+Oak Flower,OTHRACE,2019,249
+Oak Flower,RACE2UP,2019,141
+Oak Flower,HISPPOP,2019,761
+Oak Flower,MINORITY,2019,1234
+Oak Flower,WHITE,2010,1654
+Oak Flower,BLACK,2010,175
+Oak Flower,AMERIND,2010,81
+Oak Flower,ASIAN,2010,76
+Oak Flower,PACIFIC,2010,11
+Oak Flower,OTHRACE,2010,194
+Oak Flower,RACE2UP,2010,115
+Oak Flower,HISPPOP,2010,604
+Oak Flower,MINORITY,2010,998
+Oak Flower,DIVINDX,2010,67.9
+Oak Flower,HISPWHT,2019,433
+Oak Flower,HISPBLK,2019,16
+Oak Flower,HISPAI,2019,20
+Oak Flower,HISPASN,2019,0
+Oak Flower,HISPPI,2019,0
+Oak Flower,HISPOTH,2019,242
+Oak Flower,HISPMLT,2019,50
+Oak Flower,HWHITE,2010,347
+Oak Flower,HBLACK,2010,13
+Oak Flower,HAMERIND,2010,16
+Oak Flower,HASIAN,2010,0
+Oak Flower,HPACIFIC,2010,0
+Oak Flower,HOTHRACE,2010,187
+Oak Flower,HRACE2UP,2010,41
+Oak Flower,HRACEBAS,2010,604
+Oak Flower,H1RACE,2010,563
+Oak Flower,HADRBASE,2010,424
+Oak Flower,HAD1RACE,2010,407
+Oak Flower,U18RBASE,2010,419
+Oak Flower,NONHISP,2019,1717
+Old Fort Lowell,WHITE,2019,1806
+Old Fort Lowell,BLACK,2019,74
+Old Fort Lowell,AMERIND,2019,22
+Old Fort Lowell,ASIAN,2019,123
+Old Fort Lowell,PACIFIC,2019,1
+Old Fort Lowell,OTHRACE,2019,137
+Old Fort Lowell,RACE2UP,2019,77
+Old Fort Lowell,HISPPOP,2019,452
+Old Fort Lowell,MINORITY,2019,732
+Old Fort Lowell,WHITE,2010,1876
+Old Fort Lowell,BLACK,2010,64
+Old Fort Lowell,AMERIND,2010,21
+Old Fort Lowell,ASIAN,2010,99
+Old Fort Lowell,PACIFIC,2010,1
+Old Fort Lowell,OTHRACE,2010,113
+Old Fort Lowell,RACE2UP,2010,64
+Old Fort Lowell,HISPPOP,2010,372
+Old Fort Lowell,MINORITY,2010,607
+Old Fort Lowell,DIVINDX,2010,49
+Old Fort Lowell,HISPWHT,2019,297
+Old Fort Lowell,HISPBLK,2019,6
+Old Fort Lowell,HISPAI,2019,3
+Old Fort Lowell,HISPASN,2019,1
+Old Fort Lowell,HISPPI,2019,0
+Old Fort Lowell,HISPOTH,2019,124
+Old Fort Lowell,HISPMLT,2019,21
+Old Fort Lowell,HWHITE,2010,246
+Old Fort Lowell,HBLACK,2010,5
+Old Fort Lowell,HAMERIND,2010,3
+Old Fort Lowell,HASIAN,2010,1
+Old Fort Lowell,HPACIFIC,2010,0
+Old Fort Lowell,HOTHRACE,2010,100
+Old Fort Lowell,HRACE2UP,2010,18
+Old Fort Lowell,HRACEBAS,2010,373
+Old Fort Lowell,H1RACE,2010,354
+Old Fort Lowell,HADRBASE,2010,276
+Old Fort Lowell,HAD1RACE,2010,264
+Old Fort Lowell,U18RBASE,2010,323
+Old Fort Lowell,NONHISP,2019,1788
+Palo Verde,WHITE,2019,3965
+Palo Verde,BLACK,2019,335
+Palo Verde,AMERIND,2019,192
+Palo Verde,ASIAN,2019,252
+Palo Verde,PACIFIC,2019,45
+Palo Verde,OTHRACE,2019,542
+Palo Verde,RACE2UP,2019,271
+Palo Verde,HISPPOP,2019,1490
+Palo Verde,MINORITY,2019,2384
+Palo Verde,WHITE,2010,4129
+Palo Verde,BLACK,2010,299
+Palo Verde,AMERIND,2010,168
+Palo Verde,ASIAN,2010,201
+Palo Verde,PACIFIC,2010,39
+Palo Verde,OTHRACE,2010,442
+Palo Verde,RACE2UP,2010,230
+Palo Verde,HISPPOP,2010,1239
+Palo Verde,MINORITY,2010,2008
+Palo Verde,DIVINDX,2010,63.1
+Palo Verde,HISPWHT,2019,748
+Palo Verde,HISPBLK,2019,33
+Palo Verde,HISPAI,2019,65
+Palo Verde,HISPASN,2019,3
+Palo Verde,HISPPI,2019,4
+Palo Verde,HISPOTH,2019,535
+Palo Verde,HISPMLT,2019,102
+Palo Verde,HWHITE,2010,629
+Palo Verde,HBLACK,2010,28
+Palo Verde,HAMERIND,2010,55
+Palo Verde,HASIAN,2010,3
+Palo Verde,HPACIFIC,2010,3
+Palo Verde,HOTHRACE,2010,434
+Palo Verde,HRACE2UP,2010,88
+Palo Verde,HRACEBAS,2010,1240
+Palo Verde,H1RACE,2010,1152
+Palo Verde,HADRBASE,2010,852
+Palo Verde,HAD1RACE,2010,807
+Palo Verde,U18RBASE,2010,1044
+Palo Verde,NONHISP,2019,4112
+Panorama Estates,WHITE,2019,67
+Panorama Estates,BLACK,2019,1
+Panorama Estates,AMERIND,2019,3
+Panorama Estates,ASIAN,2019,2
+Panorama Estates,PACIFIC,2019,0
+Panorama Estates,OTHRACE,2019,21
+Panorama Estates,RACE2UP,2019,4
+Panorama Estates,HISPPOP,2019,63
+Panorama Estates,MINORITY,2019,70
+Panorama Estates,WHITE,2010,69
+Panorama Estates,BLACK,2010,1
+Panorama Estates,AMERIND,2010,3
+Panorama Estates,ASIAN,2010,1
+Panorama Estates,PACIFIC,2010,0
+Panorama Estates,OTHRACE,2010,19
+Panorama Estates,RACE2UP,2010,4
+Panorama Estates,HISPPOP,2010,57
+Panorama Estates,MINORITY,2010,64
+Panorama Estates,DIVINDX,2010,74.5
+Panorama Estates,HISPWHT,2019,38
+Panorama Estates,HISPBLK,2019,0
+Panorama Estates,HISPAI,2019,1
+Panorama Estates,HISPASN,2019,0
+Panorama Estates,HISPPI,2019,0
+Panorama Estates,HISPOTH,2019,21
+Panorama Estates,HISPMLT,2019,3
+Panorama Estates,HWHITE,2010,35
+Panorama Estates,HBLACK,2010,0
+Panorama Estates,HAMERIND,2010,1
+Panorama Estates,HASIAN,2010,0
+Panorama Estates,HPACIFIC,2010,0
+Panorama Estates,HOTHRACE,2010,18
+Panorama Estates,HRACE2UP,2010,2
+Panorama Estates,HRACEBAS,2010,56
+Panorama Estates,H1RACE,2010,55
+Panorama Estates,HADRBASE,2010,44
+Panorama Estates,HAD1RACE,2010,42
+Panorama Estates,U18RBASE,2010,17
+Panorama Estates,NONHISP,2019,35
+Westside Development,WHITE,2019,2842
+Westside Development,BLACK,2019,184
+Westside Development,AMERIND,2019,197
+Westside Development,ASIAN,2019,61
+Westside Development,PACIFIC,2019,11
+Westside Development,OTHRACE,2019,1283
+Westside Development,RACE2UP,2019,220
+Westside Development,HISPPOP,2019,3231
+Westside Development,MINORITY,2019,3620
+Westside Development,WHITE,2010,2871
+Westside Development,BLACK,2010,177
+Westside Development,AMERIND,2010,189
+Westside Development,ASIAN,2010,54
+Westside Development,PACIFIC,2010,11
+Westside Development,OTHRACE,2010,1133
+Westside Development,RACE2UP,2010,202
+Westside Development,HISPPOP,2010,2895
+Westside Development,MINORITY,2010,3269
+Westside Development,DIVINDX,2010,79.5
+Westside Development,HISPWHT,2019,1664
+Westside Development,HISPBLK,2019,25
+Westside Development,HISPAI,2019,75
+Westside Development,HISPASN,2019,18
+Westside Development,HISPPI,2019,1
+Westside Development,HISPOTH,2019,1275
+Westside Development,HISPMLT,2019,173
+Westside Development,HWHITE,2010,1503
+Westside Development,HBLACK,2010,22
+Westside Development,HAMERIND,2010,69
+Westside Development,HASIAN,2010,17
+Westside Development,HPACIFIC,2010,1
+Westside Development,HOTHRACE,2010,1124
+Westside Development,HRACE2UP,2010,159
+Westside Development,HRACEBAS,2010,2895
+Westside Development,H1RACE,2010,2736
+Westside Development,HADRBASE,2010,1978
+Westside Development,HAD1RACE,2010,1887
+Westside Development,U18RBASE,2010,1170
+Westside Development,NONHISP,2019,1568
+Parkway Terrace,WHITE,2019,119
+Parkway Terrace,BLACK,2019,13
+Parkway Terrace,AMERIND,2019,8
+Parkway Terrace,ASIAN,2019,3
+Parkway Terrace,PACIFIC,2019,3
+Parkway Terrace,OTHRACE,2019,57
+Parkway Terrace,RACE2UP,2019,15
+Parkway Terrace,HISPPOP,2019,152
+Parkway Terrace,MINORITY,2019,181
+Parkway Terrace,WHITE,2010,121
+Parkway Terrace,BLACK,2010,13
+Parkway Terrace,AMERIND,2010,8
+Parkway Terrace,ASIAN,2010,3
+Parkway Terrace,PACIFIC,2010,3
+Parkway Terrace,OTHRACE,2010,52
+Parkway Terrace,RACE2UP,2010,14
+Parkway Terrace,HISPPOP,2010,140
+Parkway Terrace,MINORITY,2010,167
+Parkway Terrace,DIVINDX,2010,82
+Parkway Terrace,HISPWHT,2019,81
+Parkway Terrace,HISPBLK,2019,1
+Parkway Terrace,HISPAI,2019,3
+Parkway Terrace,HISPASN,2019,1
+Parkway Terrace,HISPPI,2019,0
+Parkway Terrace,HISPOTH,2019,57
+Parkway Terrace,HISPMLT,2019,10
+Parkway Terrace,HWHITE,2010,75
+Parkway Terrace,HBLACK,2010,1
+Parkway Terrace,HAMERIND,2010,3
+Parkway Terrace,HASIAN,2010,1
+Parkway Terrace,HPACIFIC,2010,0
+Parkway Terrace,HOTHRACE,2010,51
+Parkway Terrace,HRACE2UP,2010,9
+Parkway Terrace,HRACEBAS,2010,140
+Parkway Terrace,H1RACE,2010,131
+Parkway Terrace,HADRBASE,2010,102
+Parkway Terrace,HAD1RACE,2010,96
+Parkway Terrace,U18RBASE,2010,50
+Parkway Terrace,NONHISP,2019,66
+Peter Howell,WHITE,2019,1527
+Peter Howell,BLACK,2019,61
+Peter Howell,AMERIND,2019,29
+Peter Howell,ASIAN,2019,54
+Peter Howell,PACIFIC,2019,1
+Peter Howell,OTHRACE,2019,107
+Peter Howell,RACE2UP,2019,81
+Peter Howell,HISPPOP,2019,440
+Peter Howell,MINORITY,2019,619
+Peter Howell,WHITE,2010,1528
+Peter Howell,BLACK,2010,53
+Peter Howell,AMERIND,2010,23
+Peter Howell,ASIAN,2010,41
+Peter Howell,PACIFIC,2010,1
+Peter Howell,OTHRACE,2010,84
+Peter Howell,RACE2UP,2010,66
+Peter Howell,HISPPOP,2010,351
+Peter Howell,MINORITY,2010,497
+Peter Howell,DIVINDX,2010,50.3
+Peter Howell,HISPWHT,2019,285
+Peter Howell,HISPBLK,2019,6
+Peter Howell,HISPAI,2019,16
+Peter Howell,HISPASN,2019,1
+Peter Howell,HISPPI,2019,0
+Peter Howell,HISPOTH,2019,107
+Peter Howell,HISPMLT,2019,27
+Peter Howell,HWHITE,2010,228
+Peter Howell,HBLACK,2010,5
+Peter Howell,HAMERIND,2010,12
+Peter Howell,HASIAN,2010,1
+Peter Howell,HPACIFIC,2010,0
+Peter Howell,HOTHRACE,2010,84
+Peter Howell,HRACE2UP,2010,22
+Peter Howell,HRACEBAS,2010,352
+Peter Howell,H1RACE,2010,329
+Peter Howell,HADRBASE,2010,225
+Peter Howell,HAD1RACE,2010,215
+Peter Howell,U18RBASE,2010,327
+Peter Howell,NONHISP,2019,1421
+Pie Allen,WHITE,2019,550
+Pie Allen,BLACK,2019,19
+Pie Allen,AMERIND,2019,8
+Pie Allen,ASIAN,2019,66
+Pie Allen,PACIFIC,2019,0
+Pie Allen,OTHRACE,2019,37
+Pie Allen,RACE2UP,2019,38
+Pie Allen,HISPPOP,2019,140
+Pie Allen,MINORITY,2019,255
+Pie Allen,WHITE,2010,555
+Pie Allen,BLACK,2010,16
+Pie Allen,AMERIND,2010,7
+Pie Allen,ASIAN,2010,50
+Pie Allen,PACIFIC,2010,0
+Pie Allen,OTHRACE,2010,29
+Pie Allen,RACE2UP,2010,30
+Pie Allen,HISPPOP,2010,112
+Pie Allen,MINORITY,2010,204
+Pie Allen,DIVINDX,2010,52.4
+Pie Allen,HISPWHT,2019,87
+Pie Allen,HISPBLK,2019,2
+Pie Allen,HISPAI,2019,2
+Pie Allen,HISPASN,2019,1
+Pie Allen,HISPPI,2019,0
+Pie Allen,HISPOTH,2019,36
+Pie Allen,HISPMLT,2019,12
+Pie Allen,HWHITE,2010,70
+Pie Allen,HBLACK,2010,1
+Pie Allen,HAMERIND,2010,1
+Pie Allen,HASIAN,2010,1
+Pie Allen,HPACIFIC,2010,0
+Pie Allen,HOTHRACE,2010,28
+Pie Allen,HRACE2UP,2010,10
+Pie Allen,HRACEBAS,2010,111
+Pie Allen,H1RACE,2010,102
+Pie Allen,HADRBASE,2010,104
+Pie Allen,HAD1RACE,2010,96
+Pie Allen,U18RBASE,2010,26
+Pie Allen,NONHISP,2019,578
+Poets Square,WHITE,2019,902
+Poets Square,BLACK,2019,28
+Poets Square,AMERIND,2019,18
+Poets Square,ASIAN,2019,28
+Poets Square,PACIFIC,2019,2
+Poets Square,OTHRACE,2019,68
+Poets Square,RACE2UP,2019,68
+Poets Square,HISPPOP,2019,346
+Poets Square,MINORITY,2019,439
+Poets Square,WHITE,2010,938
+Poets Square,BLACK,2010,25
+Poets Square,AMERIND,2010,16
+Poets Square,ASIAN,2010,23
+Poets Square,PACIFIC,2010,2
+Poets Square,OTHRACE,2010,56
+Poets Square,RACE2UP,2010,59
+Poets Square,HISPPOP,2010,292
+Poets Square,MINORITY,2010,373
+Poets Square,DIVINDX,2010,56.7
+Poets Square,HISPWHT,2019,226
+Poets Square,HISPBLK,2019,2
+Poets Square,HISPAI,2019,12
+Poets Square,HISPASN,2019,2
+Poets Square,HISPPI,2019,1
+Poets Square,HISPOTH,2019,66
+Poets Square,HISPMLT,2019,38
+Poets Square,HWHITE,2010,192
+Poets Square,HBLACK,2010,2
+Poets Square,HAMERIND,2010,10
+Poets Square,HASIAN,2010,2
+Poets Square,HPACIFIC,2010,1
+Poets Square,HOTHRACE,2010,54
+Poets Square,HRACE2UP,2010,32
+Poets Square,HRACEBAS,2010,293
+Poets Square,H1RACE,2010,260
+Poets Square,HADRBASE,2010,195
+Poets Square,HAD1RACE,2010,182
+Poets Square,U18RBASE,2010,222
+Poets Square,NONHISP,2019,768
+RillitoBend,WHITE,2019,1351
+RillitoBend,BLACK,2019,41
+RillitoBend,AMERIND,2019,21
+RillitoBend,ASIAN,2019,87
+RillitoBend,PACIFIC,2019,0
+RillitoBend,OTHRACE,2019,130
+RillitoBend,RACE2UP,2019,93
+RillitoBend,HISPPOP,2019,337
+RillitoBend,MINORITY,2019,535
+RillitoBend,WHITE,2010,1387
+RillitoBend,BLACK,2010,35
+RillitoBend,AMERIND,2010,19
+RillitoBend,ASIAN,2010,67
+RillitoBend,PACIFIC,2010,0
+RillitoBend,OTHRACE,2010,102
+RillitoBend,RACE2UP,2010,76
+RillitoBend,HISPPOP,2010,270
+RillitoBend,MINORITY,2010,430
+RillitoBend,DIVINDX,2010,50.4
+RillitoBend,HISPWHT,2019,162
+RillitoBend,HISPBLK,2019,1
+RillitoBend,HISPAI,2019,2
+RillitoBend,HISPASN,2019,1
+RillitoBend,HISPPI,2019,0
+RillitoBend,HISPOTH,2019,129
+RillitoBend,HISPMLT,2019,41
+RillitoBend,HWHITE,2010,131
+RillitoBend,HBLACK,2010,1
+RillitoBend,HAMERIND,2010,2
+RillitoBend,HASIAN,2010,1
+RillitoBend,HPACIFIC,2010,0
+RillitoBend,HOTHRACE,2010,101
+RillitoBend,HRACE2UP,2010,34
+RillitoBend,HRACEBAS,2010,270
+RillitoBend,H1RACE,2010,236
+RillitoBend,HADRBASE,2010,204
+RillitoBend,HAD1RACE,2010,187
+RillitoBend,U18RBASE,2010,199
+RillitoBend,NONHISP,2019,1386
+Pueblo Gardens,WHITE,2019,1233
+Pueblo Gardens,BLACK,2019,166
+Pueblo Gardens,AMERIND,2019,92
+Pueblo Gardens,ASIAN,2019,73
+Pueblo Gardens,PACIFIC,2019,1
+Pueblo Gardens,OTHRACE,2019,846
+Pueblo Gardens,RACE2UP,2019,161
+Pueblo Gardens,HISPPOP,2019,1984
+Pueblo Gardens,MINORITY,2019,2285
+Pueblo Gardens,WHITE,2010,1229
+Pueblo Gardens,BLACK,2010,163
+Pueblo Gardens,AMERIND,2010,89
+Pueblo Gardens,ASIAN,2010,65
+Pueblo Gardens,PACIFIC,2010,1
+Pueblo Gardens,OTHRACE,2010,762
+Pueblo Gardens,RACE2UP,2010,151
+Pueblo Gardens,HISPPOP,2010,1822
+Pueblo Gardens,MINORITY,2010,2112
+Pueblo Gardens,DIVINDX,2010,84.2
+Pueblo Gardens,HISPWHT,2019,947
+Pueblo Gardens,HISPBLK,2019,20
+Pueblo Gardens,HISPAI,2019,40
+Pueblo Gardens,HISPASN,2019,2
+Pueblo Gardens,HISPPI,2019,0
+Pueblo Gardens,HISPOTH,2019,842
+Pueblo Gardens,HISPMLT,2019,134
+Pueblo Gardens,HWHITE,2010,882
+Pueblo Gardens,HBLACK,2010,19
+Pueblo Gardens,HAMERIND,2010,38
+Pueblo Gardens,HASIAN,2010,2
+Pueblo Gardens,HPACIFIC,2010,0
+Pueblo Gardens,HOTHRACE,2010,757
+Pueblo Gardens,HRACE2UP,2010,125
+Pueblo Gardens,HRACEBAS,2010,1823
+Pueblo Gardens,H1RACE,2010,1697
+Pueblo Gardens,HADRBASE,2010,1181
+Pueblo Gardens,HAD1RACE,2010,1115
+Pueblo Gardens,U18RBASE,2010,788
+Pueblo Gardens,NONHISP,2019,587
+Richland Heights East,WHITE,2019,400
+Richland Heights East,BLACK,2019,43
+Richland Heights East,AMERIND,2019,17
+Richland Heights East,ASIAN,2019,34
+Richland Heights East,PACIFIC,2019,0
+Richland Heights East,OTHRACE,2019,51
+Richland Heights East,RACE2UP,2019,34
+Richland Heights East,HISPPOP,2019,155
+Richland Heights East,MINORITY,2019,260
+Richland Heights East,WHITE,2010,414
+Richland Heights East,BLACK,2010,37
+Richland Heights East,AMERIND,2010,14
+Richland Heights East,ASIAN,2010,26
+Richland Heights East,PACIFIC,2010,0
+Richland Heights East,OTHRACE,2010,40
+Richland Heights East,RACE2UP,2010,29
+Richland Heights East,HISPPOP,2010,127
+Richland Heights East,MINORITY,2010,216
+Richland Heights East,DIVINDX,2010,64.2
+Richland Heights East,HISPWHT,2019,83
+Richland Heights East,HISPBLK,2019,4
+Richland Heights East,HISPAI,2019,6
+Richland Heights East,HISPASN,2019,0
+Richland Heights East,HISPPI,2019,0
+Richland Heights East,HISPOTH,2019,51
+Richland Heights East,HISPMLT,2019,12
+Richland Heights East,HWHITE,2010,69
+Richland Heights East,HBLACK,2010,3
+Richland Heights East,HAMERIND,2010,5
+Richland Heights East,HASIAN,2010,0
+Richland Heights East,HPACIFIC,2010,0
+Richland Heights East,HOTHRACE,2010,40
+Richland Heights East,HRACE2UP,2010,10
+Richland Heights East,HRACEBAS,2010,127
+Richland Heights East,H1RACE,2010,117
+Richland Heights East,HADRBASE,2010,90
+Richland Heights East,HAD1RACE,2010,84
+Richland Heights East,U18RBASE,2010,101
+Richland Heights East,NONHISP,2019,422
+Richland Heights West,WHITE,2019,426
+Richland Heights West,BLACK,2019,14
+Richland Heights West,AMERIND,2019,14
+Richland Heights West,ASIAN,2019,16
+Richland Heights West,PACIFIC,2019,2
+Richland Heights West,OTHRACE,2019,38
+Richland Heights West,RACE2UP,2019,18
+Richland Heights West,HISPPOP,2019,110
+Richland Heights West,MINORITY,2019,162
+Richland Heights West,WHITE,2010,455
+Richland Heights West,BLACK,2010,13
+Richland Heights West,AMERIND,2010,12
+Richland Heights West,ASIAN,2010,13
+Richland Heights West,PACIFIC,2010,2
+Richland Heights West,OTHRACE,2010,31
+Richland Heights West,RACE2UP,2010,15
+Richland Heights West,HISPPOP,2010,92
+Richland Heights West,MINORITY,2010,137
+Richland Heights West,DIVINDX,2010,49.1
+Richland Heights West,HISPWHT,2019,60
+Richland Heights West,HISPBLK,2019,0
+Richland Heights West,HISPAI,2019,7
+Richland Heights West,HISPASN,2019,0
+Richland Heights West,HISPPI,2019,1
+Richland Heights West,HISPOTH,2019,36
+Richland Heights West,HISPMLT,2019,6
+Richland Heights West,HWHITE,2010,51
+Richland Heights West,HBLACK,2010,0
+Richland Heights West,HAMERIND,2010,6
+Richland Heights West,HASIAN,2010,0
+Richland Heights West,HPACIFIC,2010,1
+Richland Heights West,HOTHRACE,2010,29
+Richland Heights West,HRACE2UP,2010,5
+Richland Heights West,HRACEBAS,2010,92
+Richland Heights West,H1RACE,2010,87
+Richland Heights West,HADRBASE,2010,72
+Richland Heights West,HAD1RACE,2010,68
+Richland Heights West,U18RBASE,2010,81
+Richland Heights West,NONHISP,2019,418
+Rillito,WHITE,2019,1048
+Rillito,BLACK,2019,71
+Rillito,AMERIND,2019,28
+Rillito,ASIAN,2019,157
+Rillito,PACIFIC,2019,3
+Rillito,OTHRACE,2019,139
+Rillito,RACE2UP,2019,99
+Rillito,HISPPOP,2019,413
+Rillito,MINORITY,2019,721
+Rillito,WHITE,2010,1059
+Rillito,BLACK,2010,61
+Rillito,AMERIND,2010,24
+Rillito,ASIAN,2010,122
+Rillito,PACIFIC,2010,3
+Rillito,OTHRACE,2010,111
+Rillito,RACE2UP,2010,81
+Rillito,HISPPOP,2010,333
+Rillito,MINORITY,2010,584
+Rillito,DIVINDX,2010,65.4
+Rillito,HISPWHT,2019,224
+Rillito,HISPBLK,2019,10
+Rillito,HISPAI,2019,13
+Rillito,HISPASN,2019,1
+Rillito,HISPPI,2019,1
+Rillito,HISPOTH,2019,132
+Rillito,HISPMLT,2019,32
+Rillito,HWHITE,2010,182
+Rillito,HBLACK,2010,8
+Rillito,HAMERIND,2010,11
+Rillito,HASIAN,2010,1
+Rillito,HPACIFIC,2010,1
+Rillito,HOTHRACE,2010,104
+Rillito,HRACE2UP,2010,26
+Rillito,HRACEBAS,2010,333
+Rillito,H1RACE,2010,307
+Rillito,HADRBASE,2010,230
+Rillito,HAD1RACE,2010,215
+Rillito,U18RBASE,2010,299
+Rillito,NONHISP,2019,1132
+Rincon Heights,WHITE,2019,1637
+Rincon Heights,BLACK,2019,70
+Rincon Heights,AMERIND,2019,53
+Rincon Heights,ASIAN,2019,176
+Rincon Heights,PACIFIC,2019,6
+Rincon Heights,OTHRACE,2019,218
+Rincon Heights,RACE2UP,2019,111
+Rincon Heights,HISPPOP,2019,605
+Rincon Heights,MINORITY,2019,958
+Rincon Heights,WHITE,2010,1654
+Rincon Heights,BLACK,2010,61
+Rincon Heights,AMERIND,2010,46
+Rincon Heights,ASIAN,2010,136
+Rincon Heights,PACIFIC,2010,5
+Rincon Heights,OTHRACE,2010,174
+Rincon Heights,RACE2UP,2010,92
+Rincon Heights,HISPPOP,2010,487
+Rincon Heights,MINORITY,2010,776
+Rincon Heights,DIVINDX,2010,61.7
+Rincon Heights,HISPWHT,2019,324
+Rincon Heights,HISPBLK,2019,11
+Rincon Heights,HISPAI,2019,13
+Rincon Heights,HISPASN,2019,3
+Rincon Heights,HISPPI,2019,4
+Rincon Heights,HISPOTH,2019,208
+Rincon Heights,HISPMLT,2019,42
+Rincon Heights,HWHITE,2010,264
+Rincon Heights,HBLACK,2010,9
+Rincon Heights,HAMERIND,2010,11
+Rincon Heights,HASIAN,2010,2
+Rincon Heights,HPACIFIC,2010,3
+Rincon Heights,HOTHRACE,2010,164
+Rincon Heights,HRACE2UP,2010,34
+Rincon Heights,HRACEBAS,2010,487
+Rincon Heights,H1RACE,2010,453
+Rincon Heights,HADRBASE,2010,417
+Rincon Heights,HAD1RACE,2010,390
+Rincon Heights,U18RBASE,2010,141
+Rincon Heights,NONHISP,2019,1666
+Rita Ranch,WHITE,2019,13274
+Rita Ranch,BLACK,2019,987
+Rita Ranch,AMERIND,2019,129
+Rita Ranch,ASIAN,2019,707
+Rita Ranch,PACIFIC,2019,76
+Rita Ranch,OTHRACE,2019,1172
+Rita Ranch,RACE2UP,2019,975
+Rita Ranch,HISPPOP,2019,4653
+Rita Ranch,MINORITY,2019,6955
+Rita Ranch,WHITE,2010,12894
+Rita Ranch,BLACK,2010,822
+Rita Ranch,AMERIND,2010,106
+Rita Ranch,ASIAN,2010,525
+Rita Ranch,PACIFIC,2010,62
+Rita Ranch,OTHRACE,2010,891
+Rita Ranch,RACE2UP,2010,775
+Rita Ranch,HISPPOP,2010,3589
+Rita Ranch,MINORITY,2010,5435
+Rita Ranch,DIVINDX,2010,57.7
+Rita Ranch,HISPWHT,2019,2910
+Rita Ranch,HISPBLK,2019,76
+Rita Ranch,HISPAI,2019,60
+Rita Ranch,HISPASN,2019,49
+Rita Ranch,HISPPI,2019,12
+Rita Ranch,HISPOTH,2019,1139
+Rita Ranch,HISPMLT,2019,407
+Rita Ranch,HWHITE,2010,2254
+Rita Ranch,HBLACK,2010,59
+Rita Ranch,HAMERIND,2010,48
+Rita Ranch,HASIAN,2010,38
+Rita Ranch,HPACIFIC,2010,9
+Rita Ranch,HOTHRACE,2010,859
+Rita Ranch,HRACE2UP,2010,323
+Rita Ranch,HRACEBAS,2010,3590
+Rita Ranch,H1RACE,2010,3266
+Rita Ranch,HADRBASE,2010,2018
+Rita Ranch,HAD1RACE,2010,1908
+Rita Ranch,U18RBASE,2010,5271
+Rita Ranch,NONHISP,2019,12665
+Roberts,WHITE,2019,1231
+Roberts,BLACK,2019,235
+Roberts,AMERIND,2019,72
+Roberts,ASIAN,2019,197
+Roberts,PACIFIC,2019,6
+Roberts,OTHRACE,2019,505
+Roberts,RACE2UP,2019,96
+Roberts,HISPPOP,2019,1366
+Roberts,MINORITY,2019,1872
+Roberts,WHITE,2010,1368
+Roberts,BLACK,2010,246
+Roberts,AMERIND,2010,76
+Roberts,ASIAN,2010,193
+Roberts,PACIFIC,2010,6
+Roberts,OTHRACE,2010,490
+Roberts,RACE2UP,2010,95
+Roberts,HISPPOP,2010,1343
+Roberts,MINORITY,2010,1862
+Roberts,DIVINDX,2010,83.7
+Roberts,HISPWHT,2019,760
+Roberts,HISPBLK,2019,25
+Roberts,HISPAI,2019,21
+Roberts,HISPASN,2019,8
+Roberts,HISPPI,2019,0
+Roberts,HISPOTH,2019,504
+Roberts,HISPMLT,2019,47
+Roberts,HWHITE,2010,757
+Roberts,HBLACK,2010,24
+Roberts,HAMERIND,2010,20
+Roberts,HASIAN,2010,7
+Roberts,HPACIFIC,2010,0
+Roberts,HOTHRACE,2010,489
+Roberts,HRACE2UP,2010,46
+Roberts,HRACEBAS,2010,1343
+Roberts,H1RACE,2010,1297
+Roberts,HADRBASE,2010,839
+Roberts,HAD1RACE,2010,814
+Roberts,U18RBASE,2010,796
+Roberts,NONHISP,2019,977
+Rose,WHITE,2019,1359
+Rose,BLACK,2019,26
+Rose,AMERIND,2019,108
+Rose,ASIAN,2019,6
+Rose,PACIFIC,2019,0
+Rose,OTHRACE,2019,645
+Rose,RACE2UP,2019,52
+Rose,HISPPOP,2019,2056
+Rose,MINORITY,2019,2118
+Rose,WHITE,2010,1358
+Rose,BLACK,2010,25
+Rose,AMERIND,2010,108
+Rose,ASIAN,2010,6
+Rose,PACIFIC,2010,0
+Rose,OTHRACE,2010,611
+Rose,RACE2UP,2010,51
+Rose,HISPPOP,2010,1996
+Rose,MINORITY,2010,2061
+Rose,DIVINDX,2010,65.7
+Rose,HISPWHT,2019,1283
+Rose,HISPBLK,2019,19
+Rose,HISPAI,2019,63
+Rose,HISPASN,2019,1
+Rose,HISPPI,2019,0
+Rose,HISPOTH,2019,644
+Rose,HISPMLT,2019,47
+Rose,HWHITE,2010,1260
+Rose,HBLACK,2010,18
+Rose,HAMERIND,2010,61
+Rose,HASIAN,2010,1
+Rose,HPACIFIC,2010,0
+Rose,HOTHRACE,2010,610
+Rose,HRACE2UP,2010,46
+Rose,HRACEBAS,2010,1996
+Rose,H1RACE,2010,1950
+Rose,HADRBASE,2010,1475
+Rose,HAD1RACE,2010,1441
+Rose,U18RBASE,2010,545
+Rose,NONHISP,2019,138
+Rosemont West,WHITE,2019,1211
+Rosemont West,BLACK,2019,47
+Rosemont West,AMERIND,2019,18
+Rosemont West,ASIAN,2019,56
+Rosemont West,PACIFIC,2019,3
+Rosemont West,OTHRACE,2019,165
+Rosemont West,RACE2UP,2019,94
+Rosemont West,HISPPOP,2019,529
+Rosemont West,MINORITY,2019,686
+Rosemont West,WHITE,2010,1289
+Rosemont West,BLACK,2010,44
+Rosemont West,AMERIND,2010,15
+Rosemont West,ASIAN,2010,47
+Rosemont West,PACIFIC,2010,2
+Rosemont West,OTHRACE,2010,141
+Rosemont West,RACE2UP,2010,82
+Rosemont West,HISPPOP,2010,455
+Rosemont West,MINORITY,2010,594
+Rosemont West,DIVINDX,2010,62.2
+Rosemont West,HISPWHT,2019,304
+Rosemont West,HISPBLK,2019,2
+Rosemont West,HISPAI,2019,7
+Rosemont West,HISPASN,2019,5
+Rosemont West,HISPPI,2019,0
+Rosemont West,HISPOTH,2019,160
+Rosemont West,HISPMLT,2019,52
+Rosemont West,HWHITE,2010,263
+Rosemont West,HBLACK,2010,2
+Rosemont West,HAMERIND,2010,6
+Rosemont West,HASIAN,2010,4
+Rosemont West,HPACIFIC,2010,0
+Rosemont West,HOTHRACE,2010,134
+Rosemont West,HRACE2UP,2010,46
+Rosemont West,HRACEBAS,2010,455
+Rosemont West,H1RACE,2010,409
+Rosemont West,HADRBASE,2010,289
+Rosemont West,HAD1RACE,2010,268
+Rosemont West,U18RBASE,2010,378
+Rosemont West,NONHISP,2019,1064
+Saguaro Miraflores,WHITE,2019,492
+Saguaro Miraflores,BLACK,2019,33
+Saguaro Miraflores,AMERIND,2019,12
+Saguaro Miraflores,ASIAN,2019,31
+Saguaro Miraflores,PACIFIC,2019,0
+Saguaro Miraflores,OTHRACE,2019,84
+Saguaro Miraflores,RACE2UP,2019,38
+Saguaro Miraflores,HISPPOP,2019,310
+Saguaro Miraflores,MINORITY,2019,391
+Saguaro Miraflores,WHITE,2010,516
+Saguaro Miraflores,BLACK,2010,30
+Saguaro Miraflores,AMERIND,2010,11
+Saguaro Miraflores,ASIAN,2010,26
+Saguaro Miraflores,PACIFIC,2010,0
+Saguaro Miraflores,OTHRACE,2010,72
+Saguaro Miraflores,RACE2UP,2010,34
+Saguaro Miraflores,HISPPOP,2010,272
+Saguaro Miraflores,MINORITY,2010,344
+Saguaro Miraflores,DIVINDX,2010,70.5
+Saguaro Miraflores,HISPWHT,2019,193
+Saguaro Miraflores,HISPBLK,2019,6
+Saguaro Miraflores,HISPAI,2019,4
+Saguaro Miraflores,HISPASN,2019,0
+Saguaro Miraflores,HISPPI,2019,0
+Saguaro Miraflores,HISPOTH,2019,83
+Saguaro Miraflores,HISPMLT,2019,24
+Saguaro Miraflores,HWHITE,2010,170
+Saguaro Miraflores,HBLACK,2010,5
+Saguaro Miraflores,HAMERIND,2010,4
+Saguaro Miraflores,HASIAN,2010,0
+Saguaro Miraflores,HPACIFIC,2010,0
+Saguaro Miraflores,HOTHRACE,2010,71
+Saguaro Miraflores,HRACE2UP,2010,21
+Saguaro Miraflores,HRACEBAS,2010,271
+Saguaro Miraflores,H1RACE,2010,251
+Saguaro Miraflores,HADRBASE,2010,195
+Saguaro Miraflores,HAD1RACE,2010,184
+Saguaro Miraflores,U18RBASE,2010,140
+Saguaro Miraflores,NONHISP,2019,379
+Sam Hughes,WHITE,2019,4141
+Sam Hughes,BLACK,2019,120
+Sam Hughes,AMERIND,2019,61
+Sam Hughes,ASIAN,2019,178
+Sam Hughes,PACIFIC,2019,6
+Sam Hughes,OTHRACE,2019,194
+Sam Hughes,RACE2UP,2019,161
+Sam Hughes,HISPPOP,2019,917
+Sam Hughes,MINORITY,2019,1367
+Sam Hughes,WHITE,2010,4184
+Sam Hughes,BLACK,2010,100
+Sam Hughes,AMERIND,2010,51
+Sam Hughes,ASIAN,2010,138
+Sam Hughes,PACIFIC,2010,5
+Sam Hughes,OTHRACE,2010,151
+Sam Hughes,RACE2UP,2010,131
+Sam Hughes,HISPPOP,2010,725
+Sam Hughes,MINORITY,2010,1089
+Sam Hughes,DIVINDX,2010,42.6
+Sam Hughes,HISPWHT,2019,647
+Sam Hughes,HISPBLK,2019,11
+Sam Hughes,HISPAI,2019,15
+Sam Hughes,HISPASN,2019,6
+Sam Hughes,HISPPI,2019,4
+Sam Hughes,HISPOTH,2019,186
+Sam Hughes,HISPMLT,2019,49
+Sam Hughes,HWHITE,2010,514
+Sam Hughes,HBLACK,2010,9
+Sam Hughes,HAMERIND,2010,12
+Sam Hughes,HASIAN,2010,5
+Sam Hughes,HPACIFIC,2010,3
+Sam Hughes,HOTHRACE,2010,143
+Sam Hughes,HRACE2UP,2010,39
+Sam Hughes,HRACEBAS,2010,725
+Sam Hughes,H1RACE,2010,686
+Sam Hughes,HADRBASE,2010,569
+Sam Hughes,HAD1RACE,2010,543
+Sam Hughes,U18RBASE,2010,592
+Sam Hughes,NONHISP,2019,3944
+Samos,WHITE,2019,841
+Samos,BLACK,2019,24
+Samos,AMERIND,2019,35
+Samos,ASIAN,2019,24
+Samos,PACIFIC,2019,1
+Samos,OTHRACE,2019,64
+Samos,RACE2UP,2019,40
+Samos,HISPPOP,2019,269
+Samos,MINORITY,2019,353
+Samos,WHITE,2010,880
+Samos,BLACK,2010,21
+Samos,AMERIND,2010,31
+Samos,ASIAN,2010,20
+Samos,PACIFIC,2010,1
+Samos,OTHRACE,2010,53
+Samos,RACE2UP,2010,34
+Samos,HISPPOP,2010,225
+Samos,MINORITY,2010,298
+Samos,DIVINDX,2010,52.4
+Samos,HISPWHT,2019,167
+Samos,HISPBLK,2019,5
+Samos,HISPAI,2019,15
+Samos,HISPASN,2019,2
+Samos,HISPPI,2019,0
+Samos,HISPOTH,2019,62
+Samos,HISPMLT,2019,19
+Samos,HWHITE,2010,140
+Samos,HBLACK,2010,4
+Samos,HAMERIND,2010,12
+Samos,HASIAN,2010,2
+Samos,HPACIFIC,2010,0
+Samos,HOTHRACE,2010,51
+Samos,HRACE2UP,2010,16
+Samos,HRACEBAS,2010,225
+Samos,H1RACE,2010,209
+Samos,HADRBASE,2010,181
+Samos,HAD1RACE,2010,172
+Samos,U18RBASE,2010,115
+Samos,NONHISP,2019,759
+San Carlos,WHITE,2019,133
+San Carlos,BLACK,2019,13
+San Carlos,AMERIND,2019,4
+San Carlos,ASIAN,2019,4
+San Carlos,PACIFIC,2019,1
+San Carlos,OTHRACE,2019,21
+San Carlos,RACE2UP,2019,9
+San Carlos,HISPPOP,2019,55
+San Carlos,MINORITY,2019,80
+San Carlos,WHITE,2010,146
+San Carlos,BLACK,2010,12
+San Carlos,AMERIND,2010,4
+San Carlos,ASIAN,2010,3
+San Carlos,PACIFIC,2010,1
+San Carlos,OTHRACE,2010,18
+San Carlos,RACE2UP,2010,8
+San Carlos,HISPPOP,2010,47
+San Carlos,MINORITY,2010,71
+San Carlos,DIVINDX,2010,63.3
+San Carlos,HISPWHT,2019,28
+San Carlos,HISPBLK,2019,1
+San Carlos,HISPAI,2019,1
+San Carlos,HISPASN,2019,0
+San Carlos,HISPPI,2019,0
+San Carlos,HISPOTH,2019,21
+San Carlos,HISPMLT,2019,4
+San Carlos,HWHITE,2010,25
+San Carlos,HBLACK,2010,1
+San Carlos,HAMERIND,2010,1
+San Carlos,HASIAN,2010,0
+San Carlos,HPACIFIC,2010,0
+San Carlos,HOTHRACE,2010,18
+San Carlos,HRACE2UP,2010,3
+San Carlos,HRACEBAS,2010,48
+San Carlos,H1RACE,2010,44
+San Carlos,HADRBASE,2010,29
+San Carlos,HAD1RACE,2010,27
+San Carlos,U18RBASE,2010,44
+San Carlos,NONHISP,2019,131
+San Clemente,WHITE,2019,546
+San Clemente,BLACK,2019,21
+San Clemente,AMERIND,2019,8
+San Clemente,ASIAN,2019,23
+San Clemente,PACIFIC,2019,0
+San Clemente,OTHRACE,2019,73
+San Clemente,RACE2UP,2019,37
+San Clemente,HISPPOP,2019,220
+San Clemente,MINORITY,2019,289
+San Clemente,WHITE,2010,558
+San Clemente,BLACK,2010,18
+San Clemente,AMERIND,2010,7
+San Clemente,ASIAN,2010,19
+San Clemente,PACIFIC,2010,0
+San Clemente,OTHRACE,2010,59
+San Clemente,RACE2UP,2010,31
+San Clemente,HISPPOP,2010,182
+San Clemente,MINORITY,2010,240
+San Clemente,DIVINDX,2010,60.2
+San Clemente,HISPWHT,2019,127
+San Clemente,HISPBLK,2019,2
+San Clemente,HISPAI,2019,1
+San Clemente,HISPASN,2019,1
+San Clemente,HISPPI,2019,0
+San Clemente,HISPOTH,2019,72
+San Clemente,HISPMLT,2019,17
+San Clemente,HWHITE,2010,106
+San Clemente,HBLACK,2010,2
+San Clemente,HAMERIND,2010,1
+San Clemente,HASIAN,2010,1
+San Clemente,HPACIFIC,2010,0
+San Clemente,HOTHRACE,2010,58
+San Clemente,HRACE2UP,2010,15
+San Clemente,HRACEBAS,2010,183
+San Clemente,H1RACE,2010,167
+San Clemente,HADRBASE,2010,125
+San Clemente,HAD1RACE,2010,117
+San Clemente,U18RBASE,2010,121
+San Clemente,NONHISP,2019,488
+San Gabriel,WHITE,2019,659
+San Gabriel,BLACK,2019,33
+San Gabriel,AMERIND,2019,13
+San Gabriel,ASIAN,2019,24
+San Gabriel,PACIFIC,2019,0
+San Gabriel,OTHRACE,2019,104
+San Gabriel,RACE2UP,2019,52
+San Gabriel,HISPPOP,2019,325
+San Gabriel,MINORITY,2019,409
+San Gabriel,WHITE,2010,708
+San Gabriel,BLACK,2010,30
+San Gabriel,AMERIND,2010,12
+San Gabriel,ASIAN,2010,20
+San Gabriel,PACIFIC,2010,0
+San Gabriel,OTHRACE,2010,89
+San Gabriel,RACE2UP,2010,46
+San Gabriel,HISPPOP,2010,284
+San Gabriel,MINORITY,2010,360
+San Gabriel,DIVINDX,2010,65.1
+San Gabriel,HISPWHT,2019,183
+San Gabriel,HISPBLK,2019,7
+San Gabriel,HISPAI,2019,5
+San Gabriel,HISPASN,2019,1
+San Gabriel,HISPPI,2019,0
+San Gabriel,HISPOTH,2019,102
+San Gabriel,HISPMLT,2019,28
+San Gabriel,HWHITE,2010,161
+San Gabriel,HBLACK,2010,6
+San Gabriel,HAMERIND,2010,4
+San Gabriel,HASIAN,2010,1
+San Gabriel,HPACIFIC,2010,0
+San Gabriel,HOTHRACE,2010,87
+San Gabriel,HRACE2UP,2010,25
+San Gabriel,HRACEBAS,2010,284
+San Gabriel,H1RACE,2010,260
+San Gabriel,HADRBASE,2010,194
+San Gabriel,HAD1RACE,2010,180
+San Gabriel,U18RBASE,2010,184
+San Gabriel,NONHISP,2019,560
+San Ignacio Yaqui,WHITE,2019,228
+San Ignacio Yaqui,BLACK,2019,62
+San Ignacio Yaqui,AMERIND,2019,126
+San Ignacio Yaqui,ASIAN,2019,9
+San Ignacio Yaqui,PACIFIC,2019,1
+San Ignacio Yaqui,OTHRACE,2019,140
+San Ignacio Yaqui,RACE2UP,2019,31
+San Ignacio Yaqui,HISPPOP,2019,329
+San Ignacio Yaqui,MINORITY,2019,499
+San Ignacio Yaqui,WHITE,2010,242
+San Ignacio Yaqui,BLACK,2010,61
+San Ignacio Yaqui,AMERIND,2010,122
+San Ignacio Yaqui,ASIAN,2010,8
+San Ignacio Yaqui,PACIFIC,2010,1
+San Ignacio Yaqui,OTHRACE,2010,127
+San Ignacio Yaqui,RACE2UP,2010,29
+San Ignacio Yaqui,HISPPOP,2010,302
+San Ignacio Yaqui,MINORITY,2010,469
+San Ignacio Yaqui,DIVINDX,2010,88.9
+San Ignacio Yaqui,HISPWHT,2019,129
+San Ignacio Yaqui,HISPBLK,2019,6
+San Ignacio Yaqui,HISPAI,2019,37
+San Ignacio Yaqui,HISPASN,2019,1
+San Ignacio Yaqui,HISPPI,2019,0
+San Ignacio Yaqui,HISPOTH,2019,139
+San Ignacio Yaqui,HISPMLT,2019,17
+San Ignacio Yaqui,HWHITE,2010,120
+San Ignacio Yaqui,HBLACK,2010,5
+San Ignacio Yaqui,HAMERIND,2010,35
+San Ignacio Yaqui,HASIAN,2010,1
+San Ignacio Yaqui,HPACIFIC,2010,0
+San Ignacio Yaqui,HOTHRACE,2010,125
+San Ignacio Yaqui,HRACE2UP,2010,16
+San Ignacio Yaqui,HRACEBAS,2010,302
+San Ignacio Yaqui,H1RACE,2010,286
+San Ignacio Yaqui,HADRBASE,2010,204
+San Ignacio Yaqui,HAD1RACE,2010,196
+San Ignacio Yaqui,U18RBASE,2010,174
+San Ignacio Yaqui,NONHISP,2019,270
+Santa Cruz Southwest,WHITE,2019,1609
+Santa Cruz Southwest,BLACK,2019,53
+Santa Cruz Southwest,AMERIND,2019,135
+Santa Cruz Southwest,ASIAN,2019,22
+Santa Cruz Southwest,PACIFIC,2019,6
+Santa Cruz Southwest,OTHRACE,2019,986
+Santa Cruz Southwest,RACE2UP,2019,112
+Santa Cruz Southwest,HISPPOP,2019,2326
+Santa Cruz Southwest,MINORITY,2019,2470
+Santa Cruz Southwest,WHITE,2010,1628
+Santa Cruz Southwest,BLACK,2010,55
+Santa Cruz Southwest,AMERIND,2010,132
+Santa Cruz Southwest,ASIAN,2010,20
+Santa Cruz Southwest,PACIFIC,2010,5
+Santa Cruz Southwest,OTHRACE,2010,908
+Santa Cruz Southwest,RACE2UP,2010,107
+Santa Cruz Southwest,HISPPOP,2010,2170
+Santa Cruz Southwest,MINORITY,2010,2314
+Santa Cruz Southwest,DIVINDX,2010,79.2
+Santa Cruz Southwest,HISPWHT,2019,1156
+Santa Cruz Southwest,HISPBLK,2019,17
+Santa Cruz Southwest,HISPAI,2019,76
+Santa Cruz Southwest,HISPASN,2019,6
+Santa Cruz Southwest,HISPPI,2019,6
+Santa Cruz Southwest,HISPOTH,2019,986
+Santa Cruz Southwest,HISPMLT,2019,79
+Santa Cruz Southwest,HWHITE,2010,1087
+Santa Cruz Southwest,HBLACK,2010,18
+Santa Cruz Southwest,HAMERIND,2010,72
+Santa Cruz Southwest,HASIAN,2010,5
+Santa Cruz Southwest,HPACIFIC,2010,5
+Santa Cruz Southwest,HOTHRACE,2010,908
+Santa Cruz Southwest,HRACE2UP,2010,74
+Santa Cruz Southwest,HRACEBAS,2010,2169
+Santa Cruz Southwest,H1RACE,2010,2096
+Santa Cruz Southwest,HADRBASE,2010,1338
+Santa Cruz Southwest,HAD1RACE,2010,1299
+Santa Cruz Southwest,U18RBASE,2010,926
+Santa Cruz Southwest,NONHISP,2019,597
+Santa Rita Park - West Ochoa,WHITE,2019,1087
+Santa Rita Park - West Ochoa,BLACK,2019,160
+Santa Rita Park - West Ochoa,AMERIND,2019,142
+Santa Rita Park - West Ochoa,ASIAN,2019,9
+Santa Rita Park - West Ochoa,PACIFIC,2019,1
+Santa Rita Park - West Ochoa,OTHRACE,2019,516
+Santa Rita Park - West Ochoa,RACE2UP,2019,97
+Santa Rita Park - West Ochoa,HISPPOP,2019,1378
+Santa Rita Park - West Ochoa,MINORITY,2019,1653
+Santa Rita Park - West Ochoa,WHITE,2010,1091
+Santa Rita Park - West Ochoa,BLACK,2010,154
+Santa Rita Park - West Ochoa,AMERIND,2010,135
+Santa Rita Park - West Ochoa,ASIAN,2010,8
+Santa Rita Park - West Ochoa,PACIFIC,2010,1
+Santa Rita Park - West Ochoa,OTHRACE,2010,448
+Santa Rita Park - West Ochoa,RACE2UP,2010,88
+Santa Rita Park - West Ochoa,HISPPOP,2010,1234
+Santa Rita Park - West Ochoa,MINORITY,2010,1498
+Santa Rita Park - West Ochoa,DIVINDX,2010,82.1
+Santa Rita Park - West Ochoa,HISPWHT,2019,728
+Santa Rita Park - West Ochoa,HISPBLK,2019,16
+Santa Rita Park - West Ochoa,HISPAI,2019,61
+Santa Rita Park - West Ochoa,HISPASN,2019,3
+Santa Rita Park - West Ochoa,HISPPI,2019,1
+Santa Rita Park - West Ochoa,HISPOTH,2019,512
+Santa Rita Park - West Ochoa,HISPMLT,2019,56
+Santa Rita Park - West Ochoa,HWHITE,2010,663
+Santa Rita Park - West Ochoa,HBLACK,2010,14
+Santa Rita Park - West Ochoa,HAMERIND,2010,56
+Santa Rita Park - West Ochoa,HASIAN,2010,3
+Santa Rita Park - West Ochoa,HPACIFIC,2010,1
+Santa Rita Park - West Ochoa,HOTHRACE,2010,445
+Santa Rita Park - West Ochoa,HRACE2UP,2010,52
+Santa Rita Park - West Ochoa,HRACEBAS,2010,1234
+Santa Rita Park - West Ochoa,H1RACE,2010,1182
+Santa Rita Park - West Ochoa,HADRBASE,2010,873
+Santa Rita Park - West Ochoa,HAD1RACE,2010,845
+Santa Rita Park - West Ochoa,U18RBASE,2010,481
+Santa Rita Park - West Ochoa,NONHISP,2019,634
+Sewell,WHITE,2019,530
+Sewell,BLACK,2019,33
+Sewell,AMERIND,2019,12
+Sewell,ASIAN,2019,33
+Sewell,PACIFIC,2019,0
+Sewell,OTHRACE,2019,76
+Sewell,RACE2UP,2019,37
+Sewell,HISPPOP,2019,204
+Sewell,MINORITY,2019,300
+Sewell,WHITE,2010,603
+Sewell,BLACK,2010,33
+Sewell,AMERIND,2010,11
+Sewell,ASIAN,2010,29
+Sewell,PACIFIC,2010,0
+Sewell,OTHRACE,2010,67
+Sewell,RACE2UP,2010,35
+Sewell,HISPPOP,2010,184
+Sewell,MINORITY,2010,273
+Sewell,DIVINDX,2010,61.4
+Sewell,HISPWHT,2019,108
+Sewell,HISPBLK,2019,2
+Sewell,HISPAI,2019,7
+Sewell,HISPASN,2019,0
+Sewell,HISPPI,2019,0
+Sewell,HISPOTH,2019,76
+Sewell,HISPMLT,2019,12
+Sewell,HWHITE,2010,98
+Sewell,HBLACK,2010,2
+Sewell,HAMERIND,2010,6
+Sewell,HASIAN,2010,0
+Sewell,HPACIFIC,2010,0
+Sewell,HOTHRACE,2010,67
+Sewell,HRACE2UP,2010,11
+Sewell,HRACEBAS,2010,184
+Sewell,H1RACE,2010,173
+Sewell,HADRBASE,2010,124
+Sewell,HAD1RACE,2010,120
+Sewell,U18RBASE,2010,149
+Sewell,NONHISP,2019,518
+South Harrison,WHITE,2019,5028
+South Harrison,BLACK,2019,396
+South Harrison,AMERIND,2019,75
+South Harrison,ASIAN,2019,278
+South Harrison,PACIFIC,2019,33
+South Harrison,OTHRACE,2019,418
+South Harrison,RACE2UP,2019,268
+South Harrison,HISPPOP,2019,1659
+South Harrison,MINORITY,2019,2518
+South Harrison,WHITE,2010,5199
+South Harrison,BLACK,2010,351
+South Harrison,AMERIND,2010,64
+South Harrison,ASIAN,2010,221
+South Harrison,PACIFIC,2010,28
+South Harrison,OTHRACE,2010,337
+South Harrison,RACE2UP,2010,224
+South Harrison,HISPPOP,2010,1366
+South Harrison,MINORITY,2010,2097
+South Harrison,DIVINDX,2010,56.1
+South Harrison,HISPWHT,2019,1050
+South Harrison,HISPBLK,2019,19
+South Harrison,HISPAI,2019,34
+South Harrison,HISPASN,2019,21
+South Harrison,HISPPI,2019,5
+South Harrison,HISPOTH,2019,410
+South Harrison,HISPMLT,2019,120
+South Harrison,HWHITE,2010,873
+South Harrison,HBLACK,2010,16
+South Harrison,HAMERIND,2010,28
+South Harrison,HASIAN,2010,16
+South Harrison,HPACIFIC,2010,4
+South Harrison,HOTHRACE,2010,329
+South Harrison,HRACE2UP,2010,100
+South Harrison,HRACEBAS,2010,1366
+South Harrison,H1RACE,2010,1266
+South Harrison,HADRBASE,2010,851
+South Harrison,HAD1RACE,2010,814
+South Harrison,U18RBASE,2010,1466
+South Harrison,NONHISP,2019,4837
+South Park,WHITE,2019,1740
+South Park,BLACK,2019,412
+South Park,AMERIND,2019,131
+South Park,ASIAN,2019,58
+South Park,PACIFIC,2019,6
+South Park,OTHRACE,2019,1190
+South Park,RACE2UP,2019,142
+South Park,HISPPOP,2019,2762
+South Park,MINORITY,2019,3323
+South Park,WHITE,2010,1741
+South Park,BLACK,2010,410
+South Park,AMERIND,2010,132
+South Park,ASIAN,2010,53
+South Park,PACIFIC,2010,6
+South Park,OTHRACE,2010,1096
+South Park,RACE2UP,2010,136
+South Park,HISPPOP,2010,2583
+South Park,MINORITY,2010,3141
+South Park,DIVINDX,2010,84.9
+South Park,HISPWHT,2019,1384
+South Park,HISPBLK,2019,38
+South Park,HISPAI,2019,53
+South Park,HISPASN,2019,4
+South Park,HISPPI,2019,3
+South Park,HISPOTH,2019,1185
+South Park,HISPMLT,2019,95
+South Park,HWHITE,2010,1307
+South Park,HBLACK,2010,35
+South Park,HAMERIND,2010,51
+South Park,HASIAN,2010,4
+South Park,HPACIFIC,2010,3
+South Park,HOTHRACE,2010,1091
+South Park,HRACE2UP,2010,92
+South Park,HRACEBAS,2010,2583
+South Park,H1RACE,2010,2491
+South Park,HADRBASE,2010,1712
+South Park,HAD1RACE,2010,1657
+South Park,U18RBASE,2010,1076
+South Park,NONHISP,2019,917
+Cabrini,WHITE,2019,1434
+Cabrini,BLACK,2019,158
+Cabrini,AMERIND,2019,76
+Cabrini,ASIAN,2019,41
+Cabrini,PACIFIC,2019,10
+Cabrini,OTHRACE,2019,219
+Cabrini,RACE2UP,2019,132
+Cabrini,HISPPOP,2019,709
+Cabrini,MINORITY,2019,1042
+Cabrini,WHITE,2010,1452
+Cabrini,BLACK,2010,138
+Cabrini,AMERIND,2010,66
+Cabrini,ASIAN,2010,33
+Cabrini,PACIFIC,2010,8
+Cabrini,OTHRACE,2010,177
+Cabrini,RACE2UP,2010,110
+Cabrini,HISPPOP,2010,583
+Cabrini,MINORITY,2010,871
+Cabrini,DIVINDX,2010,68.4
+Cabrini,HISPWHT,2019,406
+Cabrini,HISPBLK,2019,22
+Cabrini,HISPAI,2019,17
+Cabrini,HISPASN,2019,2
+Cabrini,HISPPI,2019,2
+Cabrini,HISPOTH,2019,210
+Cabrini,HISPMLT,2019,49
+Cabrini,HWHITE,2010,338
+Cabrini,HBLACK,2010,18
+Cabrini,HAMERIND,2010,14
+Cabrini,HASIAN,2010,2
+Cabrini,HPACIFIC,2010,1
+Cabrini,HOTHRACE,2010,168
+Cabrini,HRACE2UP,2010,41
+Cabrini,HRACEBAS,2010,582
+Cabrini,H1RACE,2010,542
+Cabrini,HADRBASE,2010,412
+Cabrini,HAD1RACE,2010,388
+Cabrini,U18RBASE,2010,414
+Cabrini,NONHISP,2019,1361
+Starr Pass,WHITE,2019,1362
+Starr Pass,BLACK,2019,68
+Starr Pass,AMERIND,2019,44
+Starr Pass,ASIAN,2019,52
+Starr Pass,PACIFIC,2019,8
+Starr Pass,OTHRACE,2019,213
+Starr Pass,RACE2UP,2019,66
+Starr Pass,HISPPOP,2019,741
+Starr Pass,MINORITY,2019,907
+Starr Pass,WHITE,2010,1358
+Starr Pass,BLACK,2010,59
+Starr Pass,AMERIND,2010,37
+Starr Pass,ASIAN,2010,42
+Starr Pass,PACIFIC,2010,7
+Starr Pass,OTHRACE,2010,170
+Starr Pass,RACE2UP,2010,55
+Starr Pass,HISPPOP,2010,607
+Starr Pass,MINORITY,2010,748
+Starr Pass,DIVINDX,2010,66.3
+Starr Pass,HISPWHT,2019,456
+Starr Pass,HISPBLK,2019,5
+Starr Pass,HISPAI,2019,18
+Starr Pass,HISPASN,2019,3
+Starr Pass,HISPPI,2019,3
+Starr Pass,HISPOTH,2019,212
+Starr Pass,HISPMLT,2019,44
+Starr Pass,HWHITE,2010,377
+Starr Pass,HBLACK,2010,3
+Starr Pass,HAMERIND,2010,15
+Starr Pass,HASIAN,2010,3
+Starr Pass,HPACIFIC,2010,3
+Starr Pass,HOTHRACE,2010,170
+Starr Pass,HRACE2UP,2010,37
+Starr Pass,HRACEBAS,2010,608
+Starr Pass,H1RACE,2010,570
+Starr Pass,HADRBASE,2010,447
+Starr Pass,HAD1RACE,2010,425
+Starr Pass,U18RBASE,2010,242
+Starr Pass,NONHISP,2019,1072
+Stella Mann,WHITE,2019,2752
+Stella Mann,BLACK,2019,439
+Stella Mann,AMERIND,2019,78
+Stella Mann,ASIAN,2019,182
+Stella Mann,PACIFIC,2019,19
+Stella Mann,OTHRACE,2019,692
+Stella Mann,RACE2UP,2019,341
+Stella Mann,HISPPOP,2019,1708
+Stella Mann,MINORITY,2019,2525
+Stella Mann,WHITE,2010,2894
+Stella Mann,BLACK,2010,397
+Stella Mann,AMERIND,2010,70
+Stella Mann,ASIAN,2010,151
+Stella Mann,PACIFIC,2010,17
+Stella Mann,OTHRACE,2010,578
+Stella Mann,RACE2UP,2010,297
+Stella Mann,HISPPOP,2010,1450
+Stella Mann,MINORITY,2010,2175
+Stella Mann,DIVINDX,2010,75.4
+Stella Mann,HISPWHT,2019,774
+Stella Mann,HISPBLK,2019,56
+Stella Mann,HISPAI,2019,27
+Stella Mann,HISPASN,2019,8
+Stella Mann,HISPPI,2019,1
+Stella Mann,HISPOTH,2019,685
+Stella Mann,HISPMLT,2019,157
+Stella Mann,HWHITE,2010,665
+Stella Mann,HBLACK,2010,47
+Stella Mann,HAMERIND,2010,23
+Stella Mann,HASIAN,2010,7
+Stella Mann,HPACIFIC,2010,1
+Stella Mann,HOTHRACE,2010,570
+Stella Mann,HRACE2UP,2010,137
+Stella Mann,HRACEBAS,2010,1450
+Stella Mann,H1RACE,2010,1313
+Stella Mann,HADRBASE,2010,883
+Stella Mann,HAD1RACE,2010,835
+Stella Mann,U18RBASE,2010,1188
+Stella Mann,NONHISP,2019,2796
+Sunnyside,WHITE,2019,8953
+Sunnyside,BLACK,2019,261
+Sunnyside,AMERIND,2019,743
+Sunnyside,ASIAN,2019,76
+Sunnyside,PACIFIC,2019,13
+Sunnyside,OTHRACE,2019,4943
+Sunnyside,RACE2UP,2019,460
+Sunnyside,HISPPOP,2019,13975
+Sunnyside,MINORITY,2019,14723
+Sunnyside,WHITE,2010,9142
+Sunnyside,BLACK,2010,272
+Sunnyside,AMERIND,2010,770
+Sunnyside,ASIAN,2010,74
+Sunnyside,PACIFIC,2010,13
+Sunnyside,OTHRACE,2010,4752
+Sunnyside,RACE2UP,2010,459
+Sunnyside,HISPPOP,2010,13751
+Sunnyside,MINORITY,2010,14539
+Sunnyside,DIVINDX,2010,71.8
+Sunnyside,HISPWHT,2019,8226
+Sunnyside,HISPBLK,2019,86
+Sunnyside,HISPAI,2019,303
+Sunnyside,HISPASN,2019,26
+Sunnyside,HISPPI,2019,3
+Sunnyside,HISPOTH,2019,4922
+Sunnyside,HISPMLT,2019,409
+Sunnyside,HWHITE,2010,8199
+Sunnyside,HBLACK,2010,84
+Sunnyside,HAMERIND,2010,301
+Sunnyside,HASIAN,2010,27
+Sunnyside,HPACIFIC,2010,3
+Sunnyside,HOTHRACE,2010,4728
+Sunnyside,HRACE2UP,2010,409
+Sunnyside,HRACEBAS,2010,13751
+Sunnyside,H1RACE,2010,13342
+Sunnyside,HADRBASE,2010,9053
+Sunnyside,HAD1RACE,2010,8785
+Sunnyside,U18RBASE,2010,5108
+Sunnyside,NONHISP,2019,1475
+Sunset Villa,WHITE,2019,733
+Sunset Villa,BLACK,2019,40
+Sunset Villa,AMERIND,2019,74
+Sunset Villa,ASIAN,2019,16
+Sunset Villa,PACIFIC,2019,2
+Sunset Villa,OTHRACE,2019,388
+Sunset Villa,RACE2UP,2019,40
+Sunset Villa,HISPPOP,2019,1078
+Sunset Villa,MINORITY,2019,1169
+Sunset Villa,WHITE,2010,728
+Sunset Villa,BLACK,2010,39
+Sunset Villa,AMERIND,2010,73
+Sunset Villa,ASIAN,2010,14
+Sunset Villa,PACIFIC,2010,2
+Sunset Villa,OTHRACE,2010,357
+Sunset Villa,RACE2UP,2010,38
+Sunset Villa,HISPPOP,2010,1012
+Sunset Villa,MINORITY,2010,1103
+Sunset Villa,DIVINDX,2010,76.3
+Sunset Villa,HISPWHT,2019,609
+Sunset Villa,HISPBLK,2019,6
+Sunset Villa,HISPAI,2019,35
+Sunset Villa,HISPASN,2019,6
+Sunset Villa,HISPPI,2019,2
+Sunset Villa,HISPOTH,2019,388
+Sunset Villa,HISPMLT,2019,32
+Sunset Villa,HWHITE,2010,580
+Sunset Villa,HBLACK,2010,6
+Sunset Villa,HAMERIND,2010,33
+Sunset Villa,HASIAN,2010,6
+Sunset Villa,HPACIFIC,2010,2
+Sunset Villa,HOTHRACE,2010,356
+Sunset Villa,HRACE2UP,2010,31
+Sunset Villa,HRACEBAS,2010,1014
+Sunset Villa,H1RACE,2010,982
+Sunset Villa,HADRBASE,2010,691
+Sunset Villa,HAD1RACE,2010,674
+Sunset Villa,U18RBASE,2010,350
+Sunset Villa,NONHISP,2019,214
+Swan Way Park,WHITE,2019,742
+Swan Way Park,BLACK,2019,93
+Swan Way Park,AMERIND,2019,28
+Swan Way Park,ASIAN,2019,69
+Swan Way Park,PACIFIC,2019,16
+Swan Way Park,OTHRACE,2019,92
+Swan Way Park,RACE2UP,2019,57
+Swan Way Park,HISPPOP,2019,281
+Swan Way Park,MINORITY,2019,505
+Swan Way Park,WHITE,2010,823
+Swan Way Park,BLACK,2010,87
+Swan Way Park,AMERIND,2010,26
+Swan Way Park,ASIAN,2010,58
+Swan Way Park,PACIFIC,2010,15
+Swan Way Park,OTHRACE,2010,78
+Swan Way Park,RACE2UP,2010,51
+Swan Way Park,HISPPOP,2010,246
+Swan Way Park,MINORITY,2010,449
+Swan Way Park,DIVINDX,2010,64.9
+Swan Way Park,HISPWHT,2019,150
+Swan Way Park,HISPBLK,2019,6
+Swan Way Park,HISPAI,2019,10
+Swan Way Park,HISPASN,2019,0
+Swan Way Park,HISPPI,2019,1
+Swan Way Park,HISPOTH,2019,92
+Swan Way Park,HISPMLT,2019,21
+Swan Way Park,HWHITE,2010,133
+Swan Way Park,HBLACK,2010,5
+Swan Way Park,HAMERIND,2010,9
+Swan Way Park,HASIAN,2010,0
+Swan Way Park,HPACIFIC,2010,1
+Swan Way Park,HOTHRACE,2010,78
+Swan Way Park,HRACE2UP,2010,19
+Swan Way Park,HRACEBAS,2010,245
+Swan Way Park,H1RACE,2010,227
+Swan Way Park,HADRBASE,2010,176
+Swan Way Park,HAD1RACE,2010,168
+Swan Way Park,U18RBASE,2010,219
+Swan Way Park,NONHISP,2019,817
+Terra Del Sol,WHITE,2019,3385
+Terra Del Sol,BLACK,2019,251
+Terra Del Sol,AMERIND,2019,69
+Terra Del Sol,ASIAN,2019,101
+Terra Del Sol,PACIFIC,2019,18
+Terra Del Sol,OTHRACE,2019,551
+Terra Del Sol,RACE2UP,2019,256
+Terra Del Sol,HISPPOP,2019,1498
+Terra Del Sol,MINORITY,2019,1997
+Terra Del Sol,WHITE,2010,3486
+Terra Del Sol,BLACK,2010,218
+Terra Del Sol,AMERIND,2010,60
+Terra Del Sol,ASIAN,2010,82
+Terra Del Sol,PACIFIC,2010,17
+Terra Del Sol,OTHRACE,2010,444
+Terra Del Sol,RACE2UP,2010,214
+Terra Del Sol,HISPPOP,2010,1234
+Terra Del Sol,MINORITY,2010,1664
+Terra Del Sol,DIVINDX,2010,64
+Terra Del Sol,HISPWHT,2019,753
+Terra Del Sol,HISPBLK,2019,37
+Terra Del Sol,HISPAI,2019,21
+Terra Del Sol,HISPASN,2019,1
+Terra Del Sol,HISPPI,2019,1
+Terra Del Sol,HISPOTH,2019,545
+Terra Del Sol,HISPMLT,2019,140
+Terra Del Sol,HWHITE,2010,629
+Terra Del Sol,HBLACK,2010,30
+Terra Del Sol,HAMERIND,2010,17
+Terra Del Sol,HASIAN,2010,1
+Terra Del Sol,HPACIFIC,2010,1
+Terra Del Sol,HOTHRACE,2010,438
+Terra Del Sol,HRACE2UP,2010,118
+Terra Del Sol,HRACEBAS,2010,1234
+Terra Del Sol,H1RACE,2010,1117
+Terra Del Sol,HADRBASE,2010,818
+Terra Del Sol,HAD1RACE,2010,764
+Terra Del Sol,U18RBASE,2010,953
+Terra Del Sol,NONHISP,2019,3132
+Thunderbird Heights/Wilmot Desert Esta,WHITE,2019,768
+Thunderbird Heights/Wilmot Desert Esta,BLACK,2019,29
+Thunderbird Heights/Wilmot Desert Esta,AMERIND,2019,11
+Thunderbird Heights/Wilmot Desert Esta,ASIAN,2019,46
+Thunderbird Heights/Wilmot Desert Esta,PACIFIC,2019,2
+Thunderbird Heights/Wilmot Desert Esta,OTHRACE,2019,62
+Thunderbird Heights/Wilmot Desert Esta,RACE2UP,2019,36
+Thunderbird Heights/Wilmot Desert Esta,HISPPOP,2019,204
+Thunderbird Heights/Wilmot Desert Esta,MINORITY,2019,314
+Thunderbird Heights/Wilmot Desert Esta,WHITE,2010,696
+Thunderbird Heights/Wilmot Desert Esta,BLACK,2010,22
+Thunderbird Heights/Wilmot Desert Esta,AMERIND,2010,8
+Thunderbird Heights/Wilmot Desert Esta,ASIAN,2010,32
+Thunderbird Heights/Wilmot Desert Esta,PACIFIC,2010,2
+Thunderbird Heights/Wilmot Desert Esta,OTHRACE,2010,44
+Thunderbird Heights/Wilmot Desert Esta,RACE2UP,2010,26
+Thunderbird Heights/Wilmot Desert Esta,HISPPOP,2010,146
+Thunderbird Heights/Wilmot Desert Esta,MINORITY,2010,225
+Thunderbird Heights/Wilmot Desert Esta,DIVINDX,2010,49.9
+Thunderbird Heights/Wilmot Desert Esta,HISPWHT,2019,127
+Thunderbird Heights/Wilmot Desert Esta,HISPBLK,2019,2
+Thunderbird Heights/Wilmot Desert Esta,HISPAI,2019,2
+Thunderbird Heights/Wilmot Desert Esta,HISPASN,2019,2
+Thunderbird Heights/Wilmot Desert Esta,HISPPI,2019,0
+Thunderbird Heights/Wilmot Desert Esta,HISPOTH,2019,61
+Thunderbird Heights/Wilmot Desert Esta,HISPMLT,2019,10
+Thunderbird Heights/Wilmot Desert Esta,HWHITE,2010,92
+Thunderbird Heights/Wilmot Desert Esta,HBLACK,2010,2
+Thunderbird Heights/Wilmot Desert Esta,HAMERIND,2010,2
+Thunderbird Heights/Wilmot Desert Esta,HASIAN,2010,1
+Thunderbird Heights/Wilmot Desert Esta,HPACIFIC,2010,0
+Thunderbird Heights/Wilmot Desert Esta,HOTHRACE,2010,43
+Thunderbird Heights/Wilmot Desert Esta,HRACE2UP,2010,7
+Thunderbird Heights/Wilmot Desert Esta,HRACEBAS,2010,147
+Thunderbird Heights/Wilmot Desert Esta,H1RACE,2010,139
+Thunderbird Heights/Wilmot Desert Esta,HADRBASE,2010,107
+Thunderbird Heights/Wilmot Desert Esta,HAD1RACE,2010,103
+Thunderbird Heights/Wilmot Desert Esta,U18RBASE,2010,142
+Thunderbird Heights/Wilmot Desert Esta,NONHISP,2019,751
+Tucson Park West #1,WHITE,2019,846
+Tucson Park West #1,BLACK,2019,71
+Tucson Park West #1,AMERIND,2019,38
+Tucson Park West #1,ASIAN,2019,51
+Tucson Park West #1,PACIFIC,2019,5
+Tucson Park West #1,OTHRACE,2019,148
+Tucson Park West #1,RACE2UP,2019,39
+Tucson Park West #1,HISPPOP,2019,538
+Tucson Park West #1,MINORITY,2019,702
+Tucson Park West #1,WHITE,2010,821
+Tucson Park West #1,BLACK,2010,62
+Tucson Park West #1,AMERIND,2010,33
+Tucson Park West #1,ASIAN,2010,40
+Tucson Park West #1,PACIFIC,2010,4
+Tucson Park West #1,OTHRACE,2010,118
+Tucson Park West #1,RACE2UP,2010,33
+Tucson Park West #1,HISPPOP,2010,439
+Tucson Park West #1,MINORITY,2010,577
+Tucson Park West #1,DIVINDX,2010,71.2
+Tucson Park West #1,HISPWHT,2019,350
+Tucson Park West #1,HISPBLK,2019,6
+Tucson Park West #1,HISPAI,2019,8
+Tucson Park West #1,HISPASN,2019,5
+Tucson Park West #1,HISPPI,2019,3
+Tucson Park West #1,HISPOTH,2019,148
+Tucson Park West #1,HISPMLT,2019,19
+Tucson Park West #1,HWHITE,2010,288
+Tucson Park West #1,HBLACK,2010,5
+Tucson Park West #1,HAMERIND,2010,6
+Tucson Park West #1,HASIAN,2010,4
+Tucson Park West #1,HPACIFIC,2010,2
+Tucson Park West #1,HOTHRACE,2010,118
+Tucson Park West #1,HRACE2UP,2010,16
+Tucson Park West #1,HRACEBAS,2010,439
+Tucson Park West #1,H1RACE,2010,423
+Tucson Park West #1,HADRBASE,2010,371
+Tucson Park West #1,HAD1RACE,2010,357
+Tucson Park West #1,U18RBASE,2010,90
+Tucson Park West #1,NONHISP,2019,659
+Vista Del Monte,WHITE,2019,1282
+Vista Del Monte,BLACK,2019,93
+Vista Del Monte,AMERIND,2019,37
+Vista Del Monte,ASIAN,2019,30
+Vista Del Monte,PACIFIC,2019,7
+Vista Del Monte,OTHRACE,2019,138
+Vista Del Monte,RACE2UP,2019,74
+Vista Del Monte,HISPPOP,2019,426
+Vista Del Monte,MINORITY,2019,624
+Vista Del Monte,WHITE,2010,1355
+Vista Del Monte,BLACK,2010,85
+Vista Del Monte,AMERIND,2010,33
+Vista Del Monte,ASIAN,2010,25
+Vista Del Monte,PACIFIC,2010,7
+Vista Del Monte,OTHRACE,2010,116
+Vista Del Monte,RACE2UP,2010,64
+Vista Del Monte,HISPPOP,2010,361
+Vista Del Monte,MINORITY,2010,538
+Vista Del Monte,DIVINDX,2010,56.9
+Vista Del Monte,HISPWHT,2019,245
+Vista Del Monte,HISPBLK,2019,7
+Vista Del Monte,HISPAI,2019,8
+Vista Del Monte,HISPASN,2019,1
+Vista Del Monte,HISPPI,2019,1
+Vista Del Monte,HISPOTH,2019,137
+Vista Del Monte,HISPMLT,2019,25
+Vista Del Monte,HWHITE,2010,209
+Vista Del Monte,HBLACK,2010,6
+Vista Del Monte,HAMERIND,2010,7
+Vista Del Monte,HASIAN,2010,1
+Vista Del Monte,HPACIFIC,2010,1
+Vista Del Monte,HOTHRACE,2010,115
+Vista Del Monte,HRACE2UP,2010,22
+Vista Del Monte,HRACEBAS,2010,361
+Vista Del Monte,H1RACE,2010,339
+Vista Del Monte,HADRBASE,2010,236
+Vista Del Monte,HAD1RACE,2010,224
+Vista Del Monte,U18RBASE,2010,328
+Vista Del Monte,NONHISP,2019,1236
+Wakefield,WHITE,2019,2526
+Wakefield,BLACK,2019,61
+Wakefield,AMERIND,2019,282
+Wakefield,ASIAN,2019,17
+Wakefield,PACIFIC,2019,7
+Wakefield,OTHRACE,2019,1709
+Wakefield,RACE2UP,2019,130
+Wakefield,HISPPOP,2019,4320
+Wakefield,MINORITY,2019,4539
+Wakefield,WHITE,2010,2541
+Wakefield,BLACK,2010,61
+Wakefield,AMERIND,2010,289
+Wakefield,ASIAN,2010,18
+Wakefield,PACIFIC,2010,7
+Wakefield,OTHRACE,2010,1627
+Wakefield,RACE2UP,2010,132
+Wakefield,HISPPOP,2010,4194
+Wakefield,MINORITY,2010,4425
+Wakefield,DIVINDX,2010,75.6
+Wakefield,HISPWHT,2019,2332
+Wakefield,HISPBLK,2019,25
+Wakefield,HISPAI,2019,136
+Wakefield,HISPASN,2019,12
+Wakefield,HISPPI,2019,7
+Wakefield,HISPOTH,2019,1704
+Wakefield,HISPMLT,2019,103
+Wakefield,HWHITE,2010,2291
+Wakefield,HBLACK,2010,23
+Wakefield,HAMERIND,2010,135
+Wakefield,HASIAN,2010,13
+Wakefield,HPACIFIC,2010,7
+Wakefield,HOTHRACE,2010,1621
+Wakefield,HRACE2UP,2010,104
+Wakefield,HRACEBAS,2010,4194
+Wakefield,H1RACE,2010,4091
+Wakefield,HADRBASE,2010,2833
+Wakefield,HAD1RACE,2010,2762
+Wakefield,U18RBASE,2010,1439
+Wakefield,NONHISP,2019,412
+West University,WHITE,2019,3479
+West University,BLACK,2019,153
+West University,AMERIND,2019,89
+West University,ASIAN,2019,360
+West University,PACIFIC,2019,7
+West University,OTHRACE,2019,232
+West University,RACE2UP,2019,228
+West University,HISPPOP,2019,853
+West University,MINORITY,2019,1573
+West University,WHITE,2010,3644
+West University,BLACK,2010,134
+West University,AMERIND,2010,79
+West University,ASIAN,2010,283
+West University,PACIFIC,2010,7
+West University,OTHRACE,2010,188
+West University,RACE2UP,2010,191
+West University,HISPPOP,2010,703
+West University,MINORITY,2010,1301
+West University,DIVINDX,2010,51.8
+West University,HISPWHT,2019,504
+West University,HISPBLK,2019,15
+West University,HISPAI,2019,23
+West University,HISPASN,2019,5
+West University,HISPPI,2019,2
+West University,HISPOTH,2019,226
+West University,HISPMLT,2019,79
+West University,HWHITE,2010,418
+West University,HBLACK,2010,12
+West University,HAMERIND,2010,19
+West University,HASIAN,2010,4
+West University,HPACIFIC,2010,2
+West University,HOTHRACE,2010,182
+West University,HRACE2UP,2010,67
+West University,HRACEBAS,2010,704
+West University,H1RACE,2010,637
+West University,HADRBASE,2010,627
+West University,HAD1RACE,2010,570
+West University,U18RBASE,2010,198
+West University,NONHISP,2019,3696
+Western Hills II,WHITE,2019,430
+Western Hills II,BLACK,2019,211
+Western Hills II,AMERIND,2019,50
+Western Hills II,ASIAN,2019,14
+Western Hills II,PACIFIC,2019,3
+Western Hills II,OTHRACE,2019,303
+Western Hills II,RACE2UP,2019,61
+Western Hills II,HISPPOP,2019,744
+Western Hills II,MINORITY,2019,1000
+Western Hills II,WHITE,2010,416
+Western Hills II,BLACK,2010,206
+Western Hills II,AMERIND,2010,47
+Western Hills II,ASIAN,2010,12
+Western Hills II,PACIFIC,2010,3
+Western Hills II,OTHRACE,2010,270
+Western Hills II,RACE2UP,2010,57
+Western Hills II,HISPPOP,2010,676
+Western Hills II,MINORITY,2010,925
+Western Hills II,DIVINDX,2010,88.1
+Western Hills II,HISPWHT,2019,358
+Western Hills II,HISPBLK,2019,11
+Western Hills II,HISPAI,2019,33
+Western Hills II,HISPASN,2019,0
+Western Hills II,HISPPI,2019,1
+Western Hills II,HISPOTH,2019,301
+Western Hills II,HISPMLT,2019,40
+Western Hills II,HWHITE,2010,330
+Western Hills II,HBLACK,2010,10
+Western Hills II,HAMERIND,2010,31
+Western Hills II,HASIAN,2010,0
+Western Hills II,HPACIFIC,2010,1
+Western Hills II,HOTHRACE,2010,267
+Western Hills II,HRACE2UP,2010,38
+Western Hills II,HRACEBAS,2010,677
+Western Hills II,H1RACE,2010,638
+Western Hills II,HADRBASE,2010,441
+Western Hills II,HAD1RACE,2010,421
+Western Hills II,U18RBASE,2010,311
+Western Hills II,NONHISP,2019,329
+Wilshire Heights,WHITE,2019,276
+Wilshire Heights,BLACK,2019,7
+Wilshire Heights,AMERIND,2019,2
+Wilshire Heights,ASIAN,2019,10
+Wilshire Heights,PACIFIC,2019,0
+Wilshire Heights,OTHRACE,2019,29
+Wilshire Heights,RACE2UP,2019,12
+Wilshire Heights,HISPPOP,2019,98
+Wilshire Heights,MINORITY,2019,120
+Wilshire Heights,WHITE,2010,262
+Wilshire Heights,BLACK,2010,6
+Wilshire Heights,AMERIND,2010,1
+Wilshire Heights,ASIAN,2010,7
+Wilshire Heights,PACIFIC,2010,0
+Wilshire Heights,OTHRACE,2010,22
+Wilshire Heights,RACE2UP,2010,10
+Wilshire Heights,HISPPOP,2010,75
+Wilshire Heights,MINORITY,2010,91
+Wilshire Heights,DIVINDX,2010,54.2
+Wilshire Heights,HISPWHT,2019,59
+Wilshire Heights,HISPBLK,2019,1
+Wilshire Heights,HISPAI,2019,1
+Wilshire Heights,HISPASN,2019,0
+Wilshire Heights,HISPPI,2019,0
+Wilshire Heights,HISPOTH,2019,29
+Wilshire Heights,HISPMLT,2019,8
+Wilshire Heights,HWHITE,2010,45
+Wilshire Heights,HBLACK,2010,0
+Wilshire Heights,HAMERIND,2010,0
+Wilshire Heights,HASIAN,2010,0
+Wilshire Heights,HPACIFIC,2010,0
+Wilshire Heights,HOTHRACE,2010,22
+Wilshire Heights,HRACE2UP,2010,6
+Wilshire Heights,HRACEBAS,2010,73
+Wilshire Heights,H1RACE,2010,68
+Wilshire Heights,HADRBASE,2010,51
+Wilshire Heights,HAD1RACE,2010,48
+Wilshire Heights,U18RBASE,2010,55
+Wilshire Heights,NONHISP,2019,239
+Rancho Perdido Estates,WHITE,2019,65
+Rancho Perdido Estates,BLACK,2019,4
+Rancho Perdido Estates,AMERIND,2019,1
+Rancho Perdido Estates,ASIAN,2019,3
+Rancho Perdido Estates,PACIFIC,2019,0
+Rancho Perdido Estates,OTHRACE,2019,4
+Rancho Perdido Estates,RACE2UP,2019,4
+Rancho Perdido Estates,HISPPOP,2019,16
+Rancho Perdido Estates,MINORITY,2019,26
+Rancho Perdido Estates,WHITE,2010,56
+Rancho Perdido Estates,BLACK,2010,3
+Rancho Perdido Estates,AMERIND,2010,1
+Rancho Perdido Estates,ASIAN,2010,2
+Rancho Perdido Estates,PACIFIC,2010,0
+Rancho Perdido Estates,OTHRACE,2010,2
+Rancho Perdido Estates,RACE2UP,2010,3
+Rancho Perdido Estates,HISPPOP,2010,11
+Rancho Perdido Estates,MINORITY,2010,17
+Rancho Perdido Estates,DIVINDX,2010,47.8
+Rancho Perdido Estates,HISPWHT,2019,11
+Rancho Perdido Estates,HISPBLK,2019,0
+Rancho Perdido Estates,HISPAI,2019,0
+Rancho Perdido Estates,HISPASN,2019,0
+Rancho Perdido Estates,HISPPI,2019,0
+Rancho Perdido Estates,HISPOTH,2019,3
+Rancho Perdido Estates,HISPMLT,2019,1
+Rancho Perdido Estates,HWHITE,2010,7
+Rancho Perdido Estates,HBLACK,2010,0
+Rancho Perdido Estates,HAMERIND,2010,0
+Rancho Perdido Estates,HASIAN,2010,0
+Rancho Perdido Estates,HPACIFIC,2010,0
+Rancho Perdido Estates,HOTHRACE,2010,2
+Rancho Perdido Estates,HRACE2UP,2010,1
+Rancho Perdido Estates,HRACEBAS,2010,10
+Rancho Perdido Estates,H1RACE,2010,10
+Rancho Perdido Estates,HADRBASE,2010,8
+Rancho Perdido Estates,HAD1RACE,2010,7
+Rancho Perdido Estates,U18RBASE,2010,11
+Rancho Perdido Estates,NONHISP,2019,64
+Mesquite Ranch,WHITE,2019,1473
+Mesquite Ranch,BLACK,2019,98
+Mesquite Ranch,AMERIND,2019,13
+Mesquite Ranch,ASIAN,2019,86
+Mesquite Ranch,PACIFIC,2019,7
+Mesquite Ranch,OTHRACE,2019,69
+Mesquite Ranch,RACE2UP,2019,83
+Mesquite Ranch,HISPPOP,2019,378
+Mesquite Ranch,MINORITY,2019,615
+Mesquite Ranch,WHITE,2010,1552
+Mesquite Ranch,BLACK,2010,87
+Mesquite Ranch,AMERIND,2010,11
+Mesquite Ranch,ASIAN,2010,69
+Mesquite Ranch,PACIFIC,2010,6
+Mesquite Ranch,OTHRACE,2010,57
+Mesquite Ranch,RACE2UP,2010,71
+Mesquite Ranch,HISPPOP,2010,315
+Mesquite Ranch,MINORITY,2010,518
+Mesquite Ranch,DIVINDX,2010,49.4
+Mesquite Ranch,HISPWHT,2019,259
+Mesquite Ranch,HISPBLK,2019,14
+Mesquite Ranch,HISPAI,2019,4
+Mesquite Ranch,HISPASN,2019,5
+Mesquite Ranch,HISPPI,2019,3
+Mesquite Ranch,HISPOTH,2019,67
+Mesquite Ranch,HISPMLT,2019,26
+Mesquite Ranch,HWHITE,2010,218
+Mesquite Ranch,HBLACK,2010,11
+Mesquite Ranch,HAMERIND,2010,3
+Mesquite Ranch,HASIAN,2010,4
+Mesquite Ranch,HPACIFIC,2010,2
+Mesquite Ranch,HOTHRACE,2010,54
+Mesquite Ranch,HRACE2UP,2010,23
+Mesquite Ranch,HRACEBAS,2010,315
+Mesquite Ranch,H1RACE,2010,293
+Mesquite Ranch,HADRBASE,2010,182
+Mesquite Ranch,HAD1RACE,2010,175
+Mesquite Ranch,U18RBASE,2010,583
+Mesquite Ranch,NONHISP,2019,1451
+Desert Aire/Loma Linda,WHITE,2019,363
+Desert Aire/Loma Linda,BLACK,2019,17
+Desert Aire/Loma Linda,AMERIND,2019,5
+Desert Aire/Loma Linda,ASIAN,2019,26
+Desert Aire/Loma Linda,PACIFIC,2019,4
+Desert Aire/Loma Linda,OTHRACE,2019,31
+Desert Aire/Loma Linda,RACE2UP,2019,25
+Desert Aire/Loma Linda,HISPPOP,2019,134
+Desert Aire/Loma Linda,MINORITY,2019,203
+Desert Aire/Loma Linda,WHITE,2010,378
+Desert Aire/Loma Linda,BLACK,2010,16
+Desert Aire/Loma Linda,AMERIND,2010,4
+Desert Aire/Loma Linda,ASIAN,2010,21
+Desert Aire/Loma Linda,PACIFIC,2010,3
+Desert Aire/Loma Linda,OTHRACE,2010,25
+Desert Aire/Loma Linda,RACE2UP,2010,21
+Desert Aire/Loma Linda,HISPPOP,2010,112
+Desert Aire/Loma Linda,MINORITY,2010,171
+Desert Aire/Loma Linda,DIVINDX,2010,58.3
+Desert Aire/Loma Linda,HISPWHT,2019,96
+Desert Aire/Loma Linda,HISPBLK,2019,4
+Desert Aire/Loma Linda,HISPAI,2019,3
+Desert Aire/Loma Linda,HISPASN,2019,0
+Desert Aire/Loma Linda,HISPPI,2019,0
+Desert Aire/Loma Linda,HISPOTH,2019,29
+Desert Aire/Loma Linda,HISPMLT,2019,2
+Desert Aire/Loma Linda,HWHITE,2010,81
+Desert Aire/Loma Linda,HBLACK,2010,4
+Desert Aire/Loma Linda,HAMERIND,2010,2
+Desert Aire/Loma Linda,HASIAN,2010,0
+Desert Aire/Loma Linda,HPACIFIC,2010,0
+Desert Aire/Loma Linda,HOTHRACE,2010,23
+Desert Aire/Loma Linda,HRACE2UP,2010,2
+Desert Aire/Loma Linda,HRACEBAS,2010,112
+Desert Aire/Loma Linda,H1RACE,2010,111
+Desert Aire/Loma Linda,HADRBASE,2010,80
+Desert Aire/Loma Linda,HAD1RACE,2010,79
+Desert Aire/Loma Linda,U18RBASE,2010,85
+Desert Aire/Loma Linda,NONHISP,2019,336
+Millville,WHITE,2019,162
+Millville,BLACK,2019,21
+Millville,AMERIND,2019,17
+Millville,ASIAN,2019,3
+Millville,PACIFIC,2019,0
+Millville,OTHRACE,2019,40
+Millville,RACE2UP,2019,12
+Millville,HISPPOP,2019,146
+Millville,MINORITY,2019,182
+Millville,WHITE,2010,168
+Millville,BLACK,2010,20
+Millville,AMERIND,2010,16
+Millville,ASIAN,2010,3
+Millville,PACIFIC,2010,0
+Millville,OTHRACE,2010,37
+Millville,RACE2UP,2010,11
+Millville,HISPPOP,2010,135
+Millville,MINORITY,2010,171
+Millville,DIVINDX,2010,77.7
+Millville,HISPWHT,2019,89
+Millville,HISPBLK,2019,2
+Millville,HISPAI,2019,8
+Millville,HISPASN,2019,0
+Millville,HISPPI,2019,0
+Millville,HISPOTH,2019,40
+Millville,HISPMLT,2019,6
+Millville,HWHITE,2010,83
+Millville,HBLACK,2010,2
+Millville,HAMERIND,2010,8
+Millville,HASIAN,2010,0
+Millville,HPACIFIC,2010,0
+Millville,HOTHRACE,2010,36
+Millville,HRACE2UP,2010,6
+Millville,HRACEBAS,2010,135
+Millville,H1RACE,2010,129
+Millville,HADRBASE,2010,101
+Millville,HAD1RACE,2010,98
+Millville,U18RBASE,2010,46
+Millville,NONHISP,2019,109
+Sombras Del Cerro,WHITE,2019,0
+Sombras Del Cerro,BLACK,2019,0
+Sombras Del Cerro,AMERIND,2019,0
+Sombras Del Cerro,ASIAN,2019,0
+Sombras Del Cerro,PACIFIC,2019,0
+Sombras Del Cerro,OTHRACE,2019,0
+Sombras Del Cerro,RACE2UP,2019,0
+Sombras Del Cerro,HISPPOP,2019,0
+Sombras Del Cerro,MINORITY,2019,0
+Sombras Del Cerro,WHITE,2010,0
+Sombras Del Cerro,BLACK,2010,0
+Sombras Del Cerro,AMERIND,2010,0
+Sombras Del Cerro,ASIAN,2010,0
+Sombras Del Cerro,PACIFIC,2010,0
+Sombras Del Cerro,OTHRACE,2010,0
+Sombras Del Cerro,RACE2UP,2010,0
+Sombras Del Cerro,HISPPOP,2010,0
+Sombras Del Cerro,MINORITY,2010,0
+Sombras Del Cerro,DIVINDX,2010,0
+Sombras Del Cerro,HISPWHT,2019,0
+Sombras Del Cerro,HISPBLK,2019,0
+Sombras Del Cerro,HISPAI,2019,0
+Sombras Del Cerro,HISPASN,2019,0
+Sombras Del Cerro,HISPPI,2019,0
+Sombras Del Cerro,HISPOTH,2019,0
+Sombras Del Cerro,HISPMLT,2019,0
+Sombras Del Cerro,HWHITE,2010,0
+Sombras Del Cerro,HBLACK,2010,0
+Sombras Del Cerro,HAMERIND,2010,0
+Sombras Del Cerro,HASIAN,2010,0
+Sombras Del Cerro,HPACIFIC,2010,0
+Sombras Del Cerro,HOTHRACE,2010,0
+Sombras Del Cerro,HRACE2UP,2010,0
+Sombras Del Cerro,HRACEBAS,2010,0
+Sombras Del Cerro,H1RACE,2010,0
+Sombras Del Cerro,HADRBASE,2010,0
+Sombras Del Cerro,HAD1RACE,2010,0
+Sombras Del Cerro,U18RBASE,2010,0
+Sombras Del Cerro,NONHISP,2019,0
+Rancho Buena,WHITE,2019,2210
+Rancho Buena,BLACK,2019,162
+Rancho Buena,AMERIND,2019,149
+Rancho Buena,ASIAN,2019,42
+Rancho Buena,PACIFIC,2019,4
+Rancho Buena,OTHRACE,2019,1805
+Rancho Buena,RACE2UP,2019,174
+Rancho Buena,HISPPOP,2019,3679
+Rancho Buena,MINORITY,2019,4024
+Rancho Buena,WHITE,2010,2068
+Rancho Buena,BLACK,2010,148
+Rancho Buena,AMERIND,2010,136
+Rancho Buena,ASIAN,2010,36
+Rancho Buena,PACIFIC,2010,4
+Rancho Buena,OTHRACE,2010,1528
+Rancho Buena,RACE2UP,2010,154
+Rancho Buena,HISPPOP,2010,3161
+Rancho Buena,MINORITY,2010,3478
+Rancho Buena,DIVINDX,2010,83
+Rancho Buena,HISPWHT,2019,1689
+Rancho Buena,HISPBLK,2019,32
+Rancho Buena,HISPAI,2019,61
+Rancho Buena,HISPASN,2019,3
+Rancho Buena,HISPPI,2019,1
+Rancho Buena,HISPOTH,2019,1789
+Rancho Buena,HISPMLT,2019,104
+Rancho Buena,HWHITE,2010,1473
+Rancho Buena,HBLACK,2010,27
+Rancho Buena,HAMERIND,2010,54
+Rancho Buena,HASIAN,2010,3
+Rancho Buena,HPACIFIC,2010,1
+Rancho Buena,HOTHRACE,2010,1510
+Rancho Buena,HRACE2UP,2010,92
+Rancho Buena,HRACEBAS,2010,3160
+Rancho Buena,H1RACE,2010,3068
+Rancho Buena,HADRBASE,2010,1877
+Rancho Buena,HAD1RACE,2010,1824
+Rancho Buena,U18RBASE,2010,1501
+Rancho Buena,NONHISP,2019,866
+Rosemont East,WHITE,2019,166
+Rosemont East,BLACK,2019,6
+Rosemont East,AMERIND,2019,2
+Rosemont East,ASIAN,2019,24
+Rosemont East,PACIFIC,2019,0
+Rosemont East,OTHRACE,2019,19
+Rosemont East,RACE2UP,2019,9
+Rosemont East,HISPPOP,2019,53
+Rosemont East,MINORITY,2019,91
+Rosemont East,WHITE,2010,165
+Rosemont East,BLACK,2010,6
+Rosemont East,AMERIND,2010,2
+Rosemont East,ASIAN,2010,18
+Rosemont East,PACIFIC,2010,0
+Rosemont East,OTHRACE,2010,15
+Rosemont East,RACE2UP,2010,7
+Rosemont East,HISPPOP,2010,42
+Rosemont East,MINORITY,2010,73
+Rosemont East,DIVINDX,2010,58.4
+Rosemont East,HISPWHT,2019,31
+Rosemont East,HISPBLK,2019,0
+Rosemont East,HISPAI,2019,0
+Rosemont East,HISPASN,2019,0
+Rosemont East,HISPPI,2019,0
+Rosemont East,HISPOTH,2019,19
+Rosemont East,HISPMLT,2019,3
+Rosemont East,HWHITE,2010,25
+Rosemont East,HBLACK,2010,0
+Rosemont East,HAMERIND,2010,0
+Rosemont East,HASIAN,2010,0
+Rosemont East,HPACIFIC,2010,0
+Rosemont East,HOTHRACE,2010,15
+Rosemont East,HRACE2UP,2010,2
+Rosemont East,HRACEBAS,2010,42
+Rosemont East,H1RACE,2010,40
+Rosemont East,HADRBASE,2010,34
+Rosemont East,HAD1RACE,2010,33
+Rosemont East,U18RBASE,2010,25
+Rosemont East,NONHISP,2019,173
+Udall Park,WHITE,2019,275
+Udall Park,BLACK,2019,7
+Udall Park,AMERIND,2019,2
+Udall Park,ASIAN,2019,14
+Udall Park,PACIFIC,2019,0
+Udall Park,OTHRACE,2019,16
+Udall Park,RACE2UP,2019,18
+Udall Park,HISPPOP,2019,68
+Udall Park,MINORITY,2019,101
+Udall Park,WHITE,2010,267
+Udall Park,BLACK,2010,6
+Udall Park,AMERIND,2010,2
+Udall Park,ASIAN,2010,10
+Udall Park,PACIFIC,2010,0
+Udall Park,OTHRACE,2010,12
+Udall Park,RACE2UP,2010,14
+Udall Park,HISPPOP,2010,53
+Udall Park,MINORITY,2010,78
+Udall Park,DIVINDX,2010,47
+Udall Park,HISPWHT,2019,45
+Udall Park,HISPBLK,2019,0
+Udall Park,HISPAI,2019,2
+Udall Park,HISPASN,2019,0
+Udall Park,HISPPI,2019,0
+Udall Park,HISPOTH,2019,16
+Udall Park,HISPMLT,2019,6
+Udall Park,HWHITE,2010,35
+Udall Park,HBLACK,2010,0
+Udall Park,HAMERIND,2010,1
+Udall Park,HASIAN,2010,0
+Udall Park,HPACIFIC,2010,0
+Udall Park,HOTHRACE,2010,12
+Udall Park,HRACE2UP,2010,5
+Udall Park,HRACEBAS,2010,53
+Udall Park,H1RACE,2010,48
+Udall Park,HADRBASE,2010,37
+Udall Park,HAD1RACE,2010,35
+Udall Park,U18RBASE,2010,49
+Udall Park,NONHISP,2019,263
+Menlo Park,WHITE,2019,2870
+Menlo Park,BLACK,2019,166
+Menlo Park,AMERIND,2019,266
+Menlo Park,ASIAN,2019,102
+Menlo Park,PACIFIC,2019,6
+Menlo Park,OTHRACE,2019,1304
+Menlo Park,RACE2UP,2019,153
+Menlo Park,HISPPOP,2019,3520
+Menlo Park,MINORITY,2019,3953
+Menlo Park,WHITE,2010,2784
+Menlo Park,BLACK,2010,150
+Menlo Park,AMERIND,2010,245
+Menlo Park,ASIAN,2010,84
+Menlo Park,PACIFIC,2010,5
+Menlo Park,OTHRACE,2010,1123
+Menlo Park,RACE2UP,2010,136
+Menlo Park,HISPPOP,2010,3094
+Menlo Park,MINORITY,2010,3483
+Menlo Park,DIVINDX,2010,78.3
+Menlo Park,HISPWHT,2019,1956
+Menlo Park,HISPBLK,2019,32
+Menlo Park,HISPAI,2019,118
+Menlo Park,HISPASN,2019,16
+Menlo Park,HISPPI,2019,2
+Menlo Park,HISPOTH,2019,1298
+Menlo Park,HISPMLT,2019,99
+Menlo Park,HWHITE,2010,1740
+Menlo Park,HBLACK,2010,27
+Menlo Park,HAMERIND,2010,106
+Menlo Park,HASIAN,2010,14
+Menlo Park,HPACIFIC,2010,2
+Menlo Park,HOTHRACE,2010,1116
+Menlo Park,HRACE2UP,2010,89
+Menlo Park,HRACEBAS,2010,3094
+Menlo Park,H1RACE,2010,3005
+Menlo Park,HADRBASE,2010,2273
+Menlo Park,HAD1RACE,2010,2208
+Menlo Park,U18RBASE,2010,953
+Menlo Park,NONHISP,2019,1347
+Silverbell Terrace,WHITE,2019,95
+Silverbell Terrace,BLACK,2019,7
+Silverbell Terrace,AMERIND,2019,3
+Silverbell Terrace,ASIAN,2019,11
+Silverbell Terrace,PACIFIC,2019,0
+Silverbell Terrace,OTHRACE,2019,40
+Silverbell Terrace,RACE2UP,2019,7
+Silverbell Terrace,HISPPOP,2019,97
+Silverbell Terrace,MINORITY,2019,120
+Silverbell Terrace,WHITE,2010,89
+Silverbell Terrace,BLACK,2010,6
+Silverbell Terrace,AMERIND,2010,3
+Silverbell Terrace,ASIAN,2010,9
+Silverbell Terrace,PACIFIC,2010,0
+Silverbell Terrace,OTHRACE,2010,32
+Silverbell Terrace,RACE2UP,2010,6
+Silverbell Terrace,HISPPOP,2010,79
+Silverbell Terrace,MINORITY,2010,98
+Silverbell Terrace,DIVINDX,2010,80.7
+Silverbell Terrace,HISPWHT,2019,51
+Silverbell Terrace,HISPBLK,2019,1
+Silverbell Terrace,HISPAI,2019,1
+Silverbell Terrace,HISPASN,2019,0
+Silverbell Terrace,HISPPI,2019,0
+Silverbell Terrace,HISPOTH,2019,40
+Silverbell Terrace,HISPMLT,2019,4
+Silverbell Terrace,HWHITE,2010,42
+Silverbell Terrace,HBLACK,2010,0
+Silverbell Terrace,HAMERIND,2010,1
+Silverbell Terrace,HASIAN,2010,0
+Silverbell Terrace,HPACIFIC,2010,0
+Silverbell Terrace,HOTHRACE,2010,32
+Silverbell Terrace,HRACE2UP,2010,4
+Silverbell Terrace,HRACEBAS,2010,79
+Silverbell Terrace,H1RACE,2010,75
+Silverbell Terrace,HADRBASE,2010,51
+Silverbell Terrace,HAD1RACE,2010,49
+Silverbell Terrace,U18RBASE,2010,38
+Silverbell Terrace,NONHISP,2019,66
+Broadway Pantano East,WHITE,2019,4107
+Broadway Pantano East,BLACK,2019,486
+Broadway Pantano East,AMERIND,2019,64
+Broadway Pantano East,ASIAN,2019,139
+Broadway Pantano East,PACIFIC,2019,24
+Broadway Pantano East,OTHRACE,2019,533
+Broadway Pantano East,RACE2UP,2019,346
+Broadway Pantano East,HISPPOP,2019,1498
+Broadway Pantano East,MINORITY,2019,2337
+Broadway Pantano East,WHITE,2010,4048
+Broadway Pantano East,BLACK,2010,410
+Broadway Pantano East,AMERIND,2010,54
+Broadway Pantano East,ASIAN,2010,104
+Broadway Pantano East,PACIFIC,2010,21
+Broadway Pantano East,OTHRACE,2010,411
+Broadway Pantano East,RACE2UP,2010,276
+Broadway Pantano East,HISPPOP,2010,1169
+Broadway Pantano East,MINORITY,2010,1862
+Broadway Pantano East,DIVINDX,2010,61.6
+Broadway Pantano East,HISPWHT,2019,746
+Broadway Pantano East,HISPBLK,2019,47
+Broadway Pantano East,HISPAI,2019,24
+Broadway Pantano East,HISPASN,2019,10
+Broadway Pantano East,HISPPI,2019,3
+Broadway Pantano East,HISPOTH,2019,522
+Broadway Pantano East,HISPMLT,2019,146
+Broadway Pantano East,HWHITE,2010,587
+Broadway Pantano East,HBLACK,2010,38
+Broadway Pantano East,HAMERIND,2010,19
+Broadway Pantano East,HASIAN,2010,7
+Broadway Pantano East,HPACIFIC,2010,2
+Broadway Pantano East,HOTHRACE,2010,399
+Broadway Pantano East,HRACE2UP,2010,117
+Broadway Pantano East,HRACEBAS,2010,1169
+Broadway Pantano East,H1RACE,2010,1052
+Broadway Pantano East,HADRBASE,2010,747
+Broadway Pantano East,HAD1RACE,2010,688
+Broadway Pantano East,U18RBASE,2010,1240
+Broadway Pantano East,NONHISP,2019,4200
+Miles,WHITE,2019,601
+Miles,BLACK,2019,40
+Miles,AMERIND,2019,31
+Miles,ASIAN,2019,27
+Miles,PACIFIC,2019,2
+Miles,OTHRACE,2019,124
+Miles,RACE2UP,2019,45
+Miles,HISPPOP,2019,395
+Miles,MINORITY,2019,509
+Miles,WHITE,2010,600
+Miles,BLACK,2010,35
+Miles,AMERIND,2010,28
+Miles,ASIAN,2010,22
+Miles,PACIFIC,2010,1
+Miles,OTHRACE,2010,102
+Miles,RACE2UP,2010,38
+Miles,HISPPOP,2010,330
+Miles,MINORITY,2010,429
+Miles,DIVINDX,2010,72.5
+Miles,HISPWHT,2019,239
+Miles,HISPBLK,2019,4
+Miles,HISPAI,2019,6
+Miles,HISPASN,2019,1
+Miles,HISPPI,2019,2
+Miles,HISPOTH,2019,122
+Miles,HISPMLT,2019,21
+Miles,HWHITE,2010,202
+Miles,HBLACK,2010,3
+Miles,HAMERIND,2010,5
+Miles,HASIAN,2010,1
+Miles,HPACIFIC,2010,1
+Miles,HOTHRACE,2010,100
+Miles,HRACE2UP,2010,18
+Miles,HRACEBAS,2010,330
+Miles,H1RACE,2010,312
+Miles,HADRBASE,2010,252
+Miles,HAD1RACE,2010,240
+Miles,U18RBASE,2010,131
+Miles,NONHISP,2019,475
+Sierra Estates,WHITE,2019,44
+Sierra Estates,BLACK,2019,8
+Sierra Estates,AMERIND,2019,2
+Sierra Estates,ASIAN,2019,7
+Sierra Estates,PACIFIC,2019,1
+Sierra Estates,OTHRACE,2019,14
+Sierra Estates,RACE2UP,2019,5
+Sierra Estates,HISPPOP,2019,30
+Sierra Estates,MINORITY,2019,48
+Sierra Estates,WHITE,2010,48
+Sierra Estates,BLACK,2010,7
+Sierra Estates,AMERIND,2010,2
+Sierra Estates,ASIAN,2010,6
+Sierra Estates,PACIFIC,2010,1
+Sierra Estates,OTHRACE,2010,12
+Sierra Estates,RACE2UP,2010,5
+Sierra Estates,HISPPOP,2010,26
+Sierra Estates,MINORITY,2010,44
+Sierra Estates,DIVINDX,2010,79.4
+Sierra Estates,HISPWHT,2019,12
+Sierra Estates,HISPBLK,2019,0
+Sierra Estates,HISPAI,2019,1
+Sierra Estates,HISPASN,2019,0
+Sierra Estates,HISPPI,2019,0
+Sierra Estates,HISPOTH,2019,14
+Sierra Estates,HISPMLT,2019,3
+Sierra Estates,HWHITE,2010,11
+Sierra Estates,HBLACK,2010,0
+Sierra Estates,HAMERIND,2010,1
+Sierra Estates,HASIAN,2010,0
+Sierra Estates,HPACIFIC,2010,0
+Sierra Estates,HOTHRACE,2010,12
+Sierra Estates,HRACE2UP,2010,2
+Sierra Estates,HRACEBAS,2010,26
+Sierra Estates,H1RACE,2010,24
+Sierra Estates,HADRBASE,2010,19
+Sierra Estates,HAD1RACE,2010,18
+Sierra Estates,U18RBASE,2010,14
+Sierra Estates,NONHISP,2019,50
+Silvercroft,WHITE,2019,147
+Silvercroft,BLACK,2019,18
+Silvercroft,AMERIND,2019,15
+Silvercroft,ASIAN,2019,2
+Silvercroft,PACIFIC,2019,0
+Silvercroft,OTHRACE,2019,132
+Silvercroft,RACE2UP,2019,14
+Silvercroft,HISPPOP,2019,271
+Silvercroft,MINORITY,2019,300
+Silvercroft,WHITE,2010,156
+Silvercroft,BLACK,2010,19
+Silvercroft,AMERIND,2010,16
+Silvercroft,ASIAN,2010,2
+Silvercroft,PACIFIC,2010,0
+Silvercroft,OTHRACE,2010,128
+Silvercroft,RACE2UP,2010,14
+Silvercroft,HISPPOP,2010,267
+Silvercroft,MINORITY,2010,297
+Silvercroft,DIVINDX,2010,85
+Silvercroft,HISPWHT,2019,118
+Silvercroft,HISPBLK,2019,3
+Silvercroft,HISPAI,2019,7
+Silvercroft,HISPASN,2019,0
+Silvercroft,HISPPI,2019,0
+Silvercroft,HISPOTH,2019,132
+Silvercroft,HISPMLT,2019,11
+Silvercroft,HWHITE,2010,118
+Silvercroft,HBLACK,2010,3
+Silvercroft,HAMERIND,2010,7
+Silvercroft,HASIAN,2010,0
+Silvercroft,HPACIFIC,2010,0
+Silvercroft,HOTHRACE,2010,127
+Silvercroft,HRACE2UP,2010,12
+Silvercroft,HRACEBAS,2010,267
+Silvercroft,H1RACE,2010,255
+Silvercroft,HADRBASE,2010,179
+Silvercroft,HAD1RACE,2010,173
+Silvercroft,U18RBASE,2010,103
+Silvercroft,NONHISP,2019,58
+Brichta,WHITE,2019,291
+Brichta,BLACK,2019,20
+Brichta,AMERIND,2019,23
+Brichta,ASIAN,2019,28
+Brichta,PACIFIC,2019,0
+Brichta,OTHRACE,2019,102
+Brichta,RACE2UP,2019,26
+Brichta,HISPPOP,2019,295
+Brichta,MINORITY,2019,363
+Brichta,WHITE,2010,292
+Brichta,BLACK,2010,19
+Brichta,AMERIND,2010,22
+Brichta,ASIAN,2010,23
+Brichta,PACIFIC,2010,0
+Brichta,OTHRACE,2010,88
+Brichta,RACE2UP,2010,23
+Brichta,HISPPOP,2010,258
+Brichta,MINORITY,2010,319
+Brichta,DIVINDX,2010,79.9
+Brichta,HISPWHT,2019,163
+Brichta,HISPBLK,2019,3
+Brichta,HISPAI,2019,10
+Brichta,HISPASN,2019,1
+Brichta,HISPPI,2019,0
+Brichta,HISPOTH,2019,102
+Brichta,HISPMLT,2019,17
+Brichta,HWHITE,2010,144
+Brichta,HBLACK,2010,3
+Brichta,HAMERIND,2010,8
+Brichta,HASIAN,2010,1
+Brichta,HPACIFIC,2010,0
+Brichta,HOTHRACE,2010,87
+Brichta,HRACE2UP,2010,15
+Brichta,HRACEBAS,2010,258
+Brichta,H1RACE,2010,243
+Brichta,HADRBASE,2010,178
+Brichta,HAD1RACE,2010,169
+Brichta,U18RBASE,2010,109
+Brichta,NONHISP,2019,196
+Cherry Avenue,WHITE,2019,5349
+Cherry Avenue,BLACK,2019,250
+Cherry Avenue,AMERIND,2019,332
+Cherry Avenue,ASIAN,2019,95
+Cherry Avenue,PACIFIC,2019,5
+Cherry Avenue,OTHRACE,2019,3687
+Cherry Avenue,RACE2UP,2019,374
+Cherry Avenue,HISPPOP,2019,8775
+Cherry Avenue,MINORITY,2019,9273
+Cherry Avenue,WHITE,2010,5154
+Cherry Avenue,BLACK,2010,243
+Cherry Avenue,AMERIND,2010,318
+Cherry Avenue,ASIAN,2010,84
+Cherry Avenue,PACIFIC,2010,5
+Cherry Avenue,OTHRACE,2010,3300
+Cherry Avenue,RACE2UP,2010,348
+Cherry Avenue,HISPPOP,2010,7989
+Cherry Avenue,MINORITY,2010,8469
+Cherry Avenue,DIVINDX,2010,77.9
+Cherry Avenue,HISPWHT,2019,4530
+Cherry Avenue,HISPBLK,2019,62
+Cherry Avenue,HISPAI,2019,217
+Cherry Avenue,HISPASN,2019,4
+Cherry Avenue,HISPPI,2019,0
+Cherry Avenue,HISPOTH,2019,3680
+Cherry Avenue,HISPMLT,2019,282
+Cherry Avenue,HWHITE,2010,4171
+Cherry Avenue,HBLACK,2010,57
+Cherry Avenue,HAMERIND,2010,204
+Cherry Avenue,HASIAN,2010,4
+Cherry Avenue,HPACIFIC,2010,0
+Cherry Avenue,HOTHRACE,2010,3291
+Cherry Avenue,HRACE2UP,2010,262
+Cherry Avenue,HRACEBAS,2010,7989
+Cherry Avenue,H1RACE,2010,7727
+Cherry Avenue,HADRBASE,2010,5146
+Cherry Avenue,HAD1RACE,2010,4978
+Cherry Avenue,U18RBASE,2010,3085
+Cherry Avenue,NONHISP,2019,1317
+Fairgrounds,WHITE,2019,1200
+Fairgrounds,BLACK,2019,57
+Fairgrounds,AMERIND,2019,122
+Fairgrounds,ASIAN,2019,4
+Fairgrounds,PACIFIC,2019,1
+Fairgrounds,OTHRACE,2019,836
+Fairgrounds,RACE2UP,2019,64
+Fairgrounds,HISPPOP,2019,2069
+Fairgrounds,MINORITY,2019,2198
+Fairgrounds,WHITE,2010,1176
+Fairgrounds,BLACK,2010,56
+Fairgrounds,AMERIND,2010,123
+Fairgrounds,ASIAN,2010,4
+Fairgrounds,PACIFIC,2010,1
+Fairgrounds,OTHRACE,2010,775
+Fairgrounds,RACE2UP,2010,62
+Fairgrounds,HISPPOP,2010,1957
+Fairgrounds,MINORITY,2010,2089
+Fairgrounds,DIVINDX,2010,76.6
+Fairgrounds,HISPWHT,2019,1114
+Fairgrounds,HISPBLK,2019,25
+Fairgrounds,HISPAI,2019,46
+Fairgrounds,HISPASN,2019,2
+Fairgrounds,HISPPI,2019,1
+Fairgrounds,HISPOTH,2019,834
+Fairgrounds,HISPMLT,2019,48
+Fairgrounds,HWHITE,2010,1068
+Fairgrounds,HBLACK,2010,24
+Fairgrounds,HAMERIND,2010,44
+Fairgrounds,HASIAN,2010,2
+Fairgrounds,HPACIFIC,2010,1
+Fairgrounds,HOTHRACE,2010,772
+Fairgrounds,HRACE2UP,2010,46
+Fairgrounds,HRACEBAS,2010,1957
+Fairgrounds,H1RACE,2010,1910
+Fairgrounds,HADRBASE,2010,1331
+Fairgrounds,HAD1RACE,2010,1302
+Fairgrounds,U18RBASE,2010,668
+Fairgrounds,NONHISP,2019,215
+Bravo Park Lane,WHITE,2019,1906
+Bravo Park Lane,BLACK,2019,125
+Bravo Park Lane,AMERIND,2019,139
+Bravo Park Lane,ASIAN,2019,50
+Bravo Park Lane,PACIFIC,2019,2
+Bravo Park Lane,OTHRACE,2019,1214
+Bravo Park Lane,RACE2UP,2019,175
+Bravo Park Lane,HISPPOP,2019,3093
+Bravo Park Lane,MINORITY,2019,3300
+Bravo Park Lane,WHITE,2010,1765
+Bravo Park Lane,BLACK,2010,118
+Bravo Park Lane,AMERIND,2010,128
+Bravo Park Lane,ASIAN,2010,46
+Bravo Park Lane,PACIFIC,2010,2
+Bravo Park Lane,OTHRACE,2010,1054
+Bravo Park Lane,RACE2UP,2010,157
+Bravo Park Lane,HISPPOP,2010,2717
+Bravo Park Lane,MINORITY,2010,2912
+Bravo Park Lane,DIVINDX,2010,78.8
+Bravo Park Lane,HISPWHT,2019,1595
+Bravo Park Lane,HISPBLK,2019,30
+Bravo Park Lane,HISPAI,2019,77
+Bravo Park Lane,HISPASN,2019,25
+Bravo Park Lane,HISPPI,2019,1
+Bravo Park Lane,HISPOTH,2019,1213
+Bravo Park Lane,HISPMLT,2019,151
+Bravo Park Lane,HWHITE,2010,1409
+Bravo Park Lane,HBLACK,2010,27
+Bravo Park Lane,HAMERIND,2010,68
+Bravo Park Lane,HASIAN,2010,23
+Bravo Park Lane,HPACIFIC,2010,1
+Bravo Park Lane,HOTHRACE,2010,1053
+Bravo Park Lane,HRACE2UP,2010,136
+Bravo Park Lane,HRACEBAS,2010,2717
+Bravo Park Lane,H1RACE,2010,2581
+Bravo Park Lane,HADRBASE,2010,1819
+Bravo Park Lane,HAD1RACE,2010,1744
+Bravo Park Lane,U18RBASE,2010,972
+Bravo Park Lane,NONHISP,2019,519
+Feldman`s,WHITE,2019,1642
+Feldman`s,BLACK,2019,114
+Feldman`s,AMERIND,2019,51
+Feldman`s,ASIAN,2019,415
+Feldman`s,PACIFIC,2019,1
+Feldman`s,OTHRACE,2019,181
+Feldman`s,RACE2UP,2019,119
+Feldman`s,HISPPOP,2019,538
+Feldman`s,MINORITY,2019,1154
+Feldman`s,WHITE,2010,1694
+Feldman`s,BLACK,2010,99
+Feldman`s,AMERIND,2010,45
+Feldman`s,ASIAN,2010,310
+Feldman`s,PACIFIC,2010,1
+Feldman`s,OTHRACE,2010,147
+Feldman`s,RACE2UP,2010,98
+Feldman`s,HISPPOP,2010,443
+Feldman`s,MINORITY,2010,927
+Feldman`s,DIVINDX,2010,63.7
+Feldman`s,HISPWHT,2019,272
+Feldman`s,HISPBLK,2019,9
+Feldman`s,HISPAI,2019,19
+Feldman`s,HISPASN,2019,1
+Feldman`s,HISPPI,2019,0
+Feldman`s,HISPOTH,2019,181
+Feldman`s,HISPMLT,2019,55
+Feldman`s,HWHITE,2010,227
+Feldman`s,HBLACK,2010,8
+Feldman`s,HAMERIND,2010,16
+Feldman`s,HASIAN,2010,1
+Feldman`s,HPACIFIC,2010,0
+Feldman`s,HOTHRACE,2010,146
+Feldman`s,HRACE2UP,2010,46
+Feldman`s,HRACEBAS,2010,444
+Feldman`s,H1RACE,2010,398
+Feldman`s,HADRBASE,2010,348
+Feldman`s,HAD1RACE,2010,314
+Feldman`s,U18RBASE,2010,191
+Feldman`s,NONHISP,2019,1986
+Sugar Hill,WHITE,2019,890
+Sugar Hill,BLACK,2019,189
+Sugar Hill,AMERIND,2019,61
+Sugar Hill,ASIAN,2019,96
+Sugar Hill,PACIFIC,2019,1
+Sugar Hill,OTHRACE,2019,301
+Sugar Hill,RACE2UP,2019,102
+Sugar Hill,HISPPOP,2019,624
+Sugar Hill,MINORITY,2019,973
+Sugar Hill,WHITE,2010,893
+Sugar Hill,BLACK,2010,162
+Sugar Hill,AMERIND,2010,51
+Sugar Hill,ASIAN,2010,75
+Sugar Hill,PACIFIC,2010,1
+Sugar Hill,OTHRACE,2010,236
+Sugar Hill,RACE2UP,2010,84
+Sugar Hill,HISPPOP,2010,497
+Sugar Hill,MINORITY,2010,789
+Sugar Hill,DIVINDX,2010,79.5
+Sugar Hill,HISPWHT,2019,222
+Sugar Hill,HISPBLK,2019,12
+Sugar Hill,HISPAI,2019,21
+Sugar Hill,HISPASN,2019,11
+Sugar Hill,HISPPI,2019,0
+Sugar Hill,HISPOTH,2019,300
+Sugar Hill,HISPMLT,2019,57
+Sugar Hill,HWHITE,2010,180
+Sugar Hill,HBLACK,2010,10
+Sugar Hill,HAMERIND,2010,17
+Sugar Hill,HASIAN,2010,8
+Sugar Hill,HPACIFIC,2010,0
+Sugar Hill,HOTHRACE,2010,235
+Sugar Hill,HRACE2UP,2010,47
+Sugar Hill,HRACEBAS,2010,497
+Sugar Hill,H1RACE,2010,451
+Sugar Hill,HADRBASE,2010,345
+Sugar Hill,HAD1RACE,2010,322
+Sugar Hill,U18RBASE,2010,260
+Sugar Hill,NONHISP,2019,1018
+Toumey Park,WHITE,2019,1440
+Toumey Park,BLACK,2019,138
+Toumey Park,AMERIND,2019,81
+Toumey Park,ASIAN,2019,25
+Toumey Park,PACIFIC,2019,1
+Toumey Park,OTHRACE,2019,553
+Toumey Park,RACE2UP,2019,137
+Toumey Park,HISPPOP,2019,1299
+Toumey Park,MINORITY,2019,1544
+Toumey Park,WHITE,2010,1431
+Toumey Park,BLACK,2010,119
+Toumey Park,AMERIND,2010,70
+Toumey Park,ASIAN,2010,21
+Toumey Park,PACIFIC,2010,1
+Toumey Park,OTHRACE,2010,466
+Toumey Park,RACE2UP,2010,116
+Toumey Park,HISPPOP,2010,1088
+Toumey Park,MINORITY,2010,1299
+Toumey Park,DIVINDX,2010,79.1
+Toumey Park,HISPWHT,2019,610
+Toumey Park,HISPBLK,2019,23
+Toumey Park,HISPAI,2019,35
+Toumey Park,HISPASN,2019,0
+Toumey Park,HISPPI,2019,0
+Toumey Park,HISPOTH,2019,549
+Toumey Park,HISPMLT,2019,82
+Toumey Park,HWHITE,2010,507
+Toumey Park,HBLACK,2010,19
+Toumey Park,HAMERIND,2010,29
+Toumey Park,HASIAN,2010,0
+Toumey Park,HPACIFIC,2010,0
+Toumey Park,HOTHRACE,2010,462
+Toumey Park,HRACE2UP,2010,71
+Toumey Park,HRACEBAS,2010,1088
+Toumey Park,H1RACE,2010,1017
+Toumey Park,HADRBASE,2010,676
+Toumey Park,HAD1RACE,2010,627
+Toumey Park,U18RBASE,2010,665
+Toumey Park,NONHISP,2019,1075
+El Encanto Estates,WHITE,2019,283
+El Encanto Estates,BLACK,2019,5
+El Encanto Estates,AMERIND,2019,4
+El Encanto Estates,ASIAN,2019,14
+El Encanto Estates,PACIFIC,2019,0
+El Encanto Estates,OTHRACE,2019,15
+El Encanto Estates,RACE2UP,2019,12
+El Encanto Estates,HISPPOP,2019,68
+El Encanto Estates,MINORITY,2019,96
+El Encanto Estates,WHITE,2010,286
+El Encanto Estates,BLACK,2010,4
+El Encanto Estates,AMERIND,2010,4
+El Encanto Estates,ASIAN,2010,10
+El Encanto Estates,PACIFIC,2010,0
+El Encanto Estates,OTHRACE,2010,12
+El Encanto Estates,RACE2UP,2010,10
+El Encanto Estates,HISPPOP,2010,55
+El Encanto Estates,MINORITY,2010,78
+El Encanto Estates,DIVINDX,2010,44.8
+El Encanto Estates,HISPWHT,2019,46
+El Encanto Estates,HISPBLK,2019,1
+El Encanto Estates,HISPAI,2019,1
+El Encanto Estates,HISPASN,2019,0
+El Encanto Estates,HISPPI,2019,0
+El Encanto Estates,HISPOTH,2019,15
+El Encanto Estates,HISPMLT,2019,4
+El Encanto Estates,HWHITE,2010,37
+El Encanto Estates,HBLACK,2010,1
+El Encanto Estates,HAMERIND,2010,1
+El Encanto Estates,HASIAN,2010,0
+El Encanto Estates,HPACIFIC,2010,0
+El Encanto Estates,HOTHRACE,2010,12
+El Encanto Estates,HRACE2UP,2010,3
+El Encanto Estates,HRACEBAS,2010,54
+El Encanto Estates,H1RACE,2010,51
+El Encanto Estates,HADRBASE,2010,43
+El Encanto Estates,HAD1RACE,2010,41
+El Encanto Estates,U18RBASE,2010,39
+El Encanto Estates,NONHISP,2019,266
+Colonia Solana,WHITE,2019,255
+Colonia Solana,BLACK,2019,8
+Colonia Solana,AMERIND,2019,0
+Colonia Solana,ASIAN,2019,8
+Colonia Solana,PACIFIC,2019,0
+Colonia Solana,OTHRACE,2019,5
+Colonia Solana,RACE2UP,2019,8
+Colonia Solana,HISPPOP,2019,54
+Colonia Solana,MINORITY,2019,73
+Colonia Solana,WHITE,2010,250
+Colonia Solana,BLACK,2010,6
+Colonia Solana,AMERIND,2010,0
+Colonia Solana,ASIAN,2010,6
+Colonia Solana,PACIFIC,2010,0
+Colonia Solana,OTHRACE,2010,4
+Colonia Solana,RACE2UP,2010,6
+Colonia Solana,HISPPOP,2010,42
+Colonia Solana,MINORITY,2010,58
+Colonia Solana,DIVINDX,2010,37.9
+Colonia Solana,HISPWHT,2019,44
+Colonia Solana,HISPBLK,2019,2
+Colonia Solana,HISPAI,2019,0
+Colonia Solana,HISPASN,2019,0
+Colonia Solana,HISPPI,2019,0
+Colonia Solana,HISPOTH,2019,5
+Colonia Solana,HISPMLT,2019,3
+Colonia Solana,HWHITE,2010,35
+Colonia Solana,HBLACK,2010,1
+Colonia Solana,HAMERIND,2010,0
+Colonia Solana,HASIAN,2010,0
+Colonia Solana,HPACIFIC,2010,0
+Colonia Solana,HOTHRACE,2010,4
+Colonia Solana,HRACE2UP,2010,2
+Colonia Solana,HRACEBAS,2010,42
+Colonia Solana,H1RACE,2010,40
+Colonia Solana,HADRBASE,2010,36
+Colonia Solana,HAD1RACE,2010,34
+Colonia Solana,U18RBASE,2010,31
+Colonia Solana,NONHISP,2019,230
+Winterhaven,WHITE,2019,472
+Winterhaven,BLACK,2019,23
+Winterhaven,AMERIND,2019,7
+Winterhaven,ASIAN,2019,16
+Winterhaven,PACIFIC,2019,4
+Winterhaven,OTHRACE,2019,49
+Winterhaven,RACE2UP,2019,26
+Winterhaven,HISPPOP,2019,145
+Winterhaven,MINORITY,2019,206
+Winterhaven,WHITE,2010,465
+Winterhaven,BLACK,2010,19
+Winterhaven,AMERIND,2010,6
+Winterhaven,ASIAN,2010,12
+Winterhaven,PACIFIC,2010,3
+Winterhaven,OTHRACE,2010,37
+Winterhaven,RACE2UP,2010,21
+Winterhaven,HISPPOP,2010,113
+Winterhaven,MINORITY,2010,162
+Winterhaven,DIVINDX,2010,53.4
+Winterhaven,HISPWHT,2019,82
+Winterhaven,HISPBLK,2019,1
+Winterhaven,HISPAI,2019,2
+Winterhaven,HISPASN,2019,0
+Winterhaven,HISPPI,2019,0
+Winterhaven,HISPOTH,2019,48
+Winterhaven,HISPMLT,2019,11
+Winterhaven,HWHITE,2010,64
+Winterhaven,HBLACK,2010,1
+Winterhaven,HAMERIND,2010,2
+Winterhaven,HASIAN,2010,0
+Winterhaven,HPACIFIC,2010,0
+Winterhaven,HOTHRACE,2010,37
+Winterhaven,HRACE2UP,2010,9
+Winterhaven,HRACEBAS,2010,113
+Winterhaven,H1RACE,2010,104
+Winterhaven,HADRBASE,2010,77
+Winterhaven,HAD1RACE,2010,73
+Winterhaven,U18RBASE,2010,101
+Winterhaven,NONHISP,2019,450
+Barrio Kroeger Lane,WHITE,2019,141
+Barrio Kroeger Lane,BLACK,2019,22
+Barrio Kroeger Lane,AMERIND,2019,18
+Barrio Kroeger Lane,ASIAN,2019,3
+Barrio Kroeger Lane,PACIFIC,2019,0
+Barrio Kroeger Lane,OTHRACE,2019,72
+Barrio Kroeger Lane,RACE2UP,2019,11
+Barrio Kroeger Lane,HISPPOP,2019,157
+Barrio Kroeger Lane,MINORITY,2019,195
+Barrio Kroeger Lane,WHITE,2010,146
+Barrio Kroeger Lane,BLACK,2010,21
+Barrio Kroeger Lane,AMERIND,2010,17
+Barrio Kroeger Lane,ASIAN,2010,3
+Barrio Kroeger Lane,PACIFIC,2010,0
+Barrio Kroeger Lane,OTHRACE,2010,62
+Barrio Kroeger Lane,RACE2UP,2010,10
+Barrio Kroeger Lane,HISPPOP,2010,138
+Barrio Kroeger Lane,MINORITY,2010,175
+Barrio Kroeger Lane,DIVINDX,2010,83.5
+Barrio Kroeger Lane,HISPWHT,2019,68
+Barrio Kroeger Lane,HISPBLK,2019,1
+Barrio Kroeger Lane,HISPAI,2019,7
+Barrio Kroeger Lane,HISPASN,2019,1
+Barrio Kroeger Lane,HISPPI,2019,0
+Barrio Kroeger Lane,HISPOTH,2019,72
+Barrio Kroeger Lane,HISPMLT,2019,8
+Barrio Kroeger Lane,HWHITE,2010,61
+Barrio Kroeger Lane,HBLACK,2010,1
+Barrio Kroeger Lane,HAMERIND,2010,6
+Barrio Kroeger Lane,HASIAN,2010,1
+Barrio Kroeger Lane,HPACIFIC,2010,0
+Barrio Kroeger Lane,HOTHRACE,2010,62
+Barrio Kroeger Lane,HRACE2UP,2010,7
+Barrio Kroeger Lane,HRACEBAS,2010,138
+Barrio Kroeger Lane,H1RACE,2010,131
+Barrio Kroeger Lane,HADRBASE,2010,123
+Barrio Kroeger Lane,HAD1RACE,2010,117
+Barrio Kroeger Lane,U18RBASE,2010,18
+Barrio Kroeger Lane,NONHISP,2019,111
+Palo Verde Park,WHITE,2019,3206
+Palo Verde Park,BLACK,2019,143
+Palo Verde Park,AMERIND,2019,88
+Palo Verde Park,ASIAN,2019,94
+Palo Verde Park,PACIFIC,2019,12
+Palo Verde Park,OTHRACE,2019,402
+Palo Verde Park,RACE2UP,2019,219
+Palo Verde Park,HISPPOP,2019,1278
+Palo Verde Park,MINORITY,2019,1664
+Palo Verde Park,WHITE,2010,3333
+Palo Verde Park,BLACK,2010,126
+Palo Verde Park,AMERIND,2010,76
+Palo Verde Park,ASIAN,2010,76
+Palo Verde Park,PACIFIC,2010,11
+Palo Verde Park,OTHRACE,2010,327
+Palo Verde Park,RACE2UP,2010,186
+Palo Verde Park,HISPPOP,2010,1063
+Palo Verde Park,MINORITY,2010,1393
+Palo Verde Park,DIVINDX,2010,59.7
+Palo Verde Park,HISPWHT,2019,706
+Palo Verde Park,HISPBLK,2019,11
+Palo Verde Park,HISPAI,2019,53
+Palo Verde Park,HISPASN,2019,3
+Palo Verde Park,HISPPI,2019,1
+Palo Verde Park,HISPOTH,2019,401
+Palo Verde Park,HISPMLT,2019,103
+Palo Verde Park,HWHITE,2010,591
+Palo Verde Park,HBLACK,2010,9
+Palo Verde Park,HAMERIND,2010,45
+Palo Verde Park,HASIAN,2010,3
+Palo Verde Park,HPACIFIC,2010,1
+Palo Verde Park,HOTHRACE,2010,326
+Palo Verde Park,HRACE2UP,2010,88
+Palo Verde Park,HRACEBAS,2010,1063
+Palo Verde Park,H1RACE,2010,975
+Palo Verde Park,HADRBASE,2010,673
+Palo Verde Park,HAD1RACE,2010,632
+Palo Verde Park,U18RBASE,2010,989
+Palo Verde Park,NONHISP,2019,2886
+Aldea Linda,WHITE,2019,171
+Aldea Linda,BLACK,2019,8
+Aldea Linda,AMERIND,2019,2
+Aldea Linda,ASIAN,2019,12
+Aldea Linda,PACIFIC,2019,2
+Aldea Linda,OTHRACE,2019,14
+Aldea Linda,RACE2UP,2019,12
+Aldea Linda,HISPPOP,2019,63
+Aldea Linda,MINORITY,2019,95
+Aldea Linda,WHITE,2010,178
+Aldea Linda,BLACK,2010,7
+Aldea Linda,AMERIND,2010,2
+Aldea Linda,ASIAN,2010,10
+Aldea Linda,PACIFIC,2010,1
+Aldea Linda,OTHRACE,2010,12
+Aldea Linda,RACE2UP,2010,10
+Aldea Linda,HISPPOP,2010,53
+Aldea Linda,MINORITY,2010,81
+Aldea Linda,DIVINDX,2010,58.6
+Aldea Linda,HISPWHT,2019,45
+Aldea Linda,HISPBLK,2019,2
+Aldea Linda,HISPAI,2019,1
+Aldea Linda,HISPASN,2019,0
+Aldea Linda,HISPPI,2019,0
+Aldea Linda,HISPOTH,2019,14
+Aldea Linda,HISPMLT,2019,1
+Aldea Linda,HWHITE,2010,38
+Aldea Linda,HBLACK,2010,2
+Aldea Linda,HAMERIND,2010,1
+Aldea Linda,HASIAN,2010,0
+Aldea Linda,HPACIFIC,2010,0
+Aldea Linda,HOTHRACE,2010,11
+Aldea Linda,HRACE2UP,2010,1
+Aldea Linda,HRACEBAS,2010,53
+Aldea Linda,H1RACE,2010,52
+Aldea Linda,HADRBASE,2010,38
+Aldea Linda,HAD1RACE,2010,37
+Aldea Linda,U18RBASE,2010,40
+Aldea Linda,NONHISP,2019,158
+St. Cyrils,WHITE,2019,1774
+St. Cyrils,BLACK,2019,144
+St. Cyrils,AMERIND,2019,41
+St. Cyrils,ASIAN,2019,65
+St. Cyrils,PACIFIC,2019,6
+St. Cyrils,OTHRACE,2019,162
+St. Cyrils,RACE2UP,2019,153
+St. Cyrils,HISPPOP,2019,620
+St. Cyrils,MINORITY,2019,917
+St. Cyrils,WHITE,2010,1736
+St. Cyrils,BLACK,2010,120
+St. Cyrils,AMERIND,2010,33
+St. Cyrils,ASIAN,2010,49
+St. Cyrils,PACIFIC,2010,5
+St. Cyrils,OTHRACE,2010,124
+St. Cyrils,RACE2UP,2010,122
+St. Cyrils,HISPPOP,2010,485
+St. Cyrils,MINORITY,2010,726
+St. Cyrils,DIVINDX,2010,58.6
+St. Cyrils,HISPWHT,2019,347
+St. Cyrils,HISPBLK,2019,11
+St. Cyrils,HISPAI,2019,10
+St. Cyrils,HISPASN,2019,1
+St. Cyrils,HISPPI,2019,1
+St. Cyrils,HISPOTH,2019,158
+St. Cyrils,HISPMLT,2019,93
+St. Cyrils,HWHITE,2010,273
+St. Cyrils,HBLACK,2010,9
+St. Cyrils,HAMERIND,2010,8
+St. Cyrils,HASIAN,2010,1
+St. Cyrils,HPACIFIC,2010,1
+St. Cyrils,HOTHRACE,2010,120
+St. Cyrils,HRACE2UP,2010,74
+St. Cyrils,HRACEBAS,2010,486
+St. Cyrils,H1RACE,2010,411
+St. Cyrils,HADRBASE,2010,327
+St. Cyrils,HAD1RACE,2010,300
+St. Cyrils,U18RBASE,2010,365
+St. Cyrils,NONHISP,2019,1725
+Arcadia Rose,WHITE,2019,315
+Arcadia Rose,BLACK,2019,16
+Arcadia Rose,AMERIND,2019,6
+Arcadia Rose,ASIAN,2019,6
+Arcadia Rose,PACIFIC,2019,0
+Arcadia Rose,OTHRACE,2019,22
+Arcadia Rose,RACE2UP,2019,23
+Arcadia Rose,HISPPOP,2019,80
+Arcadia Rose,MINORITY,2019,116
+Arcadia Rose,WHITE,2010,312
+Arcadia Rose,BLACK,2010,14
+Arcadia Rose,AMERIND,2010,5
+Arcadia Rose,ASIAN,2010,5
+Arcadia Rose,PACIFIC,2010,0
+Arcadia Rose,OTHRACE,2010,17
+Arcadia Rose,RACE2UP,2010,18
+Arcadia Rose,HISPPOP,2010,62
+Arcadia Rose,MINORITY,2010,91
+Arcadia Rose,DIVINDX,2010,48.6
+Arcadia Rose,HISPWHT,2019,42
+Arcadia Rose,HISPBLK,2019,0
+Arcadia Rose,HISPAI,2019,2
+Arcadia Rose,HISPASN,2019,0
+Arcadia Rose,HISPPI,2019,0
+Arcadia Rose,HISPOTH,2019,22
+Arcadia Rose,HISPMLT,2019,14
+Arcadia Rose,HWHITE,2010,33
+Arcadia Rose,HBLACK,2010,0
+Arcadia Rose,HAMERIND,2010,1
+Arcadia Rose,HASIAN,2010,0
+Arcadia Rose,HPACIFIC,2010,0
+Arcadia Rose,HOTHRACE,2010,16
+Arcadia Rose,HRACE2UP,2010,11
+Arcadia Rose,HRACEBAS,2010,61
+Arcadia Rose,H1RACE,2010,51
+Arcadia Rose,HADRBASE,2010,40
+Arcadia Rose,HAD1RACE,2010,36
+Arcadia Rose,U18RBASE,2010,57
+Arcadia Rose,NONHISP,2019,309
+Saguaro Canyon,WHITE,2019,539
+Saguaro Canyon,BLACK,2019,23
+Saguaro Canyon,AMERIND,2019,5
+Saguaro Canyon,ASIAN,2019,20
+Saguaro Canyon,PACIFIC,2019,1
+Saguaro Canyon,OTHRACE,2019,29
+Saguaro Canyon,RACE2UP,2019,28
+Saguaro Canyon,HISPPOP,2019,133
+Saguaro Canyon,MINORITY,2019,199
+Saguaro Canyon,WHITE,2010,560
+Saguaro Canyon,BLACK,2010,20
+Saguaro Canyon,AMERIND,2010,4
+Saguaro Canyon,ASIAN,2010,16
+Saguaro Canyon,PACIFIC,2010,1
+Saguaro Canyon,OTHRACE,2010,23
+Saguaro Canyon,RACE2UP,2010,24
+Saguaro Canyon,HISPPOP,2010,109
+Saguaro Canyon,MINORITY,2010,165
+Saguaro Canyon,DIVINDX,2010,46.1
+Saguaro Canyon,HISPWHT,2019,94
+Saguaro Canyon,HISPBLK,2019,2
+Saguaro Canyon,HISPAI,2019,1
+Saguaro Canyon,HISPASN,2019,0
+Saguaro Canyon,HISPPI,2019,0
+Saguaro Canyon,HISPOTH,2019,28
+Saguaro Canyon,HISPMLT,2019,8
+Saguaro Canyon,HWHITE,2010,78
+Saguaro Canyon,HBLACK,2010,1
+Saguaro Canyon,HAMERIND,2010,1
+Saguaro Canyon,HASIAN,2010,0
+Saguaro Canyon,HPACIFIC,2010,0
+Saguaro Canyon,HOTHRACE,2010,22
+Saguaro Canyon,HRACE2UP,2010,7
+Saguaro Canyon,HRACEBAS,2010,109
+Saguaro Canyon,H1RACE,2010,102
+Saguaro Canyon,HADRBASE,2010,63
+Saguaro Canyon,HAD1RACE,2010,61
+Saguaro Canyon,U18RBASE,2010,176
+Saguaro Canyon,NONHISP,2019,511
+Barrio Nopal,WHITE,2019,3035
+Barrio Nopal,BLACK,2019,125
+Barrio Nopal,AMERIND,2019,289
+Barrio Nopal,ASIAN,2019,19
+Barrio Nopal,PACIFIC,2019,6
+Barrio Nopal,OTHRACE,2019,2322
+Barrio Nopal,RACE2UP,2019,222
+Barrio Nopal,HISPPOP,2019,5252
+Barrio Nopal,MINORITY,2019,5611
+Barrio Nopal,WHITE,2010,2927
+Barrio Nopal,BLACK,2010,122
+Barrio Nopal,AMERIND,2010,281
+Barrio Nopal,ASIAN,2010,18
+Barrio Nopal,PACIFIC,2010,6
+Barrio Nopal,OTHRACE,2010,2082
+Barrio Nopal,RACE2UP,2010,208
+Barrio Nopal,HISPPOP,2010,4798
+Barrio Nopal,MINORITY,2010,5152
+Barrio Nopal,DIVINDX,2010,79.7
+Barrio Nopal,HISPWHT,2019,2628
+Barrio Nopal,HISPBLK,2019,30
+Barrio Nopal,HISPAI,2019,87
+Barrio Nopal,HISPASN,2019,2
+Barrio Nopal,HISPPI,2019,0
+Barrio Nopal,HISPOTH,2019,2318
+Barrio Nopal,HISPMLT,2019,188
+Barrio Nopal,HWHITE,2010,2434
+Barrio Nopal,HBLACK,2010,28
+Barrio Nopal,HAMERIND,2010,81
+Barrio Nopal,HASIAN,2010,2
+Barrio Nopal,HPACIFIC,2010,0
+Barrio Nopal,HOTHRACE,2010,2076
+Barrio Nopal,HRACE2UP,2010,176
+Barrio Nopal,HRACEBAS,2010,4797
+Barrio Nopal,H1RACE,2010,4622
+Barrio Nopal,HADRBASE,2010,3106
+Barrio Nopal,HAD1RACE,2010,3010
+Barrio Nopal,U18RBASE,2010,1877
+Barrio Nopal,NONHISP,2019,766
+Santiago Hills,WHITE,2019,602
+Santiago Hills,BLACK,2019,27
+Santiago Hills,AMERIND,2019,20
+Santiago Hills,ASIAN,2019,12
+Santiago Hills,PACIFIC,2019,0
+Santiago Hills,OTHRACE,2019,212
+Santiago Hills,RACE2UP,2019,33
+Santiago Hills,HISPPOP,2019,559
+Santiago Hills,MINORITY,2019,612
+Santiago Hills,WHITE,2010,627
+Santiago Hills,BLACK,2010,25
+Santiago Hills,AMERIND,2010,19
+Santiago Hills,ASIAN,2010,10
+Santiago Hills,PACIFIC,2010,0
+Santiago Hills,OTHRACE,2010,185
+Santiago Hills,RACE2UP,2010,30
+Santiago Hills,HISPPOP,2010,500
+Santiago Hills,MINORITY,2010,549
+Santiago Hills,DIVINDX,2010,75.1
+Santiago Hills,HISPWHT,2019,308
+Santiago Hills,HISPBLK,2019,6
+Santiago Hills,HISPAI,2019,12
+Santiago Hills,HISPASN,2019,0
+Santiago Hills,HISPPI,2019,0
+Santiago Hills,HISPOTH,2019,211
+Santiago Hills,HISPMLT,2019,22
+Santiago Hills,HWHITE,2010,279
+Santiago Hills,HBLACK,2010,5
+Santiago Hills,HAMERIND,2010,11
+Santiago Hills,HASIAN,2010,0
+Santiago Hills,HPACIFIC,2010,0
+Santiago Hills,HOTHRACE,2010,184
+Santiago Hills,HRACE2UP,2010,20
+Santiago Hills,HRACEBAS,2010,499
+Santiago Hills,H1RACE,2010,479
+Santiago Hills,HADRBASE,2010,385
+Santiago Hills,HAD1RACE,2010,372
+Santiago Hills,U18RBASE,2010,147
+Santiago Hills,NONHISP,2019,346
+Coronado Heights,WHITE,2019,866
+Coronado Heights,BLACK,2019,110
+Coronado Heights,AMERIND,2019,87
+Coronado Heights,ASIAN,2019,28
+Coronado Heights,PACIFIC,2019,4
+Coronado Heights,OTHRACE,2019,424
+Coronado Heights,RACE2UP,2019,92
+Coronado Heights,HISPPOP,2019,926
+Coronado Heights,MINORITY,2019,1172
+Coronado Heights,WHITE,2010,949
+Coronado Heights,BLACK,2010,112
+Coronado Heights,AMERIND,2010,87
+Coronado Heights,ASIAN,2010,25
+Coronado Heights,PACIFIC,2010,4
+Coronado Heights,OTHRACE,2010,389
+Coronado Heights,RACE2UP,2010,88
+Coronado Heights,HISPPOP,2010,863
+Coronado Heights,MINORITY,2010,1108
+Coronado Heights,DIVINDX,2010,83.1
+Coronado Heights,HISPWHT,2019,426
+Coronado Heights,HISPBLK,2019,7
+Coronado Heights,HISPAI,2019,30
+Coronado Heights,HISPASN,2019,0
+Coronado Heights,HISPPI,2019,1
+Coronado Heights,HISPOTH,2019,423
+Coronado Heights,HISPMLT,2019,39
+Coronado Heights,HWHITE,2010,403
+Coronado Heights,HBLACK,2010,7
+Coronado Heights,HAMERIND,2010,28
+Coronado Heights,HASIAN,2010,0
+Coronado Heights,HPACIFIC,2010,1
+Coronado Heights,HOTHRACE,2010,388
+Coronado Heights,HRACE2UP,2010,37
+Coronado Heights,HRACEBAS,2010,864
+Coronado Heights,H1RACE,2010,826
+Coronado Heights,HADRBASE,2010,547
+Coronado Heights,HAD1RACE,2010,526
+Coronado Heights,U18RBASE,2010,462
+Coronado Heights,NONHISP,2019,686
+Harold Bell Wright Estates,WHITE,2019,830
+Harold Bell Wright Estates,BLACK,2019,39
+Harold Bell Wright Estates,AMERIND,2019,13
+Harold Bell Wright Estates,ASIAN,2019,11
+Harold Bell Wright Estates,PACIFIC,2019,2
+Harold Bell Wright Estates,OTHRACE,2019,60
+Harold Bell Wright Estates,RACE2UP,2019,24
+Harold Bell Wright Estates,HISPPOP,2019,229
+Harold Bell Wright Estates,MINORITY,2019,298
+Harold Bell Wright Estates,WHITE,2010,714
+Harold Bell Wright Estates,BLACK,2010,28
+Harold Bell Wright Estates,AMERIND,2010,9
+Harold Bell Wright Estates,ASIAN,2010,7
+Harold Bell Wright Estates,PACIFIC,2010,1
+Harold Bell Wright Estates,OTHRACE,2010,40
+Harold Bell Wright Estates,RACE2UP,2010,17
+Harold Bell Wright Estates,HISPPOP,2010,156
+Harold Bell Wright Estates,MINORITY,2010,205
+Harold Bell Wright Estates,DIVINDX,2010,47.1
+Harold Bell Wright Estates,HISPWHT,2019,149
+Harold Bell Wright Estates,HISPBLK,2019,7
+Harold Bell Wright Estates,HISPAI,2019,7
+Harold Bell Wright Estates,HISPASN,2019,0
+Harold Bell Wright Estates,HISPPI,2019,0
+Harold Bell Wright Estates,HISPOTH,2019,59
+Harold Bell Wright Estates,HISPMLT,2019,7
+Harold Bell Wright Estates,HWHITE,2010,102
+Harold Bell Wright Estates,HBLACK,2010,5
+Harold Bell Wright Estates,HAMERIND,2010,5
+Harold Bell Wright Estates,HASIAN,2010,0
+Harold Bell Wright Estates,HPACIFIC,2010,0
+Harold Bell Wright Estates,HOTHRACE,2010,39
+Harold Bell Wright Estates,HRACE2UP,2010,5
+Harold Bell Wright Estates,HRACEBAS,2010,156
+Harold Bell Wright Estates,H1RACE,2010,151
+Harold Bell Wright Estates,HADRBASE,2010,106
+Harold Bell Wright Estates,HAD1RACE,2010,104
+Harold Bell Wright Estates,U18RBASE,2010,114
+Harold Bell Wright Estates,NONHISP,2019,750
+Carriage Park,WHITE,2019,5512
+Carriage Park,BLACK,2019,530
+Carriage Park,AMERIND,2019,81
+Carriage Park,ASIAN,2019,208
+Carriage Park,PACIFIC,2019,25
+Carriage Park,OTHRACE,2019,572
+Carriage Park,RACE2UP,2019,334
+Carriage Park,HISPPOP,2019,1838
+Carriage Park,MINORITY,2019,2812
+Carriage Park,WHITE,2010,5545
+Carriage Park,BLACK,2010,447
+Carriage Park,AMERIND,2010,69
+Carriage Park,ASIAN,2010,159
+Carriage Park,PACIFIC,2010,21
+Carriage Park,OTHRACE,2010,441
+Carriage Park,RACE2UP,2010,271
+Carriage Park,HISPPOP,2010,1452
+Carriage Park,MINORITY,2010,2256
+Carriage Park,DIVINDX,2010,57.1
+Carriage Park,HISPWHT,2019,1062
+Carriage Park,HISPBLK,2019,43
+Carriage Park,HISPAI,2019,21
+Carriage Park,HISPASN,2019,9
+Carriage Park,HISPPI,2019,0
+Carriage Park,HISPOTH,2019,563
+Carriage Park,HISPMLT,2019,140
+Carriage Park,HWHITE,2010,848
+Carriage Park,HBLACK,2010,34
+Carriage Park,HAMERIND,2010,17
+Carriage Park,HASIAN,2010,8
+Carriage Park,HPACIFIC,2010,0
+Carriage Park,HOTHRACE,2010,432
+Carriage Park,HRACE2UP,2010,113
+Carriage Park,HRACEBAS,2010,1452
+Carriage Park,H1RACE,2010,1339
+Carriage Park,HADRBASE,2010,1015
+Carriage Park,HAD1RACE,2010,953
+Carriage Park,U18RBASE,2010,1255
+Carriage Park,NONHISP,2019,5424
+Copper Vista,WHITE,2019,1246
+Copper Vista,BLACK,2019,26
+Copper Vista,AMERIND,2019,100
+Copper Vista,ASIAN,2019,5
+Copper Vista,PACIFIC,2019,0
+Copper Vista,OTHRACE,2019,937
+Copper Vista,RACE2UP,2019,86
+Copper Vista,HISPPOP,2019,2170
+Copper Vista,MINORITY,2019,2263
+Copper Vista,WHITE,2010,1244
+Copper Vista,BLACK,2010,27
+Copper Vista,AMERIND,2010,99
+Copper Vista,ASIAN,2010,5
+Copper Vista,PACIFIC,2010,0
+Copper Vista,OTHRACE,2010,874
+Copper Vista,RACE2UP,2010,84
+Copper Vista,HISPPOP,2010,2066
+Copper Vista,MINORITY,2010,2160
+Copper Vista,DIVINDX,2010,77.2
+Copper Vista,HISPWHT,2019,1108
+Copper Vista,HISPBLK,2019,9
+Copper Vista,HISPAI,2019,39
+Copper Vista,HISPASN,2019,2
+Copper Vista,HISPPI,2019,0
+Copper Vista,HISPOTH,2019,936
+Copper Vista,HISPMLT,2019,76
+Copper Vista,HWHITE,2010,1071
+Copper Vista,HBLACK,2010,8
+Copper Vista,HAMERIND,2010,38
+Copper Vista,HASIAN,2010,2
+Copper Vista,HPACIFIC,2010,0
+Copper Vista,HOTHRACE,2010,873
+Copper Vista,HRACE2UP,2010,74
+Copper Vista,HRACEBAS,2010,2066
+Copper Vista,H1RACE,2010,1991
+Copper Vista,HADRBASE,2010,1242
+Copper Vista,HAD1RACE,2010,1194
+Copper Vista,U18RBASE,2010,888
+Copper Vista,NONHISP,2019,231
+West Lamar City Acres,WHITE,2019,259
+West Lamar City Acres,BLACK,2019,3
+West Lamar City Acres,AMERIND,2019,19
+West Lamar City Acres,ASIAN,2019,0
+West Lamar City Acres,PACIFIC,2019,0
+West Lamar City Acres,OTHRACE,2019,81
+West Lamar City Acres,RACE2UP,2019,16
+West Lamar City Acres,HISPPOP,2019,340
+West Lamar City Acres,MINORITY,2019,358
+West Lamar City Acres,WHITE,2010,272
+West Lamar City Acres,BLACK,2010,3
+West Lamar City Acres,AMERIND,2010,20
+West Lamar City Acres,ASIAN,2010,0
+West Lamar City Acres,PACIFIC,2010,0
+West Lamar City Acres,OTHRACE,2010,80
+West Lamar City Acres,RACE2UP,2010,17
+West Lamar City Acres,HISPPOP,2010,345
+West Lamar City Acres,MINORITY,2010,364
+West Lamar City Acres,DIVINDX,2010,61.8
+West Lamar City Acres,HISPWHT,2019,239
+West Lamar City Acres,HISPBLK,2019,2
+West Lamar City Acres,HISPAI,2019,6
+West Lamar City Acres,HISPASN,2019,0
+West Lamar City Acres,HISPPI,2019,0
+West Lamar City Acres,HISPOTH,2019,81
+West Lamar City Acres,HISPMLT,2019,13
+West Lamar City Acres,HWHITE,2010,244
+West Lamar City Acres,HBLACK,2010,2
+West Lamar City Acres,HAMERIND,2010,6
+West Lamar City Acres,HASIAN,2010,0
+West Lamar City Acres,HPACIFIC,2010,0
+West Lamar City Acres,HOTHRACE,2010,80
+West Lamar City Acres,HRACE2UP,2010,13
+West Lamar City Acres,HRACEBAS,2010,345
+West Lamar City Acres,H1RACE,2010,332
+West Lamar City Acres,HADRBASE,2010,258
+West Lamar City Acres,HAD1RACE,2010,249
+West Lamar City Acres,U18RBASE,2010,93
+West Lamar City Acres,NONHISP,2019,39
+Loma Verde,WHITE,2019,371
+Loma Verde,BLACK,2019,19
+Loma Verde,AMERIND,2019,6
+Loma Verde,ASIAN,2019,20
+Loma Verde,PACIFIC,2019,0
+Loma Verde,OTHRACE,2019,49
+Loma Verde,RACE2UP,2019,23
+Loma Verde,HISPPOP,2019,139
+Loma Verde,MINORITY,2019,194
+Loma Verde,WHITE,2010,398
+Loma Verde,BLACK,2010,18
+Loma Verde,AMERIND,2010,6
+Loma Verde,ASIAN,2010,17
+Loma Verde,PACIFIC,2010,0
+Loma Verde,OTHRACE,2010,41
+Loma Verde,RACE2UP,2010,21
+Loma Verde,HISPPOP,2010,119
+Loma Verde,MINORITY,2010,168
+Loma Verde,DIVINDX,2010,59.5
+Loma Verde,HISPWHT,2019,77
+Loma Verde,HISPBLK,2019,1
+Loma Verde,HISPAI,2019,3
+Loma Verde,HISPASN,2019,0
+Loma Verde,HISPPI,2019,0
+Loma Verde,HISPOTH,2019,49
+Loma Verde,HISPMLT,2019,9
+Loma Verde,HWHITE,2010,66
+Loma Verde,HBLACK,2010,1
+Loma Verde,HAMERIND,2010,3
+Loma Verde,HASIAN,2010,0
+Loma Verde,HPACIFIC,2010,0
+Loma Verde,HOTHRACE,2010,41
+Loma Verde,HRACE2UP,2010,8
+Loma Verde,HRACEBAS,2010,119
+Loma Verde,H1RACE,2010,111
+Loma Verde,HADRBASE,2010,80
+Loma Verde,HAD1RACE,2010,77
+Loma Verde,U18RBASE,2010,94
+Loma Verde,NONHISP,2019,349
+Downtown,WHITE,2019,110
+Downtown,BLACK,2019,7
+Downtown,AMERIND,2019,3
+Downtown,ASIAN,2019,6
+Downtown,PACIFIC,2019,0
+Downtown,OTHRACE,2019,15
+Downtown,RACE2UP,2019,10
+Downtown,HISPPOP,2019,47
+Downtown,MINORITY,2019,67
+Downtown,WHITE,2010,94
+Downtown,BLACK,2010,5
+Downtown,AMERIND,2010,2
+Downtown,ASIAN,2010,4
+Downtown,PACIFIC,2010,0
+Downtown,OTHRACE,2010,10
+Downtown,RACE2UP,2010,7
+Downtown,HISPPOP,2010,32
+Downtown,MINORITY,2010,45
+Downtown,DIVINDX,2010,63.4
+Downtown,HISPWHT,2019,25
+Downtown,HISPBLK,2019,1
+Downtown,HISPAI,2019,1
+Downtown,HISPASN,2019,0
+Downtown,HISPPI,2019,0
+Downtown,HISPOTH,2019,15
+Downtown,HISPMLT,2019,5
+Downtown,HWHITE,2010,17
+Downtown,HBLACK,2010,1
+Downtown,HAMERIND,2010,1
+Downtown,HASIAN,2010,0
+Downtown,HPACIFIC,2010,0
+Downtown,HOTHRACE,2010,10
+Downtown,HRACE2UP,2010,3
+Downtown,HRACEBAS,2010,32
+Downtown,H1RACE,2010,28
+Downtown,HADRBASE,2010,29
+Downtown,HAD1RACE,2010,27
+Downtown,U18RBASE,2010,5
+Downtown,NONHISP,2019,104
+Barrio Santa Cruz,WHITE,2019,118
+Barrio Santa Cruz,BLACK,2019,12
+Barrio Santa Cruz,AMERIND,2019,14
+Barrio Santa Cruz,ASIAN,2019,4
+Barrio Santa Cruz,PACIFIC,2019,0
+Barrio Santa Cruz,OTHRACE,2019,57
+Barrio Santa Cruz,RACE2UP,2019,9
+Barrio Santa Cruz,HISPPOP,2019,146
+Barrio Santa Cruz,MINORITY,2019,169
+Barrio Santa Cruz,WHITE,2010,116
+Barrio Santa Cruz,BLACK,2010,11
+Barrio Santa Cruz,AMERIND,2010,13
+Barrio Santa Cruz,ASIAN,2010,4
+Barrio Santa Cruz,PACIFIC,2010,0
+Barrio Santa Cruz,OTHRACE,2010,49
+Barrio Santa Cruz,RACE2UP,2010,8
+Barrio Santa Cruz,HISPPOP,2010,128
+Barrio Santa Cruz,MINORITY,2010,149
+Barrio Santa Cruz,DIVINDX,2010,81.7
+Barrio Santa Cruz,HISPWHT,2019,73
+Barrio Santa Cruz,HISPBLK,2019,1
+Barrio Santa Cruz,HISPAI,2019,7
+Barrio Santa Cruz,HISPASN,2019,1
+Barrio Santa Cruz,HISPPI,2019,0
+Barrio Santa Cruz,HISPOTH,2019,57
+Barrio Santa Cruz,HISPMLT,2019,7
+Barrio Santa Cruz,HWHITE,2010,64
+Barrio Santa Cruz,HBLACK,2010,1
+Barrio Santa Cruz,HAMERIND,2010,6
+Barrio Santa Cruz,HASIAN,2010,1
+Barrio Santa Cruz,HPACIFIC,2010,0
+Barrio Santa Cruz,HOTHRACE,2010,49
+Barrio Santa Cruz,HRACE2UP,2010,6
+Barrio Santa Cruz,HRACEBAS,2010,127
+Barrio Santa Cruz,H1RACE,2010,122
+Barrio Santa Cruz,HADRBASE,2010,98
+Barrio Santa Cruz,HAD1RACE,2010,94
+Barrio Santa Cruz,U18RBASE,2010,34
+Barrio Santa Cruz,NONHISP,2019,68
+Bonanza,WHITE,2019,4108
+Bonanza,BLACK,2019,275
+Bonanza,AMERIND,2019,44
+Bonanza,ASIAN,2019,180
+Bonanza,PACIFIC,2019,11
+Bonanza,OTHRACE,2019,299
+Bonanza,RACE2UP,2019,206
+Bonanza,HISPPOP,2019,964
+Bonanza,MINORITY,2019,1577
+Bonanza,WHITE,2010,4219
+Bonanza,BLACK,2010,235
+Bonanza,AMERIND,2010,38
+Bonanza,ASIAN,2010,141
+Bonanza,PACIFIC,2010,10
+Bonanza,OTHRACE,2010,236
+Bonanza,RACE2UP,2010,169
+Bonanza,HISPPOP,2010,775
+Bonanza,MINORITY,2010,1285
+Bonanza,DIVINDX,2010,48.1
+Bonanza,HISPWHT,2019,562
+Bonanza,HISPBLK,2019,18
+Bonanza,HISPAI,2019,11
+Bonanza,HISPASN,2019,7
+Bonanza,HISPPI,2019,0
+Bonanza,HISPOTH,2019,293
+Bonanza,HISPMLT,2019,73
+Bonanza,HWHITE,2010,456
+Bonanza,HBLACK,2010,14
+Bonanza,HAMERIND,2010,9
+Bonanza,HASIAN,2010,6
+Bonanza,HPACIFIC,2010,0
+Bonanza,HOTHRACE,2010,230
+Bonanza,HRACE2UP,2010,60
+Bonanza,HRACEBAS,2010,775
+Bonanza,H1RACE,2010,715
+Bonanza,HADRBASE,2010,538
+Bonanza,HAD1RACE,2010,513
+Bonanza,U18RBASE,2010,984
+Bonanza,NONHISP,2019,4159
